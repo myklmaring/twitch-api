@@ -1,1 +1,1 @@
-# twitch-api
+# twitchbot
