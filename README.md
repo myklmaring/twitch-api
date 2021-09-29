@@ -8,4 +8,3 @@
 - twitch chat log collection
 - twitch chat log processing
 - markov model sentence generation bot
-- 
