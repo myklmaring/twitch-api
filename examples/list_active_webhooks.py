@@ -8,7 +8,6 @@
 #      Find alternate API requests at https://dev.twitch.tv/docs/api/reference        #
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 
-
 import json
 import requests
 

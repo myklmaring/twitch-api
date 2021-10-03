@@ -32,6 +32,7 @@ class IRC:
             # Message Tags to several commands
             self.irc.send(bytes('CAP REQ ' + ':twitch.tv/tags' + '\r\n', 'UTF-8'))
 
+
     def channel_leave(self, channel):
         self.irc.send(bytes('PART ' + channel + '\r\n', 'UTF-8'))
 

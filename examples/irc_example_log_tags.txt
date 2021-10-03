@@ -1,0 +1,596 @@
+:tmi.twitch.tv 001 pyramid_spammer69 :Welcome, GLHF!
+:tmi.twitch.tv 002 pyramid_spammer69 :Your host is tmi.twitch.tv
+:tmi.twitch.tv 003 pyramid_spammer69 :This server is rather new
+:tmi.twitch.tv 004 pyramid_spammer69 :-
+:tmi.twitch.tv 375 pyramid_spammer69 :-
+:tmi.twitch.tv 372 pyramid_spammer69 :You are in a maze of twisty passages, all alike.
+:tmi.twitch.tv 376 pyramid_spammer69 :>
+
+:pyramid_spammer69!pyramid_spammer69@pyramid_spammer69.tmi.twitch.tv JOIN #qojqva
+:tmi.twitch.tv CAP * ACK :twitch.tv/tags
+:pyramid_spammer69.tmi.twitch.tv 353 pyramid_spammer69 = #qojqva :pyramid_spammer69
+:pyramid_spammer69.tmi.twitch.tv 366 pyramid_spammer69 #qojqva :End of /NAMES list
+
+@badge-info=;badges=;color=;display-name=ihnomuhn1t;emotes=;flags=;id=0642425d-d1b9-4fe7-ad84-c22ab7c56455;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292624677;turbo=0;user-id=723164528;user-type= :ihnomuhn1t!ihnomuhn1t@ihnomuhn1t.tmi.twitch.tv PRIVMSG #qojqva :!np
+
+@badge-info=;badges=moderator/1;color=#FF69B4;display-name=9kmmrbot;emotes=;flags=;id=9a39dc06-cf68-41b9-b52c-d6423ca528ed;mod=1;room-id=49440419;subscriber=0;tmi-sent-ts=1633292625250;turbo=0;user-id=116840182;user-type=mod :9kmmrbot!9kmmrbot@9kmmrbot.tmi.twitch.tv PRIVMSG #qojqva :All Pick [8868 avg MMR]: qojqva (Tiny), Dukalis (Spirit Breaker)
+
+@badge-info=;badges=premium/1;client-nonce=4a7bc9f1f2a1c7c0ebb1d20ea9fb17e0;color=#FF0000;display-name=Omn1m0n;emotes=;flags=6-10:P.3;id=de801d29-324f-4191-99b5-24218a1f7a30;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292626330;turbo=0;user-id=67647033;user-type= :omn1m0n!omn1m0n@omn1m0n.tmi.twitch.tv PRIVMSG #qojqva :small dicks KEKW
+
+@badge-info=;badges=;color=#9ACD32;display-name=Vaebae_1;emotes=;flags=;id=5516dd11-9641-4b34-bec3-be61e3bc1953;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292628330;turbo=0;user-id=98777931;user-type= :vaebae_1!vaebae_1@vaebae_1.tmi.twitch.tv PRIVMSG #qojqva :Qojqva understanding BSJs complaints about tiny KEKW
+
+@badge-info=;badges=;client-nonce=eb35381b10a3208c4c83b9786f5dd56f;color=#00FF7F;display-name=KoopaTroopa128;emotes=;flags=;id=2c936559-1b64-48e1-afd6-4dbf4d412295;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292640999;turbo=0;user-id=197809329;user-type= :koopatroopa128!koopatroopa128@koopatroopa128.tmi.twitch.tv PRIVMSG #qojqva :pepeW
+
+@badge-info=;badges=;client-nonce=9852ef93df3f1d5fa399f5237f917554;color=#1E90FF;display-name=CosMazZz;emotes=;flags=;id=45a9ca6f-82e2-4de9-9e9f-a17ab1906497;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292642558;turbo=0;user-id=88709526;user-type= :cosmazzz!cosmazzz@cosmazzz.tmi.twitch.tv PRIVMSG #qojqva :TINY GIGACHAD
+
+@badge-info=;badges=;client-nonce=1860cc46648d3b723cafb35077aaaf03;color=#FF0000;display-name=erfansh12;emotes=52:11-15;flags=;id=67f15ed8-2072-4cd2-8c0d-56f5bfa11c03;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292660149;turbo=0;user-id=139752559;user-type= :erfansh12!erfansh12@erfansh12.tmi.twitch.tv PRIVMSG #qojqva :TINY SMASH SMOrc
+
+@badge-info=;badges=;client-nonce=925c6fb279f64f3c044d4e1ae5ca60bc;color=#5F9EA0;display-name=oldeuboi85;emote-only=1;emotes=425618:0-2;flags=;id=f2633738-2368-44a6-a5b1-22a9d0509762;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292660581;turbo=0;user-id=432572134;user-type= :oldeuboi85!oldeuboi85@oldeuboi85.tmi.twitch.tv PRIVMSG #qojqva :LUL
+
+@badge-info=;badges=premium/1;client-nonce=413c9ca316723d7abd40c5f15704cd90;color=#5A4030;display-name=TheGreatPeru;emotes=;flags=;id=c3f4f5d3-a477-4a44-8d37-3e203576e603;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292662318;turbo=0;user-id=84982078;user-type= :thegreatperu!thegreatperu@thegreatperu.tmi.twitch.tv PRIVMSG #qojqva :catJAM  ratJAM  catJAM  ratJAM  catJAM  ratJAM
+
+@badge-info=;badges=partner/1;color=#7C7CE1;display-name=Nightbot;emotes=;flags=;id=3c8a9085-a299-4f97-8e98-e2acbb9da587;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292662524;turbo=0;user-id=19264788;user-type= :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #qojqva :@TheGreatPeru -> You're mistaken. [stop spamming words/phrases]
+
+@badge-info=;badges=premium/1;client-nonce=da2e213a8bfc8c649c9e70a3372bf6a3;color=#008000;display-name=resusmagician;emotes=;flags=;id=cb4fbf40-c2df-462f-b7a5-e5fda7175a5e;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292664343;turbo=0;user-id=488724502;user-type= :resusmagician!resusmagician@resusmagician.tmi.twitch.tv PRIVMSG #qojqva :some here really enjoys the game right now
+
+@badge-info=;badges=premium/1;client-nonce=9837e38785d164e65a2fbc69cc780d52;color=#5A4030;display-name=TheGreatPeru;emotes=;flags=3-6:P.6;id=b7653ae7-cb3e-4c09-92dc-8796ef8ee1e5;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292666380;turbo=0;user-id=84982078;user-type= :thegreatperu!thegreatperu@thegreatperu.tmi.twitch.tv PRIVMSG #qojqva :OH FUCK  catJAM  ratJAM
+
+@badge-info=;badges=glitchcon2020/1;client-nonce=0b4682b9583a7c76138ab3b2aad81737;color=#8A2BE2;display-name=b0l0d1a;emotes=;flags=;id=ba0a5626-f4f1-40a5-bf62-14a0b6c8b290;mod=0;reply-parent-display-name=ManiAKAVampire;reply-parent-msg-body=1400\sgold\sfree\sbattlefury;reply-parent-msg-id=e873858f-441c-44ac-a9de-07b3c3a92bb6;reply-parent-user-id=148489682;reply-parent-user-login=maniakavampire;room-id=49440419;subscriber=0;tmi-sent-ts=1633292666966;turbo=0;user-id=28888190;user-type= :b0l0d1a!b0l0d1a@b0l0d1a.tmi.twitch.tv PRIVMSG #qojqva :@ManiAKAVampire even better
+
+@badge-info=;badges=;client-nonce=55ee462f9b71f6bb88dde52921f55ed9;color=#DAA520;display-name=TheMuffinsPie;emotes=;flags=;id=fbf0c0e0-3c1c-426b-94a5-a7d666baea00;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292669953;turbo=0;user-id=31869149;user-type= :themuffinspie!themuffinspie@themuffinspie.tmi.twitch.tv PRIVMSG #qojqva :u might be a bit too willing to throw the tree with shard
+
+@badge-info=;badges=;client-nonce=82f482f55a443a2de1af349be26c157e;color=#1E90FF;display-name=CosMazZz;emotes=;flags=;id=4d6e5073-3d96-4324-a1d8-8818f69bf306;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292670648;turbo=0;user-id=88709526;user-type= :cosmazzz!cosmazzz@cosmazzz.tmi.twitch.tv PRIVMSG #qojqva :apeJam
+
+@badge-info=;badges=glhf-pledge/1;client-nonce=679fd1be69a517041c38b017e8bae6c5;color=;display-name=rossgambit_enthusiast;emotes=;flags=;id=345ffc6b-ee2c-43a5-99bb-3135b72335fa;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292671918;turbo=0;user-id=231476486;user-type= :rossgambit_enthusiast!rossgambit_enthusiast@rossgambit_enthusiast.tmi.twitch.tv PRIVMSG #qojqva :blink
+
+@badge-info=;badges=;client-nonce=36a0638d242dccbf2b1aa39d78901418;color=#FF0000;display-name=overlycomplecated;emotes=;flags=;id=73f9a22a-7957-4bb0-8279-2f8dca03cd79;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292672341;turbo=0;user-id=443644595;user-type= :overlycomplecated!overlycomplecated@overlycomplecated.tmi.twitch.tv PRIVMSG #qojqva :AC
+
+@badge-info=subscriber/1;badges=subscriber/0;client-nonce=68a276b15b4d86ea64fa08382452b22d;color=#0000FF;display-name=caine1232;emotes=;flags=;id=cb6dc628-9ec1-4a3a-9a9e-db74b9d8a429;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292673308;turbo=0;user-id=75906043;user-type= :caine1232!caine1232@caine1232.tmi.twitch.tv PRIVMSG #qojqva :moonshart
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=7af8c79467d63ba822dce7fbb6f87068;color=#0000FF;display-name=Sh4nx;emotes=;flags=;id=8909bcfe-62b7-4631-91f3-cc6652a81258;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292673843;turbo=0;user-id=63211078;user-type= :sh4nx!sh4nx@sh4nx.tmi.twitch.tv PRIVMSG #qojqva :moonshard BASED
+
+@badge-info=;badges=glitchcon2020/1;client-nonce=acc5e9278aad56babb956f84e683e0fd;color=#FF0000;display-name=javadscript;emotes=;flags=;id=2dc23783-97ca-469e-98c9-be82c024275b;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292674843;turbo=0;user-id=450983950;user-type= :javadscript!javadscript@javadscript.tmi.twitch.tv PRIVMSG #qojqva :ac
+
+@badge-info=;badges=;color=;display-name=bursting74;emotes=;flags=;id=4d933726-aabe-40ff-92bf-2ce2bb80095f;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292675496;turbo=0;user-id=188249442;user-type= :bursting74!bursting74@bursting74.tmi.twitch.tv PRIVMSG #qojqva :sataniv
+
+@badge-info=;badges=;client-nonce=9d00abcdd286812330503f8b203702d7;color=#1E90FF;display-name=ManiAKAVampire;emotes=;flags=;id=4d1a8907-f01a-4836-8ca9-5eed1e16bae7;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292676276;turbo=0;user-id=148489682;user-type= :maniakavampire!maniakavampire@maniakavampire.tmi.twitch.tv PRIVMSG #qojqva :moonshard satanic
+
+@badge-info=;badges=;client-nonce=481541994cc6df422f7146b6690e94a7;color=;display-name=chintinntan1391;emotes=;flags=;id=43b8896b-1cb7-4d11-b56e-64e301d26c47;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292677263;turbo=0;user-id=248258508;user-type= :chintinntan1391!chintinntan1391@chintinntan1391.tmi.twitch.tv PRIVMSG #qojqva :blink
+
+@badge-info=;badges=;client-nonce=f2cb238435811666c07e7c14c20ec78a;color=;display-name=farzywarzy;emotes=;flags=;id=f8f7f620-d1d1-456d-b941-a2d5be14ed69;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292677581;turbo=0;user-id=32184063;user-type= :farzywarzy!farzywarzy@farzywarzy.tmi.twitch.tv PRIVMSG #qojqva :rapier GIGACHAD
+
+@badge-info=;badges=;client-nonce=db09f349b133f2ed2497855e38db5d88;color=;display-name=Dongboyz;emotes=;flags=;id=f11ecb45-67cc-4e9c-87e0-c60fa4347384;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292677688;turbo=0;user-id=80212410;user-type= :dongboyz!dongboyz@dongboyz.tmi.twitch.tv PRIVMSG #qojqva :MOONSHART
+
+@badge-info=;badges=premium/1;client-nonce=c94a601bf212781acf7333f4e09e5016;color=#008000;display-name=resusmagician;emotes=;flags=;id=41628c13-cd3e-4252-8f06-cfb4456c883a;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292677795;turbo=0;user-id=488724502;user-type= :resusmagician!resusmagician@resusmagician.tmi.twitch.tv PRIVMSG #qojqva :MOOOON
+
+@badge-info=;badges=premium/1;client-nonce=0fcbb23e988e519097a4db5b7f153cda;color=#5A4030;display-name=TheGreatPeru;emotes=;flags=;id=09326bdb-c5a9-4df1-8e3f-316788cbc27c;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292677893;turbo=0;user-id=84982078;user-type= :thegreatperu!thegreatperu@thegreatperu.tmi.twitch.tv PRIVMSG #qojqva :BANGER  catJAM  ratJAM  EZ
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=bee55ed8028fafb81940b9fd4732dc49;color=;display-name=Apricobama;emotes=;flags=;id=c8944bcc-4476-4876-a864-bfd4ae1193bb;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292678240;turbo=0;user-id=87531242;user-type= :apricobama!apricobama@apricobama.tmi.twitch.tv PRIVMSG #qojqva :MOON SHARD GIGACHAD
+
+@badge-info=;badges=glhf-pledge/1;client-nonce=d8792dff68909c17ba8d92f169e6044a;color=#00FF7F;display-name=TheRanxx;emotes=;flags=;id=1388b330-03a6-4546-ae9b-4bea82e55d80;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292678513;turbo=0;user-id=118185506;user-type= :theranxx!theranxx@theranxx.tmi.twitch.tv PRIVMSG #qojqva :shard
+
+@badge-info=;badges=;client-nonce=16d3916d833968920343122e2dd2ad92;color=#FF0000;display-name=erfansh12;emotes=;flags=;id=1312fa25-dbf6-4b59-b639-e2651b23aa61;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292678633;turbo=0;user-id=139752559;user-type= :erfansh12!erfansh12@erfansh12.tmi.twitch.tv PRIVMSG #qojqva :Moonshard EZ
+
+@badge-info=;badges=;client-nonce=0c4c53ea40d06ac7b4f2f387012ff41d;color=;display-name=marisba;emotes=;flags=;id=9ebea71e-745d-45f7-a429-687adb50b955;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292678705;turbo=0;user-id=169251500;user-type= :marisba!marisba@marisba.tmi.twitch.tv PRIVMSG #qojqva :daedalus
+
+@badge-info=;badges=glitchcon2020/1;client-nonce=61ccbdf60d1ef1d4b52e3aac90985100;color=#FF0000;display-name=javadscript;emotes=;flags=;id=45d12cd1-f193-46a6-b601-e9b275d2519c;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292678831;turbo=0;user-id=450983950;user-type= :javadscript!javadscript@javadscript.tmi.twitch.tv PRIVMSG #qojqva :AC BASED
+
+@badge-info=;badges=;client-nonce=88df90b664acadab0ad1b73722b1e090;color=#DAA520;display-name=Lanler_;emotes=;flags=;id=5dbcf2ea-5cbf-433c-9e3b-f84b0ebf153c;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292678965;turbo=0;user-id=80439007;user-type= :lanler_!lanler_@lanler_.tmi.twitch.tv PRIVMSG #qojqva :imagine if u changed mk
+
+@badge-info=;badges=;client-nonce=53f19a47172e79636677664774cb9479;color=#1E90FF;display-name=compact__cat;emotes=;flags=;id=088f30ab-dc51-49c8-b500-5efdb302060b;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292679016;turbo=0;user-id=497149655;user-type= :compact__cat!compact__cat@compact__cat.tmi.twitch.tv PRIVMSG #qojqva :moonshard
+
+@badge-info=;badges=;client-nonce=667d58c10572a2c132cdc66c0d35d4bb;color=;display-name=Fredoq;emotes=;flags=;id=b5ff1b0f-fed2-4421-b9be-03fcafc72465;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292680071;turbo=0;user-id=20665984;user-type= :fredoq!fredoq@fredoq.tmi.twitch.tv PRIVMSG #qojqva :MOON
+
+@badge-info=;badges=premium/1;client-nonce=4923bb3f8c7abb044b5359902bc47e47;color=#00FF7F;display-name=jerfewell;emotes=;flags=;id=ab644963-3ce3-42a9-a0fa-c573fb9744ce;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292680343;turbo=0;user-id=115763304;user-type= :jerfewell!jerfewell@jerfewell.tmi.twitch.tv PRIVMSG #qojqva :satanic
+
+@badge-info=;badges=premium/1;client-nonce=19e8e77e71d4250c2493374d17087b36;color=#FF0000;display-name=Omn1m0n;emotes=;flags=;id=2ab00f67-7ef9-4d87-9673-77ae82a321f3;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292680616;turbo=0;user-id=67647033;user-type= :omn1m0n!omn1m0n@omn1m0n.tmi.twitch.tv PRIVMSG #qojqva :swiftblink BASED
+
+@badge-info=;badges=;client-nonce=1a96077dc20e6835cfb6e4d358331105;color=#8A2BE2;display-name=awmsawmsawms;emotes=;flags=;id=e99f0ad4-01f9-4b60-b8df-edb59ece57fb;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292681075;turbo=0;user-id=74406807;user-type= :awmsawmsawms!awmsawmsawms@awmsawmsawms.tmi.twitch.tv PRIVMSG #qojqva :satanic
+
+@badge-info=;badges=glhf-pledge/1;client-nonce=a477c62f44cbe408fed730058274a6c4;color=;display-name=rossgambit_enthusiast;emotes=;flags=;id=65fe1977-a9ef-4997-9b0b-ece562c9034f;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292681288;turbo=0;user-id=231476486;user-type= :rossgambit_enthusiast!rossgambit_enthusiast@rossgambit_enthusiast.tmi.twitch.tv PRIVMSG #qojqva :blink or satanic
+
+@badge-info=;badges=;client-nonce=a90cdbf505c1bd7359220b7e0d645b96;color=;display-name=marisba;emotes=;flags=;id=4d0f0458-6170-4b3b-92a5-8badba4e27bf;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292681515;turbo=0;user-id=169251500;user-type= :marisba!marisba@marisba.tmi.twitch.tv PRIVMSG #qojqva :DAEDALUS
+
+@badge-info=;badges=;client-nonce=3b62f50b3d79e9f34f128a15e78aff1d;color=#00FF7F;display-name=KoopaTroopa128;emotes=;flags=;id=3b0cf931-352d-4811-aea8-f1c0a56d6a62;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292681766;turbo=0;user-id=197809329;user-type= :koopatroopa128!koopatroopa128@koopatroopa128.tmi.twitch.tv PRIVMSG #qojqva :pepeW
+
+@badge-info=;badges=;client-nonce=36dccff2edd677e0778d591498d28520;color=#DAA520;display-name=KattenBertil;emotes=;flags=;id=b2f7b0cd-08f1-4665-9abf-ef80b8a25e99;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292682403;turbo=0;user-id=61366833;user-type= :kattenbertil!kattenbertil@kattenbertil.tmi.twitch.tv PRIVMSG #qojqva :moonshard
+
+@badge-info=;badges=;client-nonce=c449a01e41f55366794b8f530f8587b7;color=#8A2BE2;display-name=Lv100Crobat;emotes=;flags=;id=3a4470dc-b523-4406-a4d7-0a0f0e5f721a;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292683868;turbo=0;user-id=105031881;user-type= :lv100crobat!lv100crobat@lv100crobat.tmi.twitch.tv PRIVMSG #qojqva :ens
+
+@badge-info=;badges=premium/1;client-nonce=8ff5f7a4edc6b0fa090a7d0cb4dbae07;color=#1FAD26;display-name=ABOY2013;emotes=;flags=;id=89bffc9f-4f11-456b-8f43-0bd3696cd92b;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292683956;turbo=0;user-id=47413689;user-type= :aboy2013!aboy2013@aboy2013.tmi.twitch.tv PRIVMSG #qojqva :swift
+
+@badge-info=;badges=;color=;display-name=justwannabefree;emotes=;flags=;id=cf725299-df94-4049-ad5c-a5cfec339783;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292684262;turbo=0;user-id=536293474;user-type= :justwannabefree!justwannabefree@justwannabefree.tmi.twitch.tv PRIVMSG #qojqva :moonshard
+
+@badge-info=;badges=glitchcon2020/1;client-nonce=9fcd99b31172576d20cfd82f34390093;color=;display-name=DerpinoSilva;emotes=;flags=;id=f7367d0e-20df-4c0a-bb08-393adfd483c1;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292684272;turbo=0;user-id=83087197;user-type= :derpinosilva!derpinosilva@derpinosilva.tmi.twitch.tv PRIVMSG #qojqva :ens
+
+@badge-info=;badges=;client-nonce=be32b043db4692a7b6d420bc9c909655;color=;display-name=Palomazo777;emotes=;flags=;id=73877e96-11da-496a-9540-be05da14e907;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292684320;turbo=0;user-id=86095576;user-type= :palomazo777!palomazo777@palomazo777.tmi.twitch.tv PRIVMSG #qojqva :Madge pepeJAM Madge
+
+@badge-info=;badges=;color=#9ACD32;display-name=Vaebae_1;emotes=;flags=;id=0a2351f8-56dc-4517-9f6a-358ff265e3d9;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292685129;turbo=0;user-id=98777931;user-type= :vaebae_1!vaebae_1@vaebae_1.tmi.twitch.tv PRIVMSG #qojqva :Overwhelming blink imo
+
+@badge-info=;badges=;client-nonce=66078d452d19378219f9943b924ede2a;color=#0000FF;display-name=Drthvdr00;emotes=;flags=;id=744501f6-3514-4c2c-9a9d-e38c81594a67;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292685455;turbo=0;user-id=94649193;user-type= :drthvdr00!drthvdr00@drthvdr00.tmi.twitch.tv PRIVMSG #qojqva :moonshard is gigachad
+
+@badge-info=subscriber/1;badges=subscriber/0;client-nonce=b9e664282f04b2a844b28ff326773937;color=#D2691E;display-name=Taste_sensation;emotes=;flags=;id=8561b49d-a9ab-45c4-b858-d13d0800279c;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292686887;turbo=0;user-id=103894951;user-type= :taste_sensation!taste_sensation@taste_sensation.tmi.twitch.tv PRIVMSG #qojqva :swift blink
+
+@badge-info=;badges=;color=#0000FF;display-name=archieeeeeeeeeeeeee;emotes=;flags=;id=3e4b265e-8f74-4d76-bc0f-d26205d7e1c9;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292687712;turbo=0;user-id=249739227;user-type= :archieeeeeeeeeeeeee!archieeeeeeeeeeeeee@archieeeeeeeeeeeeee.tmi.twitch.tv PRIVMSG #qojqva :ez for ens ens
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=d2746975f4530d56f4d1161adb7c6ff3;color=#0000FF;display-name=Sh4nx;emotes=;flags=;id=613a046d-2a51-4191-a60b-aed322c7860c;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292688218;turbo=0;user-id=63211078;user-type= :sh4nx!sh4nx@sh4nx.tmi.twitch.tv PRIVMSG #qojqva :BASED
+
+@badge-info=;badges=premium/1;client-nonce=4e2d3b01bf7686844fbcf2e7b01b2ef2;color=#FF7F50;display-name=CaptainNiro;emotes=;flags=;id=603e6caa-fe98-4ac9-921a-e014ed9355d7;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292688664;turbo=0;user-id=46868312;user-type= :captainniro!captainniro@captainniro.tmi.twitch.tv PRIVMSG #qojqva :double moonshard GIGACHAD
+
+@badge-info=;badges=;client-nonce=ab4f3139ed5a6643ddfa948b2db2fd28;color=#FF0000;display-name=LEFKA;emotes=;flags=;id=d625cfe5-324f-4553-a30b-5fc5e091593f;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292689061;turbo=0;user-id=102856637;user-type= :lefka!lefka@lefka.tmi.twitch.tv PRIVMSG #qojqva :Blink
+
+@badge-info=;badges=;client-nonce=878d5098e06eb1da87a0cc7300d0526d;color=#0000FF;display-name=WeAreOurDesires;emotes=;flags=;id=2cc9eef3-32eb-4956-bc6c-64cd6e5977bb;mod=0;reply-parent-display-name=WeAreOurDesires;reply-parent-msg-body=btw\sthink\sit\sworks\sif\syou\stoss\stree\sand\sclick\ssilver\sedge(it\sworked\sbefore);reply-parent-msg-id=cc2f1730-219a-43b9-b7c8-33de6df96b5b;reply-parent-user-id=228435304;reply-parent-user-login=weareourdesires;room-id=49440419;subscriber=0;tmi-sent-ts=1633292689231;turbo=0;user-id=228435304;user-type= :weareourdesires!weareourdesires@weareourdesires.tmi.twitch.tv PRIVMSG #qojqva :@WeAreOurDesires its ok to be stupid, but be stupid enough that you cant check
+
+@badge-info=;badges=;client-nonce=c7e8700984cbe89ee06b9cdab671e7cd;color=#00FF7F;display-name=zyoNoob;emotes=;flags=;id=7f89668f-9839-4158-aed8-d068de13df7e;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292689274;turbo=0;user-id=179358747;user-type= :zyonoob!zyonoob@zyonoob.tmi.twitch.tv PRIVMSG #qojqva :switft blink
+
+@badge-info=;badges=;client-nonce=afcc879186f587821f21d7b76b2b3a54;color=#FF0000;display-name=oolc;emotes=;flags=;id=e112618e-feb2-43c4-a0ff-a831aaaa5ecb;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292689742;turbo=0;user-id=134728424;user-type= :oolc!oolc@oolc.tmi.twitch.tv PRIVMSG #qojqva :DAEDALUS
+
+@badge-info=;badges=;color=;display-name=masoudn77;emotes=;flags=;id=1bd4d460-30ba-470c-aa32-f1e3a59a007a;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292689883;turbo=0;user-id=168792418;user-type= :masoudn77!masoudn77@masoudn77.tmi.twitch.tv PRIVMSG #qojqva :swift
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=b8db527cbb0f2b0f690c1026f80835c2;color=;display-name=Apricobama;emotes=;flags=;id=c927fd92-1461-4dd6-9acf-a117c21a057f;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292690057;turbo=0;user-id=87531242;user-type= :apricobama!apricobama@apricobama.tmi.twitch.tv PRIVMSG #qojqva :YEP
+
+@badge-info=;badges=;client-nonce=d4b924fc454275fdd957a20431a2537b;color=;display-name=chinchopazhopa;emotes=;flags=;id=f5f6247f-f83a-4d95-90b0-bb66862668d6;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292690998;turbo=0;user-id=435586136;user-type= :chinchopazhopa!chinchopazhopa@chinchopazhopa.tmi.twitch.tv PRIVMSG #qojqva :mask of mandess GIGACHAD
+
+@badge-info=;badges=premium/1;client-nonce=54b704d094ea2c7d949d4e29bbcb5f99;color=#5326A3;display-name=spaceloutre_;emotes=;flags=;id=56d8e22a-4212-4ad5-8165-babf3f2b9eb7;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292691242;turbo=0;user-id=622645006;user-type= :spaceloutre_!spaceloutre_@spaceloutre_.tmi.twitch.tv PRIVMSG #qojqva :swift blincc
+
+@badge-info=;badges=;client-nonce=f90a3aad0b3eea29933b309789c7a9ed;color=;display-name=Itto_0gam1;emotes=;flags=;id=f82a5f9e-ad82-4db7-a7da-6be8913c2f6c;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292691331;turbo=0;user-id=95176768;user-type= :itto_0gam1!itto_0gam1@itto_0gam1.tmi.twitch.tv PRIVMSG #qojqva :SWIFT
+
+@badge-info=;badges=glhf-pledge/1;client-nonce=8c63af364ba35573c6520ab97f5dd1ac;color=;display-name=BrLilLynx;emotes=;flags=;id=30b0799e-7144-4e1f-ab89-4bc64e86a09c;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292691887;turbo=0;user-id=455728282;user-type= :brlillynx!brlillynx@brlillynx.tmi.twitch.tv PRIVMSG #qojqva :moonshards
+
+@badge-info=;badges=;color=;display-name=sanxchit;emotes=;flags=;id=00ddffd8-0b55-4001-a217-af938974e27d;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292692167;turbo=0;user-id=729174100;user-type= :sanxchit!sanxchit@sanxchit.tmi.twitch.tv PRIVMSG #qojqva :moonshard Chad
+
+@badge-info=subscriber/1;badges=subscriber/0;client-nonce=200171339ebac72b79b7548aa1f40fa9;color=;display-name=tomodachi27;emotes=;flags=;id=d6e22b4b-4aca-40ae-9cef-014ec4cd573b;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292692262;turbo=0;user-id=197959177;user-type= :tomodachi27!tomodachi27@tomodachi27.tmi.twitch.tv PRIVMSG #qojqva :SNY
+
+@badge-info=;badges=;client-nonce=9d48caaa17b578c29b7d5718e10fdd84;color=#B22222;display-name=默默0116;emotes=;flags=;id=c57bfb21-7e00-4768-a869-42cf9d7c983f;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292692333;turbo=0;user-id=216761568;user-type= :polaris_0116!polaris_0116@polaris_0116.tmi.twitch.tv PRIVMSG #qojqva :!mmr
+
+@badge-info=;badges=premium/1;client-nonce=8b6fa646d02dc46f8266af26c36346e5;color=#5A4030;display-name=TheGreatPeru;emotes=;flags=;id=7226ab62-1085-4a77-b45d-4a71af514257;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292693115;turbo=0;user-id=84982078;user-type= :thegreatperu!thegreatperu@thegreatperu.tmi.twitch.tv PRIVMSG #qojqva :catJAM  ratJAM
+
+@badge-info=;badges=premium/1;client-nonce=d49488d0d4966b2e976c94415cdd441c;color=#0000FF;display-name=waveringcomet;emotes=;flags=;id=e4ec5f1a-ef0c-4865-a4e6-fa8c0f35e653;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292693211;turbo=0;user-id=93301474;user-type= :waveringcomet!waveringcomet@waveringcomet.tmi.twitch.tv PRIVMSG #qojqva :ens GIGACHAD
+
+@badge-info=;badges=;color=;display-name=0ldsnake123;emotes=;flags=;id=b43cbbcf-8032-4596-8851-03711c195271;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292693664;turbo=0;user-id=560353151;user-type= :0ldsnake123!0ldsnake123@0ldsnake123.tmi.twitch.tv PRIVMSG #qojqva :Yea Satanic YEP
+
+@badge-info=;badges=;color=;display-name=seanoodles23;emotes=;flags=;id=7628b9c2-b56e-4eb1-a8ee-14d55d53cc75;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292693696;turbo=0;user-id=504120217;user-type= :seanoodles23!seanoodles23@seanoodles23.tmi.twitch.tv PRIVMSG #qojqva :moon shard
+
+@badge-info=;badges=;client-nonce=cf26770f8bda1d96bfb99e5e122c9d86;color=#FF4500;display-name=fuubars;emotes=;flags=;id=b77d6a30-0333-4e90-955c-e3c2b37ebca0;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292694026;turbo=0;user-id=100500310;user-type= :fuubars!fuubars@fuubars.tmi.twitch.tv PRIVMSG #qojqva :Blink Dagger
+
+@badge-info=;badges=;client-nonce=c01a4f1ad0b2ac4133f3718b5f79f644;color=;display-name=dalgacmk;emotes=;flags=;id=9ed3cf64-5db4-4485-8597-778bb135eeb5;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292694299;turbo=0;user-id=159238797;user-type= :dalgacmk!dalgacmk@dalgacmk.tmi.twitch.tv PRIVMSG #qojqva :blink
+
+@badge-info=;badges=;client-nonce=e03a4dd7942b2eb58de8f6e51c7d43a7;color=#0000FF;display-name=Drthvdr00;emotes=;flags=;id=74f31e15-46a9-4476-825f-fac3c9505b51;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292694408;turbo=0;user-id=94649193;user-type= :drthvdr00!drthvdr00@drthvdr00.tmi.twitch.tv PRIVMSG #qojqva :MOONSHARD IS GIGACHAD
+
+@badge-info=;badges=;client-nonce=5470d590d522aef53d41bd79ae8c6ea9;color=#00FF7F;display-name=zyoNoob;emotes=;flags=;id=987ce131-c6b5-4ab3-b15b-76797d0f5ab4;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292695125;turbo=0;user-id=179358747;user-type= :zyonoob!zyonoob@zyonoob.tmi.twitch.tv PRIVMSG #qojqva :swift
+
+@badge-info=;badges=;color=;display-name=deniedwill;emotes=;flags=;id=ddded70d-0256-436d-9bfe-1d0fbe117db8;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292696196;turbo=0;user-id=206291354;user-type= :deniedwill!deniedwill@deniedwill.tmi.twitch.tv PRIVMSG #qojqva :Swift blink
+
+@badge-info=;badges=;client-nonce=609fa28cdc16e75a5ec8004badc828fd;color=#1E90FF;display-name=ManiAKAVampire;emotes=;flags=;id=ba959d87-3013-4f2a-afed-d57caeb8d363;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292697892;turbo=0;user-id=148489682;user-type= :maniakavampire!maniakavampire@maniakavampire.tmi.twitch.tv PRIVMSG #qojqva :average moonshard enjoyers
+
+@badge-info=;badges=premium/1;client-nonce=ca47eb4883f8c5da80cbda7c546d8df8;color=#27A56C;display-name=beatgodmixcoatl;emotes=;flags=;id=65617cd6-e6ef-4a17-84c4-13dbd62ea887;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292699494;turbo=0;user-id=20336025;user-type= :beatgodmixcoatl!beatgodmixcoatl@beatgodmixcoatl.tmi.twitch.tv PRIVMSG #qojqva :swifty
+
+@badge-info=;badges=;client-nonce=e3655a312171eff34204534c4a719a47;color=#B22222;display-name=mrushii;emotes=;flags=;id=1095da83-7861-47a4-a6c0-c0b4ef44fa4a;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292700830;turbo=0;user-id=122077742;user-type= :mrushii!mrushii@mrushii.tmi.twitch.tv PRIVMSG #qojqva :Swift blink = moon shard + blink!
+
+@badge-info=;badges=premium/1;client-nonce=4b7d8de2d4d839cf859f9637a685e127;color=;display-name=JetLifeforreal;emotes=;flags=;id=b3cdb93c-db6d-457a-a60b-b505a03f212c;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292700970;turbo=0;user-id=159769928;user-type= :jetlifeforreal!jetlifeforreal@jetlifeforreal.tmi.twitch.tv PRIVMSG #qojqva :like it matters . game is won
+
+@badge-info=;badges=;color=;display-name=seanoodles23;emotes=;flags=;id=51af9e56-fd7a-4d41-867d-3044db46715f;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292701706;turbo=0;user-id=504120217;user-type= :seanoodles23!seanoodles23@seanoodles23.tmi.twitch.tv PRIVMSG #qojqva :goo brr brr
+
+@badge-info=;badges=;color=;display-name=hawk_6273;emotes=;flags=;id=d6bdcf1d-a271-4a38-a085-fbe5bc47abc6;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292701944;turbo=0;user-id=705395521;user-type= :hawk_6273!hawk_6273@hawk_6273.tmi.twitch.tv PRIVMSG #qojqva :echo slam
+
+@badge-info=;badges=;color=;display-name=tahmures;emotes=;flags=;id=015abfa4-37bc-4c17-8dfc-e1df442d0b64;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292702034;turbo=0;user-id=248094418;user-type= :tahmures!tahmures@tahmures.tmi.twitch.tv PRIVMSG #qojqva :satanic
+
+@badge-info=;badges=;client-nonce=07eb20350521d2edde898c8903750315;color=#FF4500;display-name=yngv4rr;emotes=;flags=;id=51832422-960b-4ae9-afa7-dfd0b41323f5;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292703786;turbo=0;user-id=101776216;user-type= :yngv4rr!yngv4rr@yngv4rr.tmi.twitch.tv PRIVMSG #qojqva :GIGACHAD
+
+@badge-info=;badges=;client-nonce=e271c4ca592636b361bb342a74902f9e;color=#1E90FF;display-name=Axiumz;emotes=;flags=;id=6b594368-d70e-4e50-8fc7-95196ed2bec0;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292704151;turbo=0;user-id=28822437;user-type= :axiumz!axiumz@axiumz.tmi.twitch.tv PRIVMSG #qojqva :AC
+
+@badge-info=;badges=;client-nonce=ade36376596ffc877547c6fe73319bb3;color=;display-name=faresan;emotes=;flags=;id=93723560-c918-4391-9786-d6529bf8e590;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292704285;turbo=0;user-id=156884195;user-type= :faresan!faresan@faresan.tmi.twitch.tv PRIVMSG #qojqva :tp
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=53abf59c82ff3f6e23de13f0a5b03cfa;color=;display-name=Apricobama;emotes=;flags=;id=8701d7e8-227b-4adf-bdb3-3be133235f59;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292704451;turbo=0;user-id=87531242;user-type= :apricobama!apricobama@apricobama.tmi.twitch.tv PRIVMSG #qojqva :MOONSHARD GIGACHAD
+
+@badge-info=;badges=;color=#0000FF;display-name=archieeeeeeeeeeeeee;emotes=;flags=;id=dc74cd60-5e83-4d4e-a66e-4df8bd516d83;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292706030;turbo=0;user-id=249739227;user-type= :archieeeeeeeeeeeeee!archieeeeeeeeeeeeee@archieeeeeeeeeeeeee.tmi.twitch.tv PRIVMSG #qojqva :deso better
+
+@badge-info=;badges=;client-nonce=2bd9de759955efb7e7b3ed6f32986187;color=#5F9EA0;display-name=Gabrielcr96;emotes=;flags=;id=2e4b6318-fb59-48ed-bb33-0ddb639964c2;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292707149;turbo=0;user-id=72652353;user-type= :gabrielcr96!gabrielcr96@gabrielcr96.tmi.twitch.tv PRIVMSG #qojqva :MOONSHAR
+
+@badge-info=;badges=;client-nonce=d2eed76554638bc8045f6e81a1adffa9;color=;display-name=faresan;emotes=;flags=;id=32a6e95b-0bb1-453c-98bd-be4097d9ccfe;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292707174;turbo=0;user-id=156884195;user-type= :faresan!faresan@faresan.tmi.twitch.tv PRIVMSG #qojqva :tp xd
+
+@badge-info=;badges=glhf-pledge/1;client-nonce=cde3f228a462b8ad54e2157a80ee4da3;color=#FF0000;display-name=sriki007;emotes=;flags=;id=168a00d7-337d-4ec5-9710-ac580412fb8f;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292708735;turbo=0;user-id=45025169;user-type= :sriki007!sriki007@sriki007.tmi.twitch.tv PRIVMSG #qojqva :go rapier pepeW
+
+@badge-info=;badges=;color=;display-name=alirezak5379;emotes=;flags=;id=02513cae-91e9-451c-9ba1-313cd66ab6dd;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292711864;turbo=0;user-id=500790894;user-type= :alirezak5379!alirezak5379@alirezak5379.tmi.twitch.tv PRIVMSG #qojqva :swift shard
+
+@badge-info=;badges=glhf-pledge/1;client-nonce=92508ed8b83632f8318d919376120589;color=#000000;display-name=GDRAGOOON1;emotes=;flags=;id=7769e4aa-c82c-4c30-8201-b3205e91ad48;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292712689;turbo=0;user-id=71409063;user-type= :gdragooon1!gdragooon1@gdragooon1.tmi.twitch.tv PRIVMSG #qojqva :pepeW Luna
+
+@badge-info=;badges=;client-nonce=a70c2fbcd3557c36ed552148a4a5a238;color=#00FF7F;display-name=fl18game;emotes=;flags=;id=578a3189-7f4c-4c47-ae75-a704383ce569;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292715210;turbo=0;user-id=273041742;user-type= :fl18game!fl18game@fl18game.tmi.twitch.tv PRIVMSG #qojqva :blink
+
+@badge-info=;badges=;client-nonce=df02ebb9450368e6c165a00982579985;color=#FF0000;display-name=erfansh12;emotes=;flags=;id=0d10db00-155f-421e-9aaf-0105c00cc340;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292716029;turbo=0;user-id=139752559;user-type= :erfansh12!erfansh12@erfansh12.tmi.twitch.tv PRIVMSG #qojqva :OMEGALUL LUNA
+
+@badge-info=;badges=;client-nonce=0e057cb7d99fac68667915a26e8954cc;color=;display-name=Maulingroach;emotes=;flags=;id=4f13c591-8a1a-46b6-9990-088aeb49a8e6;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292716411;turbo=0;user-id=99483457;user-type= :maulingroach!maulingroach@maulingroach.tmi.twitch.tv PRIVMSG #qojqva :LUNA KEKW
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=4c929f8f7a907624ad4cae5b35332f4c;color=;display-name=Apricobama;emotes=;flags=;id=bed4e175-6c57-4c85-944e-c0c1ebdeafa3;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292718766;turbo=0;user-id=87531242;user-type= :apricobama!apricobama@apricobama.tmi.twitch.tv PRIVMSG #qojqva :Luna KEKW
+
+@badge-info=;badges=premium/1;client-nonce=b701bf49c571c3782208e9eedb620acc;color=#0000FF;display-name=waveringcomet;emotes=;flags=;id=e08a667b-ade8-4679-923a-81cb07e2d864;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292719499;turbo=0;user-id=93301474;user-type= :waveringcomet!waveringcomet@waveringcomet.tmi.twitch.tv PRIVMSG #qojqva :Luna pepeW
+
+@badge-info=;badges=premium/1;client-nonce=dcf631a4678ef8b849c3a302bc737207;color=#FF0000;display-name=Omn1m0n;emotes=;flags=;id=bae45666-1c75-4e23-9b89-4c37c2940b7e;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292724186;turbo=0;user-id=67647033;user-type= :omn1m0n!omn1m0n@omn1m0n.tmi.twitch.tv PRIVMSG #qojqva :L OMEGALUL OMEGALUL NA
+
+@badge-info=;badges=;client-nonce=344b16fd5f813e2c521999d2ee879ef4;color=#236ECE;display-name=dead_lee_;emotes=;flags=;id=122cb34c-de2e-4667-8cc3-a9c4f39854de;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292724996;turbo=0;user-id=23145939;user-type= :dead_lee_!dead_lee_@dead_lee_.tmi.twitch.tv PRIVMSG #qojqva :Luna pepeW
+
+@badge-info=;badges=;client-nonce=e37844853dc985f1196c3cc2c0476bdb;color=#00FF7F;display-name=zyoNoob;emotes=;flags=;id=a778e2f2-496c-4c9e-8d66-f05226c71363;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292725587;turbo=0;user-id=179358747;user-type= :zyonoob!zyonoob@zyonoob.tmi.twitch.tv PRIVMSG #qojqva :LUNA KEKE
+
+@badge-info=;badges=premium/1;client-nonce=3563861da04cb15f04aae22f68f3573e;color=#0000FF;display-name=waveringcomet;emotes=;flags=;id=3996eb07-afc4-4c2a-a41f-a647d4fcbd9f;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292726137;turbo=0;user-id=93301474;user-type= :waveringcomet!waveringcomet@waveringcomet.tmi.twitch.tv PRIVMSG #qojqva :!gm
+
+@badge-info=;badges=moderator/1;color=#FF69B4;display-name=9kmmrbot;emotes=;flags=;id=338da034-4827-4ec6-b3d6-d67fadd997fb;mod=1;room-id=49440419;subscriber=0;tmi-sent-ts=1633292726913;turbo=0;user-id=116840182;user-type=mod :9kmmrbot!9kmmrbot@9kmmrbot.tmi.twitch.tv PRIVMSG #qojqva :Monkey King: Immortal, Ember Spirit: #406, Sand King: #442, Silencer: #504, Tiny: #48, Spirit Breaker: #301, Mars: #766, Zeus: #289, Bloodseeker: #290, Luna: #454
+
+@badge-info=subscriber/2;badges=subscriber/0;client-nonce=5b8f0e784d192af9f14f58028b206936;color=#29A529;display-name=emetophobe;emotes=;flags=;id=33d70aa6-1259-4b97-8183-91d79f91ab8a;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292727944;turbo=0;user-id=268971062;user-type= :emetophobe!emetophobe@emetophobe.tmi.twitch.tv PRIVMSG #qojqva :@ArT0FWaR1 pepeW
+
+@badge-info=;badges=premium/1;client-nonce=1da71b0fd3e433cced8058ebb00bb872;color=#5F9EA0;display-name=PillowBubble;emotes=;flags=;id=3f37ddcb-79c8-44a7-8447-6935ebbcc759;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292728609;turbo=0;user-id=43667478;user-type= :pillowbubble!pillowbubble@pillowbubble.tmi.twitch.tv PRIVMSG #qojqva :lol
+
+@badge-info=subscriber/2;badges=subscriber/0,glhf-pledge/1;color=#FF4500;display-name=mercimkk;emotes=;flags=;id=a4423209-2ccc-4600-9843-5dfec4913d7e;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292730325;turbo=0;user-id=450844031;user-type= :mercimkk!mercimkk@mercimkk.tmi.twitch.tv PRIVMSG #qojqva :moonblink PauseChamp
+
+@badge-info=;badges=glhf-pledge/1;client-nonce=529bc9e09b07115bd782c5eecaee85ac;color=#000000;display-name=GDRAGOOON1;emotes=;flags=;id=4338540a-f1ef-41c0-a0de-88e007c119bb;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292730721;turbo=0;user-id=71409063;user-type= :gdragooon1!gdragooon1@gdragooon1.tmi.twitch.tv PRIVMSG #qojqva :EU D OMEGALUL T A
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=1e8c2f48744bc25dc3916800a35ba84b;color=;display-name=Loganh1312;emotes=;flags=;id=db32a4ed-27b1-431f-b7bc-7d7147ba2f8a;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292730891;turbo=0;user-id=99352249;user-type= :loganh1312!loganh1312@loganh1312.tmi.twitch.tv PRIVMSG #qojqva :Sunday=Wins
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=954978b64ca169a2fab683dc4810d4c2;color=;display-name=Apricobama;emotes=;flags=;id=cd907cc9-26b2-4163-b57d-a4c3c219da7b;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292732638;turbo=0;user-id=87531242;user-type= :apricobama!apricobama@apricobama.tmi.twitch.tv PRIVMSG #qojqva :Fountain dive BASED
+
+@badge-info=;badges=;color=;display-name=jasondavidlee123;emotes=;flags=;id=16969f18-37bc-458d-8fb7-566db158aff8;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292733111;turbo=0;user-id=218438522;user-type= :jasondavidlee123!jasondavidlee123@jasondavidlee123.tmi.twitch.tv PRIVMSG #qojqva :IS IT TRUE CEB IS BACK? MICKE IS NOT STAND IN ANYMORE??????????
+
+@badge-info=;badges=;client-nonce=7d50f7f12f2a01e3c93d2cc69aa1d17a;color=#0000FF;display-name=zlord23;emotes=;flags=;id=b2b65093-f05c-424f-862b-ebf7f767a296;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292735250;turbo=0;user-id=159683705;user-type= :zlord23!zlord23@zlord23.tmi.twitch.tv PRIVMSG #qojqva :LUNA MENTALLY DONE
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=f5c2c9922f4fd7e4fa3a419459dc1e61;color=#0000FF;display-name=Sh4nx;emotes=;flags=;id=71cc3d32-da41-4680-b58f-1d7013eade5c;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292740850;turbo=0;user-id=63211078;user-type= :sh4nx!sh4nx@sh4nx.tmi.twitch.tv PRIVMSG #qojqva :EZ Clap
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=6ac8d43db26eefc3b830190942b6ccc2;color=;display-name=Apricobama;emotes=;flags=;id=18ff8924-9a23-44ad-8d26-972c271c1b11;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292744781;turbo=0;user-id=87531242;user-type= :apricobama!apricobama@apricobama.tmi.twitch.tv PRIVMSG #qojqva :!medal
+
+@badge-info=;badges=;client-nonce=ef33d750ef8d0418c32528d4afc20b86;color=#1E90FF;display-name=ManiAKAVampire;emotes=;flags=;id=14764892-b706-4062-bb6d-692940ed6cb8;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292744982;turbo=0;user-id=148489682;user-type= :maniakavampire!maniakavampire@maniakavampire.tmi.twitch.tv PRIVMSG #qojqva :FrogeEz
+
+@badge-info=;badges=moderator/1;color=#FF69B4;display-name=9kmmrbot;emotes=;flags=;id=2bf0741d-94b7-40e0-8e0d-f2fb444a7084;mod=1;room-id=49440419;subscriber=0;tmi-sent-ts=1633292745439;turbo=0;user-id=116840182;user-type=mod :9kmmrbot!9kmmrbot@9kmmrbot.tmi.twitch.tv PRIVMSG #qojqva :#48
+
+@badge-info=;badges=;color=;display-name=m4tiki;emotes=;flags=;id=7cbaa082-234b-4a0f-9f06-cf54db2ad162;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292748010;turbo=0;user-id=121925150;user-type= :m4tiki!m4tiki@m4tiki.tmi.twitch.tv PRIVMSG #qojqva :GG, Kellogs smacks
+
+@badge-info=;badges=;client-nonce=b8f7547beee74b4e2d9d62f1784796b5;color=#0000FF;display-name=WeAreOurDesires;emotes=;flags=;id=a5a5719e-130b-42d1-8536-f95c563d91e0;mod=0;reply-parent-display-name=WeAreOurDesires;reply-parent-msg-body=btw\sthink\sit\sworks\sif\syou\stoss\stree\sand\sclick\ssilver\sedge(it\sworked\sbefore);reply-parent-msg-id=cc2f1730-219a-43b9-b7c8-33de6df96b5b;reply-parent-user-id=228435304;reply-parent-user-login=weareourdesires;room-id=49440419;subscriber=0;tmi-sent-ts=1633292748351;turbo=0;user-id=228435304;user-type= :weareourdesires!weareourdesires@weareourdesires.tmi.twitch.tv PRIVMSG #qojqva :@WeAreOurDesires it even applies brake
+
+@badge-info=;badges=;color=#B22222;display-name=beegoosdeecoos;emotes=;flags=;id=9027699e-ddb1-4be0-8f1c-bc2bde0471ed;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292748497;turbo=0;user-id=724739396;user-type= :beegoosdeecoos!beegoosdeecoos@beegoosdeecoos.tmi.twitch.tv PRIVMSG #qojqva :!wl
+
+@badge-info=;badges=;client-nonce=d7c773e99faa452595a16b8f63a0bb21;color=#DAA520;display-name=Lanler_;emotes=81248:32-37;flags=;id=78b72fb4-0bce-47d8-800f-5a05012c4879;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292748828;turbo=0;user-id=80439007;user-type= :lanler_!lanler_@lanler_.tmi.twitch.tv PRIVMSG #qojqva :3.5k hp 400 dmg 33 armor min 27 OSFrog
+
+@badge-info=;badges=moderator/1;color=#FF69B4;display-name=9kmmrbot;emotes=;flags=;id=9afc0e50-0b76-4349-ad93-c53b10ab4b7f;mod=1;room-id=49440419;subscriber=0;tmi-sent-ts=1633292749248;turbo=0;user-id=116840182;user-type=mod :9kmmrbot!9kmmrbot@9kmmrbot.tmi.twitch.tv PRIVMSG #qojqva :W 2 - L 1
+
+@badge-info=;badges=;client-nonce=05b68512ebfd034fbf9dc624821ca728;color=#FF4500;display-name=fuubars;emotes=;flags=;id=c2ec78ab-6bb7-4459-9021-2ff872fa8b69;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292749247;turbo=0;user-id=100500310;user-type= :fuubars!fuubars@fuubars.tmi.twitch.tv PRIVMSG #qojqva :GG EZ Clap
+
+@badge-info=;badges=;color=;display-name=sanxchit;emotes=;flags=;id=e46c756a-dd19-4bf7-a034-f20b6cb8ce86;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292750785;turbo=0;user-id=729174100;user-type= :sanxchit!sanxchit@sanxchit.tmi.twitch.tv PRIVMSG #qojqva :mods abusing their powers pepeW
+
+@badge-info=;badges=;color=;display-name=rash_08;emotes=;flags=;id=96cd2301-adaa-4a57-93a8-ca0fe5d3c914;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292750955;turbo=0;user-id=151332082;user-type= :rash_08!rash_08@rash_08.tmi.twitch.tv PRIVMSG #qojqva :Is CEB back????
+
+@badge-info=;badges=;client-nonce=4eb79b454cb559a58f27a51903fb93ca;color=#FF0000;display-name=oolc;emotes=;flags=;id=57a19ec4-ab2f-4497-a0c4-de45d214d559;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292751581;turbo=0;user-id=134728424;user-type= :oolc!oolc@oolc.tmi.twitch.tv PRIVMSG #qojqva :10000 mmr POG
+
+@badge-info=;badges=;color=;display-name=hawk_6273;emotes=;flags=;id=fcf9b9ff-4836-41ed-b3dd-de52eb2383da;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292753510;turbo=0;user-id=705395521;user-type= :hawk_6273!hawk_6273@hawk_6273.tmi.twitch.tv PRIVMSG #qojqva :check tower dmg
+
+@badge-info=;badges=;client-nonce=326f625442b6cc17a746d4af895d8086;color=#0000FF;display-name=ControlWarrior;emotes=;flags=;id=5eeaac42-d71f-42d3-bc97-d1cd31dd0e69;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292756465;turbo=0;user-id=58923769;user-type= :controlwarrior!controlwarrior@controlwarrior.tmi.twitch.tv PRIVMSG #qojqva :dont think ceb is back
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=287e6403edd9b75946351b7256b38bd0;color=;display-name=Apricobama;emotes=;flags=;id=68534643-9d00-4d1c-8e50-96871a524337;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292762846;turbo=0;user-id=87531242;user-type= :apricobama!apricobama@apricobama.tmi.twitch.tv PRIVMSG #qojqva :Sunday dotes back Pog
+
+@badge-info=;badges=premium/1;color=#5F9EA0;display-name=Puffywiggles;emotes=;flags=;id=a3d9f312-7620-4cc5-8f12-087fe0c47f12;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292762927;turbo=0;user-id=35949537;user-type= :puffywiggles!puffywiggles@puffywiggles.tmi.twitch.tv PRIVMSG #qojqva :The feed item line. Classic
+
+@badge-info=;badges=;client-nonce=1a1294ae15b70fb618a2b6ce009aba5c;color=#1E90FF;display-name=CosMazZz;emotes=;flags=;id=a4a00bb7-8a45-4850-932a-3014e0e33c5e;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292762941;turbo=0;user-id=88709526;user-type= :cosmazzz!cosmazzz@cosmazzz.tmi.twitch.tv PRIVMSG #qojqva :won FeelsOkayMan
+
+@badge-info=;badges=;client-nonce=1a588ed1e276358106055c07e3220231;color=#0000FF;display-name=ControlWarrior;emotes=;flags=;id=743cf27e-d776-4466-96b9-9566cec6d1c6;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292764095;turbo=0;user-id=58923769;user-type= :controlwarrior!controlwarrior@controlwarrior.tmi.twitch.tv PRIVMSG #qojqva :saw his IG post
+
+@badge-info=;badges=;client-nonce=2d29879e4783ccd2a969af054f73d690;color=#1E90FF;display-name=compact__cat;emotes=;flags=0-3:P.3;id=66a746b4-fb71-476b-8ce8-ad85f89b8e5f;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292765107;turbo=0;user-id=497149655;user-type= :compact__cat!compact__cat@compact__cat.tmi.twitch.tv PRIVMSG #qojqva :LMAO
+
+@badge-info=;badges=;client-nonce=dd2d47528786c2ee37d178dad64d9d89;color=#FF0000;display-name=erfansh12;emotes=;flags=;id=fbcb448a-fb09-41e7-9ee8-45f0c8d74ed4;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292765682;turbo=0;user-id=139752559;user-type= :erfansh12!erfansh12@erfansh12.tmi.twitch.tv PRIVMSG #qojqva :OG EZ
+
+@badge-info=subscriber/2;badges=subscriber/0;client-nonce=eda91719e6d45fd7890c336201ac2230;color=#29A529;display-name=emetophobe;emotes=;flags=;id=19b55590-815a-4cf6-a9cb-1bbfdd389dfa;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292767425;turbo=0;user-id=268971062;user-type= :emetophobe!emetophobe@emetophobe.tmi.twitch.tv PRIVMSG #qojqva :gachiHYPER
+
+@badge-info=;badges=;client-nonce=52fc1e6d8bc901a4a17f9512b8072417;color=;display-name=wermerkle_durkle;emotes=;flags=;id=ac26213e-219d-47f6-b28e-ae5f21f53291;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292767644;turbo=0;user-id=17850872;user-type= :wermerkle_durkle!wermerkle_durkle@wermerkle_durkle.tmi.twitch.tv PRIVMSG #qojqva :KEKW
+
+@badge-info=;badges=;client-nonce=c5470dcd60ce84ccb7fe1add1b4054dd;color=#FF0000;display-name=oolc;emotes=;flags=;id=525127d3-e230-4d04-9156-bf1159427664;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292769535;turbo=0;user-id=134728424;user-type= :oolc!oolc@oolc.tmi.twitch.tv PRIVMSG #qojqva :PLAYERS TRUE DONE
+
+@badge-info=;badges=glhf-pledge/1;client-nonce=e71f42e831ef065630f271c206c334be;color=#000000;display-name=GDRAGOOON1;emotes=22639:0-7;flags=;id=9e8353d6-3185-47b3-b88b-ee57288c716f;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292771633;turbo=0;user-id=71409063;user-type= :gdragooon1!gdragooon1@gdragooon1.tmi.twitch.tv PRIVMSG #qojqva :BabyRage rtz
+
+@badge-info=;badges=;client-nonce=56b9d37a7ad7c776906648fa5e6164be;color=;display-name=kastiel7u7;emotes=555555582:12-13;flags=;id=d282cb50-290a-4653-949f-46f3ae09072f;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292772368;turbo=0;user-id=678289711;user-type= :kastiel7u7!kastiel7u7@kastiel7u7.tmi.twitch.tv PRIVMSG #qojqva :where is k1 :o
+@badge-info=subscriber/1;badges=subscriber/0;client-nonce=5f521c22c97cb98536fde792b5b121db;color=;display-name=mrstinky237;emotes=;flags=;id=07f3364d-87e8-4980-b230-3c45aa1e338d;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292772512;turbo=0;user-id=109307935;user-type= :mrstinky237!mrstinky237@mrstinky237.tmi.twitch.tv PRIVMSG #qojqva :PepeLaugh
+@badge-info=;badges=;client-nonce=4838aeef374d38f01af4b73f12f06254;color=;display-name=hanzoloxxx7;emotes=;flags=;id=1e83b6f6-1963-430a-983c-5a5d752ba7dc;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292772451;turbo=0;user-id=409055560;user-type= :hanzoloxxx7!hanzoloxxx7@hanzoloxxx7.tmi.twitch.tv PRIVMSG #qojqva :RTZ POGGERS
+
+@badge-info=;badges=;client-nonce=ca4af37c48d480ac2220eaf4d1278412;color=#0000FF;display-name=Drthvdr00;emotes=;flags=;id=d41b9c31-5d1c-4c84-8a83-1359a7981594;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292773081;turbo=0;user-id=94649193;user-type= :drthvdr00!drthvdr00@drthvdr00.tmi.twitch.tv PRIVMSG #qojqva :LONGEST GAME IS 80-89 WITH RTZ NAGA
+
+@badge-info=;badges=;color=#0000FF;display-name=archieeeeeeeeeeeeee;emotes=;flags=;id=90e589a1-4b9f-4f25-b386-77626db6acd7;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292773212;turbo=0;user-id=249739227;user-type= :archieeeeeeeeeeeeee!archieeeeeeeeeeeeee@archieeeeeeeeeeeeee.tmi.twitch.tv PRIVMSG #qojqva :"players"
+
+@badge-info=;badges=;client-nonce=e96392a12311e12c19cd3be869556d34;color=#1E90FF;display-name=CosMazZz;emotes=;flags=;id=9deb5272-3fdc-40cb-a8ab-2f4eb8d29881;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292773720;turbo=0;user-id=88709526;user-type= :cosmazzz!cosmazzz@cosmazzz.tmi.twitch.tv PRIVMSG #qojqva :rtz EZ
+
+@badge-info=;badges=;client-nonce=3e6616c6790bf1934cb8fac4dc7df4ec;color=#00FF7F;display-name=Joshua99998;emotes=;flags=;id=550e5d97-99a4-4bde-959b-55b38adf3963;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292776734;turbo=0;user-id=48863994;user-type= :joshua99998!joshua99998@joshua99998.tmi.twitch.tv PRIVMSG #qojqva :arteezy live Pog
+
+@badge-info=;badges=;client-nonce=bde3687ef06d27efbe30a7c1c2035774;color=#5F9EA0;display-name=oldeuboi85;emote-only=1;emotes=22639:0-7;flags=;id=10774d96-6701-4a0b-8cb4-27da0d0a0dd7;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292777511;turbo=0;user-id=432572134;user-type= :oldeuboi85!oldeuboi85@oldeuboi85.tmi.twitch.tv PRIVMSG #qojqva :BabyRage
+
+@badge-info=;badges=premium/1;client-nonce=f36b2d595f6ae24f5727d1774fe64c8e;color=#5F9EA0;display-name=bearnamedben;emotes=;flags=;id=f07f7d68-dd5a-483a-a4a0-36bbc2917475;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292778703;turbo=0;user-id=49688886;user-type= :bearnamedben!bearnamedben@bearnamedben.tmi.twitch.tv PRIVMSG #qojqva :He's done RTZ EZ
+
+@badge-info=;badges=;color=#FF0000;display-name=Incognito122;emotes=;flags=;id=288cb7ec-8d59-4b06-94b3-3f2acde5e289;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292781501;turbo=0;user-id=70330850;user-type= :incognito122!incognito122@incognito122.tmi.twitch.tv PRIVMSG #qojqva :rtzW
+
+@badge-info=;badges=;client-nonce=a9408431371b469c88e1b2839f20711b;color=#0000FF;display-name=arkwarden12;emotes=;flags=;id=1ed1b62f-bb64-4b02-a94e-812b49ea17f0;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292782158;turbo=0;user-id=248524134;user-type= :arkwarden12!arkwarden12@arkwarden12.tmi.twitch.tv PRIVMSG #qojqva :Player*
+
+@badge-info=;badges=;color=#9ACD32;display-name=Vaebae_1;emotes=;flags=;id=b2ea24e1-e24a-47e1-85c9-9a81103122f1;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292782488;turbo=0;user-id=98777931;user-type= :vaebae_1!vaebae_1@vaebae_1.tmi.twitch.tv PRIVMSG #qojqva :@qojqva your tiny prediction is bad imo. Banned everygame
+
+@badge-info=;badges=;client-nonce=c1ee5c9fa36b1cff6fa1a4b5a72fc4b4;color=#FF0000;display-name=ir_wex;emotes=;flags=3-5:P.3;id=e233ff39-6c39-4ca2-b628-331d6080b4de;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292784853;turbo=0;user-id=190455218;user-type= :ir_wex!ir_wex@ir_wex.tmi.twitch.tv PRIVMSG #qojqva :Og ass the winner are u serious?
+
+@badge-info=;badges=premium/1;client-nonce=4afe5890b6078dc79aafd2a38e3dde64;color=#8A2BE2;display-name=crialogo;emotes=;flags=;id=de865f34-d5c0-4613-8d2d-9a88389f687f;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292787611;turbo=0;user-id=45169677;user-type= :crialogo!crialogo@crialogo.tmi.twitch.tv PRIVMSG #qojqva :28-31
+
+@badge-info=;badges=;color=;display-name=sanxchit;emotes=;flags=;id=ea717b78-7192-4d50-bdab-741ac707ed40;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292788374;turbo=0;user-id=729174100;user-type= :sanxchit!sanxchit@sanxchit.tmi.twitch.tv PRIVMSG #qojqva :36+ ez
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=64e5fe8e36b8ec289c714a3db4c0d701;color=;display-name=pbouch;emotes=;flags=;id=70853408-25b7-47ff-b3ce-24ab69fb34d5;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292788413;turbo=0;user-id=486510910;user-type= :pbouch!pbouch@pbouch.tmi.twitch.tv PRIVMSG #qojqva :28 to 31
+
+@badge-info=;badges=;color=#0000FF;display-name=archieeeeeeeeeeeeee;emotes=;flags=;id=89045ed1-ba14-42d8-9ecf-7d695fd18017;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292789015;turbo=0;user-id=249739227;user-type= :archieeeeeeeeeeeeee!archieeeeeeeeeeeeee@archieeeeeeeeeeeeee.tmi.twitch.tv PRIVMSG #qojqva :36+ on healer
+
+@badge-info=;badges=;color=;display-name=Just_Drama;emote-only=1;emotes=22639:0-7;flags=;id=09aa66e5-f2d3-4335-bc7e-6f503419d5ac;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292789687;turbo=0;user-id=90201099;user-type= :just_drama!just_drama@just_drama.tmi.twitch.tv PRIVMSG #qojqva :BabyRage
+
+@badge-info=;badges=;client-nonce=729df90e9d5a6521a62efe079df0828d;color=#1E90FF;display-name=compact__cat;emotes=;flags=;id=4ef77b1b-68c6-4254-b5e1-6296d598b07a;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292789726;turbo=0;user-id=497149655;user-type= :compact__cat!compact__cat@compact__cat.tmi.twitch.tv PRIVMSG #qojqva :24-27 I put
+
+@badge-info=subscriber/2;badges=subscriber/0;client-nonce=12e38294177aa2ab36c9b6e14cd80b44;color=#29A529;display-name=emetophobe;emotes=;flags=;id=eb712541-0ef0-4238-bf4f-05e2d69dbab4;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292789747;turbo=0;user-id=268971062;user-type= :emetophobe!emetophobe@emetophobe.tmi.twitch.tv PRIVMSG #qojqva :28 to 31 YEP
+
+@badge-info=;badges=glhf-pledge/1;client-nonce=e0a19e438465911a84714c8412dbfb21;color=;display-name=rossgambit_enthusiast;emotes=;flags=;id=a70ae975-cb88-487d-8a18-d5eebcb14eee;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292789803;turbo=0;user-id=231476486;user-type= :rossgambit_enthusiast!rossgambit_enthusiast@rossgambit_enthusiast.tmi.twitch.tv PRIVMSG #qojqva :zeus 36 plus
+
+@badge-info=;badges=;client-nonce=9127180d4ed08c8541c33056aaf04669;color=#FF0000;display-name=Elon_Fusk;emotes=;flags=;id=9d50bddb-9405-42c3-8c7e-85279af494dd;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292790301;turbo=0;user-id=39187007;user-type= :elon_fusk!elon_fusk@elon_fusk.tmi.twitch.tv PRIVMSG #qojqva :36+ ez
+
+@badge-info=;badges=glhf-pledge/1;color=#FF0000;display-name=ZUNKEN;emotes=;flags=;id=38836f35-9bad-4918-997a-01510fb66171;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292790992;turbo=0;user-id=109092418;user-type= :zunken!zunken@zunken.tmi.twitch.tv PRIVMSG #qojqva :36+
+
+@badge-info=;badges=;client-nonce=8da4070e586e0646c7b1e9f9caeabf06;color=;display-name=zerocaloriewater;emotes=;flags=;id=5448f9ef-b82c-42d8-80fa-7b08137b6471;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292791682;turbo=0;user-id=478965527;user-type= :zerocaloriewater!zerocaloriewater@zerocaloriewater.tmi.twitch.tv PRIVMSG #qojqva :Can you walk through your player standings, it seemed quite complex @qojqva
+
+@badge-info=;badges=;client-nonce=806ee57535367c6ef40414c72c9f26fd;color=;display-name=shalqam;emotes=;flags=;id=304b8491-4211-4ab9-bcb7-a0841a8f31a2;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292792218;turbo=0;user-id=74188766;user-type= :shalqam!shalqam@shalqam.tmi.twitch.tv PRIVMSG #qojqva :+36 ez
+
+@badge-info=;badges=;client-nonce=ca0c219b878731ed390d905bbe386a3a;color=#00FF7F;display-name=juswahhh;emotes=;flags=;id=c20dba45-0401-4232-b999-4d0667bc7c5b;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292792608;turbo=0;user-id=181073021;user-type= :juswahhh!juswahhh@juswahhh.tmi.twitch.tv PRIVMSG #qojqva :RTZ FTW
+
+@badge-info=;badges=;color=;display-name=captaindog1023;emotes=;flags=;id=c1dc3903-6604-40c3-907f-8142e0a43ac5;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292793035;turbo=0;user-id=712407752;user-type= :captaindog1023!captaindog1023@captaindog1023.tmi.twitch.tv PRIVMSG #qojqva :Wo war deine letzte kerb
+
+@badge-info=;badges=glhf-pledge/1;client-nonce=43ef76de68bae97a8630e6361f230bbb;color=#FF0000;display-name=sriki007;emotes=;flags=;id=3664bce3-9b13-4dd0-afdd-a4c1072b2dc1;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292794099;turbo=0;user-id=45025169;user-type= :sriki007!sriki007@sriki007.tmi.twitch.tv PRIVMSG #qojqva :24 27
+
+@badge-info=;badges=premium/1;client-nonce=7639dae3ccd439f1a24b8cf742000014;color=;display-name=21VREP;emotes=;flags=;id=f499cd83-00bb-4b39-b724-d8c0b5f5ce15;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292794035;turbo=0;user-id=71039116;user-type= :21vrep!21vrep@21vrep.tmi.twitch.tv PRIVMSG #qojqva :28-31
+
+@badge-info=;badges=;client-nonce=0780f596bb57e376ee1942bf59e86bb8;color=#0000FF;display-name=Drthvdr00;emotes=;flags=;id=7a60a4ed-177b-4a8f-b954-982a56692cd4;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292797024;turbo=0;user-id=94649193;user-type= :drthvdr00!drthvdr00@drthvdr00.tmi.twitch.tv PRIVMSG #qojqva :36 EZ
+
+@badge-info=;badges=;client-nonce=7c71bb82963661c87397c56eb5544d4a;color=#FF4500;display-name=fuubars;emotes=;flags=;id=60e0e39e-1d4c-4192-b963-fcb648c8c0af;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292798289;turbo=0;user-id=100500310;user-type= :fuubars!fuubars@fuubars.tmi.twitch.tv PRIVMSG #qojqva :36+ very ez
+
+@badge-info=;badges=;client-nonce=e004d02807737c120fa8827a3bed1718;color=#1E90FF;display-name=CosMazZz;emotes=;flags=;id=513e5515-62c9-4096-bf82-28de536d99bc;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292798580;turbo=0;user-id=88709526;user-type= :cosmazzz!cosmazzz@cosmazzz.tmi.twitch.tv PRIVMSG #qojqva :36+ late game
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;color=;display-name=atomos223;emotes=;flags=;id=6e1404c3-e511-49ed-be5a-9f2572db64b4;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292799496;turbo=0;user-id=57685761;user-type= :atomos223!atomos223@atomos223.tmi.twitch.tv PRIVMSG #qojqva :36
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=8238bb81cf12c57c596d6531c5edf5dc;color=;display-name=Apricobama;emotes=;flags=;id=d1e100bf-9d1a-43e3-a38d-9914a1672eff;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292799820;turbo=0;user-id=87531242;user-type= :apricobama!apricobama@apricobama.tmi.twitch.tv PRIVMSG #qojqva :28 EZ
+
+@badge-info=;badges=;color=;display-name=sithuhan999;emotes=;flags=;id=35f378ba-d8c5-4610-8473-45af4fa56a21;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292799969;turbo=0;user-id=542414615;user-type= :sithuhan999!sithuhan999@sithuhan999.tmi.twitch.tv PRIVMSG #qojqva :20-23
+
+@badge-info=;badges=;client-nonce=b73e3653e3d666e2ffcf986a4f7bda96;color=#0000FF;display-name=WolfyDelta;emotes=;flags=;id=b4f12674-299a-4436-8100-2fb942cd2672;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292800223;turbo=0;user-id=122735225;user-type= :wolfydelta!wolfydelta@wolfydelta.tmi.twitch.tv PRIVMSG #qojqva :32-35
+
+@badge-info=;badges=;client-nonce=38bb07d5c34909ad20d8a3fe08a1cf7a;color=;display-name=rainepark;emotes=;flags=;id=a73bb176-e6ce-45a1-bf61-1e17f4d5881d;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292800521;turbo=0;user-id=406089460;user-type= :rainepark!rainepark@rainepark.tmi.twitch.tv PRIVMSG #qojqva :28
+
+@badge-info=;badges=;client-nonce=6b42fbe73122dd53efb91de418a93caf;color=;display-name=dalgacmk;emotes=;flags=;id=ad450155-b0e5-4a14-ba2a-2922b715b4fb;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292801354;turbo=0;user-id=159238797;user-type= :dalgacmk!dalgacmk@dalgacmk.tmi.twitch.tv PRIVMSG #qojqva :+
+
+@badge-info=;badges=;client-nonce=c5e3ea367831b92958a80e19cf22ff5e;color=;display-name=shalqam;emotes=;flags=;id=d51e8212-bdf4-430f-a73b-44bdbeb792c3;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292802048;turbo=0;user-id=74188766;user-type= :shalqam!shalqam@shalqam.tmi.twitch.tv PRIVMSG #qojqva :it's the MOST
+
+@badge-info=;badges=;color=;display-name=yoloadis;emotes=;flags=;id=2eb00749-c9d9-4e15-b1dd-53ddbb53dbd3;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292803358;turbo=0;user-id=104555392;user-type= :yoloadis!yoloadis@yoloadis.tmi.twitch.tv PRIVMSG #qojqva :easily 36+
+
+@badge-info=;badges=;client-nonce=7ace6ca8c84a6316822e51fe2d1c6d91;color=#5F9EA0;display-name=oldeuboi85;emotes=;flags=;id=2a3e732b-40b9-444c-bc4e-b511e43e1621;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292803369;turbo=0;user-id=432572134;user-type= :oldeuboi85!oldeuboi85@oldeuboi85.tmi.twitch.tv PRIVMSG #qojqva :36+
+
+@badge-info=;badges=;client-nonce=4ab86c1e6923ad0aad084d9ee13c9a2a;color=#B22222;display-name=The_Fallen_Khan;emotes=;flags=;id=755b6e4b-f944-426e-ac7d-d0dc7940583a;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292803528;turbo=0;user-id=53039082;user-type= :the_fallen_khan!the_fallen_khan@the_fallen_khan.tmi.twitch.tv PRIVMSG #qojqva :EZ ZEUS
+
+@badge-info=subscriber/2;badges=subscriber/0;client-nonce=9607a3181df00885159ec8196a04bcb3;color=#29A529;display-name=emetophobe;emotes=;flags=;id=6d42cfe3-051c-449c-acd3-19966670c47d;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292803982;turbo=0;user-id=268971062;user-type= :emetophobe!emetophobe@emetophobe.tmi.twitch.tv PRIVMSG #qojqva :its possible for sure, 40+
+
+@badge-info=;badges=premium/1;color=#5F9EA0;display-name=Puffywiggles;emotes=;flags=;id=04c7eaf7-b7cf-46de-8b56-861f7b726bc8;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292804025;turbo=0;user-id=35949537;user-type= :puffywiggles!puffywiggles@puffywiggles.tmi.twitch.tv PRIVMSG #qojqva :Why are people quoting what Tiny does as if its new.
+
+@badge-info=;badges=;color=;display-name=whodatwhodatwho;emotes=;flags=;id=2fcaa28f-d48d-4d67-b2af-f89c206ad767;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292804439;turbo=0;user-id=424732926;user-type= :whodatwhodatwho!whodatwhodatwho@whodatwhodatwho.tmi.twitch.tv PRIVMSG #qojqva :2 EZ 4 RTZ
+
+@badge-info=;badges=;client-nonce=0c65e4638401d2e7283a36dd2d44c59d;color=;display-name=Fredoq;emotes=;flags=;id=c61b68ca-5ec2-4dd8-aacf-568c31af486c;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292805295;turbo=0;user-id=20665984;user-type= :fredoq!fredoq@fredoq.tmi.twitch.tv PRIVMSG #qojqva :32
+
+@badge-info=;badges=;client-nonce=c074e4fd4a7e69ce332a1f0210a714aa;color=#00FF7F;display-name=greygoosetwitch1;emotes=;flags=;id=3ccbc97d-f3d2-4d70-bbbf-6b283fabfcb2;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292806072;turbo=0;user-id=236012582;user-type= :greygoosetwitch1!greygoosetwitch1@greygoosetwitch1.tmi.twitch.tv PRIVMSG #qojqva :EZ veno
+
+@badge-info=;badges=;color=#0000FF;display-name=archieeeeeeeeeeeeee;emotes=;flags=;id=7f14ce13-6034-434b-b0d4-e379cc223df0;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292806563;turbo=0;user-id=249739227;user-type= :archieeeeeeeeeeeeee!archieeeeeeeeeeeeee@archieeeeeeeeeeeeee.tmi.twitch.tv PRIVMSG #qojqva :doesnt say they have to win
+
+@badge-info=;badges=;client-nonce=4c01c7b2bcd23c082e618361c28fff8d;color=;display-name=Itto_0gam1;emotes=;flags=;id=839d7f8e-ee38-44fd-a6b7-97d2db04deda;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292806762;turbo=0;user-id=95176768;user-type= :itto_0gam1!itto_0gam1@itto_0gam1.tmi.twitch.tv PRIVMSG #qojqva :JUST NEEDS ! LONG GAM
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=f610e0ddbe2026e029592501f1030438;color=#FF0000;display-name=frakilg;emotes=;flags=;id=d171431e-82c5-43e0-8357-3674fcfb315f;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292808820;turbo=0;user-id=678463285;user-type= :frakilg!frakilg@frakilg.tmi.twitch.tv PRIVMSG #qojqva :Zeus easy 30+
+
+@badge-info=;badges=;color=;display-name=justwannabefree;emotes=;flags=;id=c9b0d2dc-af71-4474-91b1-cf7dc684a6a9;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292810261;turbo=0;user-id=536293474;user-type= :justwannabefree!justwannabefree@justwannabefree.tmi.twitch.tv PRIVMSG #qojqva :28 31
+
+@badge-info=;badges=glhf-pledge/1;client-nonce=34adc4ec80e6c88c1eff831e0f691365;color=#0000FF;display-name=sherlock_established;emotes=;flags=;id=b9e8ef22-c457-4151-9d14-849916b01e3e;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292810698;turbo=0;user-id=666330236;user-type= :sherlock_established!sherlock_established@sherlock_established.tmi.twitch.tv PRIVMSG #qojqva :20-23
+
+@badge-info=;badges=;client-nonce=d9c09c3f7c9520977d8d8b2ae64a7d3a;color=;display-name=dalgacmk;emotes=;flags=;id=8e4821ff-269c-42fb-8b6a-7159bf5eb382;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292810917;turbo=0;user-id=159238797;user-type= :dalgacmk!dalgacmk@dalgacmk.tmi.twitch.tv PRIVMSG #qojqva :++
+
+@badge-info=;badges=;client-nonce=702d64f61445555fe8ec9a89d1848c3e;color=#9ACD32;display-name=9970_;emotes=308138187:0-4;flags=;id=bf36a3d0-d62e-4111-98a7-dd7d6700d71a;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292812096;turbo=0;user-id=437689187;user-type= :9970_!9970_@9970_.tmi.twitch.tv PRIVMSG #qojqva :cbt1W ?
+
+@badge-info=;badges=;client-nonce=28113d5110861d4e22d08f3ecf9585c9;color=#0000FF;display-name=Drthvdr00;emotes=;flags=;id=46877aa7-0d07-41f4-9daa-2b11274eafb7;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292815080;turbo=0;user-id=94649193;user-type= :drthvdr00!drthvdr00@drthvdr00.tmi.twitch.tv PRIVMSG #qojqva :RTZ NAGA 1000 GPM FOR SURE
+
+@badge-info=;badges=;client-nonce=49ec74848153b07e8879bce555f6ae40;color=;display-name=shayandoto;emotes=;flags=;id=783011d8-23d4-430c-8f37-85278d80c211;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292816879;turbo=0;user-id=456782875;user-type= :shayandoto!shayandoto@shayandoto.tmi.twitch.tv PRIVMSG #qojqva :24 27
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;color=;display-name=atomos223;emotes=;flags=;id=ef19659d-efb8-4790-a87a-9f2669872edf;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292818025;turbo=0;user-id=57685761;user-type= :atomos223!atomos223@atomos223.tmi.twitch.tv PRIVMSG #qojqva :China supports make assista
+
+@badge-info=;badges=;color=;display-name=rash_08;emotes=;flags=;id=0ac7a275-7148-4223-8d12-6c5a6710b0f3;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292818323;turbo=0;user-id=151332082;user-type= :rash_08!rash_08@rash_08.tmi.twitch.tv PRIVMSG #qojqva :@qojqva with mirana its possible
+
+@badge-info=;badges=;client-nonce=b643cabfc551e74b3e34089558e97281;color=#FF0000;display-name=oolc;emotes=;flags=11-14:P.3;id=707c8890-bbe5-4837-b621-85553b3563fb;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292819598;turbo=0;user-id=134728424;user-type= :oolc!oolc@oolc.tmi.twitch.tv PRIVMSG #qojqva :36+ assist WTF?
+
+@badge-info=;badges=;client-nonce=baf71a28c21e9ef8cc7de9a74b600094;color=#8A2BE2;display-name=Lv100Crobat;emote-only=1;emotes=115234:0-7;flags=;id=43f006d5-0f16-42da-b1f9-faeaf847b14f;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292821931;turbo=0;user-id=105031881;user-type= :lv100crobat!lv100crobat@lv100crobat.tmi.twitch.tv PRIVMSG #qojqva :BatChest
+
+@badge-info=;badges=;color=;display-name=whodatwhodatwho;emotes=;flags=;id=725285b4-2a63-49ea-a852-c46a059447fb;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292823226;turbo=0;user-id=424732926;user-type= :whodatwhodatwho!whodatwhodatwho@whodatwhodatwho.tmi.twitch.tv PRIVMSG #qojqva :1 good spex game is 36 assists
+
+@badge-info=;badges=;color=;display-name=b_i_gg_e;emotes=33:19-26;flags=;id=ac087ff5-d77e-4a1b-ac6a-90d0d9b9da74;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292825481;turbo=0;user-id=701732020;user-type= :b_i_gg_e!b_i_gg_e@b_i_gg_e.tmi.twitch.tv PRIVMSG #qojqva :SECRET VS EG FINAL DansGame
+
+@badge-info=;badges=;color=#9ACD32;display-name=Vaebae_1;emotes=;flags=;id=fc000c32-38d2-481e-a9b9-53285f8e9e2e;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292827433;turbo=0;user-id=98777931;user-type= :vaebae_1!vaebae_1@vaebae_1.tmi.twitch.tv PRIVMSG #qojqva :Ector monkaGIGA
+
+@badge-info=;badges=;color=;display-name=alirezak5379;emotes=;flags=;id=9b994e87-f89c-4334-a402-94991229e90c;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292828025;turbo=0;user-id=500790894;user-type= :alirezak5379!alirezak5379@alirezak5379.tmi.twitch.tv PRIVMSG #qojqva :32
+
+@badge-info=;badges=;client-nonce=c4027bdf1a5f6d875eb32ddd6a6ce473;color=#8A2BE2;display-name=Lv100Crobat;emotes=115234:19-26;flags=;id=df5b60f7-b7fa-48c0-aea2-fa6543c74203;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292829719;turbo=0;user-id=105031881;user-type= :lv100crobat!lv100crobat@lv100crobat.tmi.twitch.tv PRIVMSG #qojqva :i hecking love rtz BatChest
+
+@badge-info=;badges=;client-nonce=73f344ec4c4ce3e1566d76fc1bcf2c07;color=#00FF7F;display-name=juswahhh;emotes=;flags=;id=81023a6e-7b68-4aa1-9c2f-1e5af7fbb6a9;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292830804;turbo=0;user-id=181073021;user-type= :juswahhh!juswahhh@juswahhh.tmi.twitch.tv PRIVMSG #qojqva :36 in an hour plus game
+
+@badge-info=;badges=;color=;display-name=dijiy2z;emotes=;flags=;id=ccf1f2eb-13b0-40a7-a4e3-7ccbacf81371;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292831858;turbo=0;user-id=536670020;user-type= :dijiy2z!dijiy2z@dijiy2z.tmi.twitch.tv PRIVMSG #qojqva :@qojqva is ceb back?
+
+@badge-info=;badges=;client-nonce=9e83166463b6beb4c664c6417d8ee59b;color=#0000FF;display-name=WolfyDelta;emotes=;flags=;id=64c102b4-f9ff-4322-881f-20dba32be7c2;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292831962;turbo=0;user-id=122735225;user-type= :wolfydelta!wolfydelta@wolfydelta.tmi.twitch.tv PRIVMSG #qojqva :???
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=31e46298c97d46075977c06da807d0bd;color=#0000FF;display-name=Sh4nx;emotes=;flags=;id=3e7b02a5-6d74-4724-b851-c0105a24c25b;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292832327;turbo=0;user-id=63211078;user-type= :sh4nx!sh4nx@sh4nx.tmi.twitch.tv PRIVMSG #qojqva :FrogeConcern
+
+@badge-info=;badges=;client-nonce=c83efba85e1120c104f57c62e713013f;color=#2E8B57;display-name=ett_annat_jag;emotes=;flags=;id=40305763-146e-4fa5-b9cf-b6f6aa67fccf;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292833735;turbo=0;user-id=649524858;user-type= :ett_annat_jag!ett_annat_jag@ett_annat_jag.tmi.twitch.tv PRIVMSG #qojqva :@qojqva do u smoke weed
+
+@badge-info=subscriber/1;badges=subscriber/0;client-nonce=baaf51f1daea646b795a60545831fd49;color=#220087;display-name=12YearOldNoScoper;emote-only=1;emotes=300577184:0-6/300577180:8-15/300577185:17-25;flags=;id=c5c1654a-4c1c-46eb-ada1-fd58af7d7dcc;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292835616;turbo=0;user-id=450538884;user-type= :12yearoldnoscoper!12yearoldnoscoper@12yearoldnoscoper.tmi.twitch.tv PRIVMSG #qojqva :pokiSub pokiFree pokiPrime
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=7e27652b2b040ff1156be3428251de08;color=;display-name=Apricobama;emotes=;flags=;id=cf465d8b-d6ef-48ef-a691-5265563abf17;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292836199;turbo=0;user-id=87531242;user-type= :apricobama!apricobama@apricobama.tmi.twitch.tv PRIVMSG #qojqva :pepeW
+@badge-info=;badges=;client-nonce=a9ae47f90b85cec0a37f596ec23cef82;color=#1E90FF;display-name=CosMazZz;emotes=;flags=;id=bcea88e8-daf5-46bc-b964-85531ef20d9e;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292836862;turbo=0;user-id=88709526;user-type= :cosmazzz!cosmazzz@cosmazzz.tmi.twitch.tv PRIVMSG #qojqva :pepew
+
+@badge-info=;badges=glhf-pledge/1;client-nonce=06e968096309b7be2e0f610eb4b777c4;color=;display-name=BrLilLynx;emotes=;flags=;id=45cd5a33-dc76-4cf8-a7ba-e02c969fca8b;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292837107;turbo=0;user-id=455728282;user-type= :brlillynx!brlillynx@brlillynx.tmi.twitch.tv PRIVMSG #qojqva :ç
+@badge-info=;badges=;color=;display-name=sanxchit;emotes=;flags=;id=85e54d0c-489b-47a4-82ae-6e433332cf7b;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292837226;turbo=0;user-id=729174100;user-type= :sanxchit!sanxchit@sanxchit.tmi.twitch.tv PRIVMSG #qojqva :SELLOUT
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=4e438c9f616b48cd86e7dc641e39c18c;color=#0000FF;display-name=Nexaa1;emotes=1:4-5;flags=;id=f7fb51aa-0898-447e-a5f3-51c93ae950f3;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292838539;turbo=0;user-id=76906068;user-type= :nexaa1!nexaa1@nexaa1.tmi.twitch.tv PRIVMSG #qojqva :yes :)
+
+@badge-info=;badges=;client-nonce=c55a772cf34bb7533e92a97ff7a39545;color=#1E90FF;display-name=CosMazZz;emotes=;flags=;id=4d9bee3b-9889-4ff9-b8a2-4be7057644b7;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292838935;turbo=0;user-id=88709526;user-type= :cosmazzz!cosmazzz@cosmazzz.tmi.twitch.tv PRIVMSG #qojqva :pepeW
+
+@badge-info=;badges=;client-nonce=5cf4e3a300f50ab6cca15b517eaa534c;color=#0000FF;display-name=WolfyDelta;emotes=;flags=;id=c170c281-0d38-448c-9c82-1469da917a30;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292839963;turbo=0;user-id=122735225;user-type= :wolfydelta!wolfydelta@wolfydelta.tmi.twitch.tv PRIVMSG #qojqva :@qojqva sellout
+
+@badge-info=subscriber/2;badges=subscriber/0;client-nonce=148887bb001d2090f600c94e764c98ab;color=#29A529;display-name=emetophobe;emotes=;flags=;id=1d55b6f5-ea40-455b-bba9-e27a18922d6c;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292840096;turbo=0;user-id=268971062;user-type= :emetophobe!emetophobe@emetophobe.tmi.twitch.tv PRIVMSG #qojqva :KEKW
+
+@badge-info=;badges=glhf-pledge/1;client-nonce=eacdab1060f3d611814608f190f86faf;color=#FF0000;display-name=frittnyx;emotes=;flags=;id=adc980aa-04c7-474b-9d97-8ea70ac407d2;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292842670;turbo=0;user-id=110522708;user-type= :frittnyx!frittnyx@frittnyx.tmi.twitch.tv PRIVMSG #qojqva :george c
+
+@badge-info=;badges=;color=;display-name=m4tiki;emotes=;flags=;id=7cbac7e5-ad49-4f30-a7cf-39e6cc4441a0;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292843128;turbo=0;user-id=121925150;user-type= :m4tiki!m4tiki@m4tiki.tmi.twitch.tv PRIVMSG #qojqva :gorgc ofc
+
+@badge-info=;badges=glhf-pledge/1;client-nonce=2067c3bdfdfc373e4c06792196c10133;color=#8A2BE2;display-name=EclipseDoto;emotes=;flags=;id=1db92c51-c16e-4d9c-a893-ecaca9709887;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292843054;turbo=0;user-id=63595518;user-type= :eclipsedoto!eclipsedoto@eclipsedoto.tmi.twitch.tv PRIVMSG #qojqva :George KEKW
+
+@badge-info=;badges=;client-nonce=4689aec51916a7fda91977cf613299ac;color=#FF0000;display-name=overlycomplecated;emotes=;flags=;id=2ee0c9e8-2251-4ba6-801d-0ec69f643213;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292845516;turbo=0;user-id=443644595;user-type= :overlycomplecated!overlycomplecated@overlycomplecated.tmi.twitch.tv PRIVMSG #qojqva :Subs not 20 % off , cant afford
+
+@badge-info=;badges=;client-nonce=65fd1e4c1198ca7663f7999fd57f9cbc;color=#FF4500;display-name=Damer76;emotes=;flags=;id=4ce52ff3-4079-4413-a55f-942758970e66;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292845616;turbo=0;user-id=162510447;user-type= :damer76!damer76@damer76.tmi.twitch.tv PRIVMSG #qojqva :jirj PepeLa
+
+@badge-info=;badges=;color=;display-name=Hit0Man;emotes=;flags=;id=79dc34c9-41b5-4f0a-8946-57dbe749b23b;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292845844;turbo=0;user-id=195467063;user-type= :hit0man!hit0man@hit0man.tmi.twitch.tv PRIVMSG #qojqva :mass of?
+
+@badge-info=;badges=premium/1;client-nonce=23df2e8365ec576e5e5f30e91ca24f1c;color=#5A4030;display-name=TheGreatPeru;emotes=;flags=3-6:P.6;id=642d1e16-0d03-4b77-ad09-6d97a8b99a64;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292846970;turbo=0;user-id=84982078;user-type= :thegreatperu!thegreatperu@thegreatperu.tmi.twitch.tv PRIVMSG #qojqva :oh fuck what's Prime
+
+@badge-info=;badges=;client-nonce=b45818e381d350d5ba0afcdfb3584720;color=;display-name=RnZPwN;emotes=;flags=;id=8dc902e4-21bf-45e3-b978-a947303c6c81;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292846999;turbo=0;user-id=166424940;user-type= :rnzpwn!rnzpwn@rnzpwn.tmi.twitch.tv PRIVMSG #qojqva :GEORGE KEKW
+
+@badge-info=;badges=;client-nonce=1a0b9a25f378d4d553ad2c7f8cd4db6a;color=#00FF7F;display-name=Joshua99998;emotes=;flags=;id=9839371d-61de-4408-b92f-731e4aded0ca;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292847236;turbo=0;user-id=48863994;user-type= :joshua99998!joshua99998@joshua99998.tmi.twitch.tv PRIVMSG #qojqva :i wish arteezy could stream Sadge
+
+@badge-info=;badges=;client-nonce=47ac2ea25f0315d743a7a4503e7c3c2c;color=#008000;display-name=cmartel31;emotes=;flags=;id=8767d84e-c015-4ded-941b-bf18684020b4;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292847243;turbo=0;user-id=120254544;user-type= :cmartel31!cmartel31@cmartel31.tmi.twitch.tv PRIVMSG #qojqva :poki subs pepeW
+
+@badge-info=;badges=glhf-pledge/1;client-nonce=0263ea12c8c34c8d595ef9d3102515fe;color=#FF0000;display-name=sriki007;emotes=4339:17-25;flags=;id=fc781d79-a54c-44f7-a1ea-ea8751d6e94a;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292847537;turbo=0;user-id=45025169;user-type= :sriki007!sriki007@sriki007.tmi.twitch.tv PRIVMSG #qojqva :im subbed to RTZ EleGiggle
+
+@badge-info=;badges=;color=;display-name=rash_08;emotes=;flags=;id=17b195bd-e94f-42d5-b86f-49dc5359f86a;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292849135;turbo=0;user-id=151332082;user-type= :rash_08!rash_08@rash_08.tmi.twitch.tv PRIVMSG #qojqva :gorgx
+
+@badge-info=;badges=;client-nonce=1be1c014bbdbbaffe252f52cf3c2d965;color=#1E90FF;display-name=shadowangel1234;emotes=;flags=;id=ccd6b2aa-063e-4cc2-a9fa-cf1bfc3c3f2d;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292850384;turbo=0;user-id=54384458;user-type= :shadowangel1234!shadowangel1234@shadowangel1234.tmi.twitch.tv PRIVMSG #qojqva :tiny or tinker as most banned? @qojqva
+
+@badge-info=;badges=premium/1;client-nonce=bdbc2ca807c35b59164d969765ac6183;color=;display-name=VoluptaBox;emotes=555555560:22-23;flags=;id=9696fe74-6144-429a-a108-542a457e73be;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292850999;turbo=0;user-id=39445910;user-type= :voluptabox!voluptabox@voluptabox.tmi.twitch.tv PRIVMSG #qojqva :sorry, gave it to BSJ :D
+
+@badge-info=;badges=;client-nonce=f26367cdad2db402cf1a57f36de3b3cb;color=;display-name=epirush1;emotes=;flags=;id=88cf3ae4-5daa-4921-becf-a23fc9c6262a;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292851182;turbo=0;user-id=720686560;user-type= :epirush1!epirush1@epirush1.tmi.twitch.tv PRIVMSG #qojqva :gorgc
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=ccbaa0777dd75ebb59eed1817581e16b;color=;display-name=pbouch;emote-only=1;emotes=25:0-4;flags=;id=662fdd17-b2c5-4b37-80d5-396542dde250;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292851615;turbo=0;user-id=486510910;user-type= :pbouch!pbouch@pbouch.tmi.twitch.tv PRIVMSG #qojqva :Kappa
+
+@badge-info=;badges=;client-nonce=5d8627508fc5f9ccef2c0dab2e98a07a;color=#FF4500;display-name=fuubars;emotes=;flags=;id=4b9d4569-a25e-4c1e-a790-c908c8a84a28;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292852071;turbo=0;user-id=100500310;user-type= :fuubars!fuubars@fuubars.tmi.twitch.tv PRIVMSG #qojqva :gorgc enjoyers pepeW
+
+@badge-info=;badges=;client-nonce=ab17b91766dac331888ba83feea22298;color=#1E90FF;display-name=CosMazZz;emotes=;flags=;id=14d59612-f36c-4b2c-9add-2e9a5a81b459;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292853265;turbo=0;user-id=88709526;user-type= :cosmazzz!cosmazzz@cosmazzz.tmi.twitch.tv PRIVMSG #qojqva :baited pepeW
+
+@badge-info=;badges=glhf-pledge/1;color=#FF0000;display-name=ZUNKEN;emotes=;flags=;id=db4f3c48-d56a-4b7a-ba86-48674ff9198e;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292854074;turbo=0;user-id=109092418;user-type= :zunken!zunken@zunken.tmi.twitch.tv PRIVMSG #qojqva :EZ primes
+
+@badge-info=;badges=;client-nonce=45221f07860fa37891b62942b36995de;color=#1E90FF;display-name=Deadwinglullaby;emotes=;flags=;id=6080eafa-11ff-496c-b2a9-a373e85c8079;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292854091;turbo=0;user-id=86190116;user-type= :deadwinglullaby!deadwinglullaby@deadwinglullaby.tmi.twitch.tv PRIVMSG #qojqva :FREE BSJ SUB Pog
+@badge-info=;badges=;client-nonce=0cd66818de8f5375837e8696e8d03cf4;color=#1E90FF;display-name=FabioKINGG;emotes=;flags=;id=e21b6071-929d-4dde-8a60-72f377b42e2b;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292854137;turbo=0;user-id=140014535;user-type= :fabiokingg!fabiokingg@fabiokingg.tmi.twitch.tv PRIVMSG #qojqva :Heroes?
+
+@badge-info=subscriber/1;badges=subscriber/0;client-nonce=680cae746cc620afcf252a590797aba0;color=#220087;display-name=12YearOldNoScoper;emotes=;flags=0-2:P.0;id=73db4ecf-464e-4b53-808c-824538330498;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292855779;turbo=0;user-id=450538884;user-type= :12yearoldnoscoper!12yearoldnoscoper@12yearoldnoscoper.tmi.twitch.tv PRIVMSG #qojqva :OMG SUB HAX
+
+@badge-info=;badges=;client-nonce=3a08b190de26f1e4888e49451adc13cc;color=;display-name=RnZPwN;emotes=;flags=10-13:P.3;id=466c46ca-f00b-4c20-ad2c-d6e8f6c437b3;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292855884;turbo=0;user-id=166424940;user-type= :rnzpwn!rnzpwn@rnzpwn.tmi.twitch.tv PRIVMSG #qojqva :IT WORKED LMAO
+
+@badge-info=;badges=;client-nonce=d76aedfd44b2fa14e200ae6a6d5b9a11;color=;display-name=NeilMcCauley_;emotes=;flags=;id=804b9cc2-bc0b-46cb-bc5b-55d640a78d6b;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292857816;turbo=0;user-id=613224675;user-type= :neilmccauley_!neilmccauley_@neilmccauley_.tmi.twitch.tv PRIVMSG #qojqva :Jorc
+
+@badge-info=;badges=;client-nonce=19b396cb72cc60f190170bbbffc82f2c;color=#1E90FF;display-name=Fr3aKg4meR;emote-only=1;emotes=304152262:0-7;flags=;id=422b173a-22e5-4fcc-abd1-baa430aa09ca;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292858274;turbo=0;user-id=64417576;user-type= :fr3akg4mer!fr3akg4mer@fr3akg4mer.tmi.twitch.tv PRIVMSG #qojqva :khezuHmm
+
+@badge-info=;badges=;color=#0000FF;display-name=archieeeeeeeeeeeeee;emotes=;flags=;id=a21e69e2-e383-490a-9196-4dda68dc7e45;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292858709;turbo=0;user-id=249739227;user-type= :archieeeeeeeeeeeeee!archieeeeeeeeeeeeee@archieeeeeeeeeeeeee.tmi.twitch.tv PRIVMSG #qojqva :favorite german streamer khezu
+
+@badge-info=;badges=;client-nonce=e318b05192967d6bfadf2de1e0f1379d;color=;display-name=mikehendrixb;emotes=;flags=;id=2e1a475d-4f58-4138-9a7a-6b27173a2ed4;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292860545;turbo=0;user-id=218361540;user-type= :mikehendrixb!mikehendrixb@mikehendrixb.tmi.twitch.tv PRIVMSG #qojqva :george cow ez
+
+@badge-info=;badges=;client-nonce=e956d47824755d30c304eab8d2856d7a;color=#DAA520;display-name=Lanler_;emotes=;flags=;id=aecbba09-038e-4f4e-83b2-d705c687cd6a;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292862188;turbo=0;user-id=80439007;user-type= :lanler_!lanler_@lanler_.tmi.twitch.tv PRIVMSG #qojqva :LOL IT WORKED
+
+@badge-info=subscriber/1;badges=subscriber/0;color=#0000FF;display-name=phoppo;emotes=;flags=;id=419df805-13e1-4d04-b04c-1b28ceebb1ed;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292867779;turbo=0;user-id=245339353;user-type= :phoppo!phoppo@phoppo.tmi.twitch.tv PRIVMSG #qojqva :Who would sub for gorgc
+
+@badge-info=;badges=;client-nonce=522cc34a8e6713e78d64edec25b10811;color=;display-name=epirush1;emotes=;flags=;id=c7f4c818-1908-4def-8a27-71eb22e7fd65;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292872817;turbo=0;user-id=720686560;user-type= :epirush1!epirush1@epirush1.tmi.twitch.tv PRIVMSG #qojqva :me
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=c0fab8f5c183c36b5da34ffd94abd4cf;color=;display-name=Apricobama;emotes=115234:7-14;flags=;id=8818b1f6-b51c-4aed-a0ad-310641db7984;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292875298;turbo=0;user-id=87531242;user-type= :apricobama!apricobama@apricobama.tmi.twitch.tv PRIVMSG #qojqva :George BatChest
+
+@badge-info=;badges=premium/1;client-nonce=eed7b1064ca77637c765120d9444c771;color=;display-name=shonk__;emotes=;flags=;id=77e0da23-0746-402f-b1b2-cf170bb1c97c;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292876583;turbo=0;user-id=194330832;user-type= :shonk__!shonk__@shonk__.tmi.twitch.tv PRIVMSG #qojqva :pepeJAM pepeJAM pepeJAM pepeJAM pepeJAM pepeJAM pepeJAM pepeJAM pepeJAM pepeJAM pepeJAM pepeJAM pepeJAM pepeJAM pepeJAM pepeJAM pepeJAM pepeJAM pepeJAM pepeJAM pepeJAM pepeJAM pepeJAM pepeJAM
+
+@badge-info=;badges=partner/1;color=#7C7CE1;display-name=Nightbot;emotes=;flags=;id=6849ded0-5f92-4bdb-ac35-288433af1068;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292876849;turbo=0;user-id=19264788;user-type= :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #qojqva :@shonk__ -> Too easy. [stop spamming words/phrases] [warning]
+
+PING :tmi.twitch.tv
+
+@badge-info=;badges=;color=#FF0000;display-name=Incognito122;emotes=;flags=;id=4ee24484-0978-436c-886b-bf6994119fd6;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292878389;turbo=0;user-id=70330850;user-type= :incognito122!incognito122@incognito122.tmi.twitch.tv PRIVMSG #qojqva :@qojqva do u play party q w/ the Bois? boxi insania
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;color=#DAA520;display-name=Chrisser87;emotes=;flags=;id=f89b35de-5545-4a60-a059-8dbb4d6895fc;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292879583;turbo=0;user-id=68405206;user-type= :chrisser87!chrisser87@chrisser87.tmi.twitch.tv PRIVMSG #qojqva :bist ein guter vertriebler
+
+@badge-info=;badges=;client-nonce=a5ceaa29198f2bddcdf2b2a774af955a;color=;display-name=RnZPwN;emotes=;flags=;id=afbf17ab-313e-4e85-b2eb-4205bc7b676e;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292884510;turbo=0;user-id=166424940;user-type= :rnzpwn!rnzpwn@rnzpwn.tmi.twitch.tv PRIVMSG #qojqva :SHADOW FRIEND
+
+@badge-info=;badges=;client-nonce=b0b07d38bff6ef701e833192076676cc;color=;display-name=sd3lt4;emotes=;flags=;id=544787da-f300-420b-b3a9-1af602b5ca32;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292885922;turbo=0;user-id=493965274;user-type= :sd3lt4!sd3lt4@sd3lt4.tmi.twitch.tv PRIVMSG #qojqva :who would sub on twitch
+
+@badge-info=;badges=;client-nonce=db4ad083225d56a719a70fea4a457bac;color=#DAA520;display-name=TheMuffinsPie;emotes=;flags=;id=fe9cc2ce-016c-4f6d-8b8c-ff600d437d07;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292887725;turbo=0;user-id=31869149;user-type= :themuffinspie!themuffinspie@themuffinspie.tmi.twitch.tv PRIVMSG #qojqva :do u play visage ?
+
+@badge-info=;badges=;color=;display-name=b_i_gg_e;emotes=;flags=;id=29a1505c-36f6-480b-9cea-16a034db5046;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292891833;turbo=0;user-id=701732020;user-type= :b_i_gg_e!b_i_gg_e@b_i_gg_e.tmi.twitch.tv PRIVMSG #qojqva :!np
+
+@badge-info=;badges=moderator/1;color=#FF69B4;display-name=9kmmrbot;emotes=;flags=;id=56196b2a-c587-41d6-819f-4b262967cd5f;mod=1;room-id=49440419;subscriber=0;tmi-sent-ts=1633292892821;turbo=0;user-id=116840182;user-type=mod :9kmmrbot!9kmmrbot@9kmmrbot.tmi.twitch.tv PRIVMSG #qojqva :All Pick [8740 avg MMR]: ALWAYSWANNAFLY (Shadow Demon), Nine (Skywrath Mage), Gilgir (Earth Spirit), rmN- (Windranger), oliver (Medusa)
+
+@badge-info=;badges=;client-nonce=07594bc3e8671db6ba94e8256a049741;color=#00FF7F;display-name=Joshua99998;emotes=;flags=;id=0f4ec640-d53e-4e98-a9ff-261e2bc53b63;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292893763;turbo=0;user-id=48863994;user-type= :joshua99998!joshua99998@joshua99998.tmi.twitch.tv PRIVMSG #qojqva :gachiHYPER
+
+@badge-info=;badges=;client-nonce=0755b0b800bec708b4f8f5db9c1cc439;color=;display-name=Fredoq;emotes=;flags=;id=62533ddb-e1ed-483c-b88a-bf5e92029341;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292899120;turbo=0;user-id=20665984;user-type= :fredoq!fredoq@fredoq.tmi.twitch.tv PRIVMSG #qojqva :sf vs sky? LOL GG
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=41d553bb42f7e5dd92ad1c1f14e8c27c;color=#0000FF;display-name=Sh4nx;emotes=;flags=;id=8e5e8f90-7b50-45fb-9e1a-637c00d74f97;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292900017;turbo=0;user-id=63211078;user-type= :sh4nx!sh4nx@sh4nx.tmi.twitch.tv PRIVMSG #qojqva :Krappa
+
+@badge-info=;badges=;client-nonce=94b6887b77fcc9de874e31a0322430a7;color=;display-name=NeilMcCauley_;emotes=;flags=;id=8d2f046d-2b5e-43f3-965c-377c67143880;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292900253;turbo=0;user-id=613224675;user-type= :neilmccauley_!neilmccauley_@neilmccauley_.tmi.twitch.tv PRIVMSG #qojqva :magical?
+
+@badge-info=;badges=;color=#0000FF;display-name=archieeeeeeeeeeeeee;emotes=;flags=;id=b7e8bb99-e215-4844-bc77-ecd309c79dd5;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292900576;turbo=0;user-id=249739227;user-type= :archieeeeeeeeeeeeee!archieeeeeeeeeeeeee@archieeeeeeeeeeeeee.tmi.twitch.tv PRIVMSG #qojqva :sf aghs shard???
+
+@badge-info=;badges=;client-nonce=9b8774e82314d44ec091e2109175f2de;color=#8A2BE2;display-name=paid_actor_3;emotes=;flags=;id=7ed87926-0ec5-47a9-81f5-da05487138f1;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292900955;turbo=0;user-id=111701459;user-type= :paid_actor_3!paid_actor_3@paid_actor_3.tmi.twitch.tv PRIVMSG #qojqva :Krappa
+
+@badge-info=subscriber/2;badges=subscriber/0;client-nonce=7153481d70694d0b4f9b5fc32602b5d1;color=#29A529;display-name=emetophobe;emotes=;flags=;id=8b77b4ef-c3c9-4f01-87ef-579b4243db5f;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292901234;turbo=0;user-id=268971062;user-type= :emetophobe!emetophobe@emetophobe.tmi.twitch.tv PRIVMSG #qojqva :GIGACHAD
+
+@badge-info=;badges=;client-nonce=178054622f20bbf3ca970801f956bf7f;color=#008000;display-name=cmartel31;emotes=;flags=;id=dbcc3c13-1c2b-4f84-8d24-3ed366b8a0a1;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292902162;turbo=0;user-id=120254544;user-type= :cmartel31!cmartel31@cmartel31.tmi.twitch.tv PRIVMSG #qojqva :Krappa
+
+@badge-info=;badges=glitchcon2020/1;client-nonce=e45ade62d49358a9d103282ea99d3b65;color=#FF0000;display-name=molkorn;emotes=;flags=;id=e3b955c0-6829-4090-9ba5-e51f02c46e26;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292902804;turbo=0;user-id=64358795;user-type= :molkorn!molkorn@molkorn.tmi.twitch.tv PRIVMSG #qojqva :BASED
+
+@badge-info=;badges=;client-nonce=dfd56839b2b25f884af6ab3d1e9ad9a2;color=#1E90FF;display-name=CosMazZz;emotes=;flags=;id=4e314c88-6f9b-4717-b818-62b5685d9153;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292903298;turbo=0;user-id=88709526;user-type= :cosmazzz!cosmazzz@cosmazzz.tmi.twitch.tv PRIVMSG #qojqva :pepeW
+
+@badge-info=;badges=premium/1;client-nonce=46edf497ae385b8c6a91746c03d4affe;color=;display-name=evilvyse1;emotes=;flags=;id=d06de5e3-0be6-4796-bdae-eafed2eefef4;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292904019;turbo=0;user-id=28822921;user-type= :evilvyse1!evilvyse1@evilvyse1.tmi.twitch.tv PRIVMSG #qojqva :ROFL
+
+@badge-info=subscriber/1;badges=subscriber/0;client-nonce=e76c014e4cf9361c3b897214b3699c2f;color=#220087;display-name=12YearOldNoScoper;emotes=;flags=;id=888f0c0a-781f-4290-b6f1-40a7650dec9a;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292904132;turbo=0;user-id=450538884;user-type= :12yearoldnoscoper!12yearoldnoscoper@12yearoldnoscoper.tmi.twitch.tv PRIVMSG #qojqva :Kapp
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=250dc659696d8526ef106a3d9d6afbac;color=;display-name=Apricobama;emotes=;flags=;id=4ee7f411-cb7b-4cbb-82a2-867923689616;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292904397;turbo=0;user-id=87531242;user-type= :apricobama!apricobama@apricobama.tmi.twitch.tv PRIVMSG #qojqva :Krappa
+
+@badge-info=;badges=;client-nonce=916e370beb4b97f71bc53224b22c8dbe;color=#8A2BE2;display-name=H0llowed8D;emotes=;flags=;id=f9c8060c-75cb-4434-b9ae-bc3ec9815d6a;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292904987;turbo=0;user-id=45193321;user-type= :h0llowed8d!h0llowed8d@h0llowed8d.tmi.twitch.tv PRIVMSG #qojqva :Krappa
+
+@badge-info=;badges=;client-nonce=0cd7e7c1a78a339b8c5de174e94a50e1;color=;display-name=NeilMcCauley_;emotes=;flags=;id=3a7c6c5a-3d7b-4fb3-ab21-34020a28292c;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292905021;turbo=0;user-id=613224675;user-type= :neilmccauley_!neilmccauley_@neilmccauley_.tmi.twitch.tv PRIVMSG #qojqva :xD
+
+@badge-info=;badges=;color=;display-name=cec71071;emotes=;flags=;id=67f8990f-ba48-40ec-b5b9-d24f61638de5;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292905160;turbo=0;user-id=162735690;user-type= :cec71071!cec71071@cec71071.tmi.twitch.tv PRIVMSG #qojqva :SF strong imo
+
+@badge-info=;badges=premium/1;client-nonce=90d0c11b1c6a3312916fef9b76a8b79d;color=;display-name=evilvyse1;emotes=;flags=;id=ee13d398-4d13-40e3-8c67-cf39364faf17;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292905431;turbo=0;user-id=28822921;user-type= :evilvyse1!evilvyse1@evilvyse1.tmi.twitch.tv PRIVMSG #qojqva :LOSS
+
+@badge-info=;badges=glhf-pledge/1;client-nonce=e34e02f15dd571c6c121e236c0bb3208;color=#FF0000;display-name=frittnyx;emotes=;flags=;id=2e6392b9-6662-4c51-bbeb-d2acff40c359;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292905568;turbo=0;user-id=110522708;user-type= :frittnyx!frittnyx@frittnyx.tmi.twitch.tv PRIVMSG #qojqva :OMEGALUL
+
+@badge-info=;badges=glhf-pledge/1;client-nonce=4d2e182ab15c53af2c8f23786e569d89;color=#8A2BE2;display-name=EclipseDoto;emotes=;flags=;id=27f7efd7-bf28-4740-8643-09c1636387ef;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292905696;turbo=0;user-id=63595518;user-type= :eclipsedoto!eclipsedoto@eclipsedoto.tmi.twitch.tv PRIVMSG #qojqva :hahahaha
+
+@badge-info=;badges=;client-nonce=cdc9692231ec457b2de2aa45be50a25f;color=#FF69B4;display-name=TunaCoordinator;emotes=;flags=;id=914edaed-4552-423c-ab8b-3696962ad4a8;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292906236;turbo=0;user-id=85963397;user-type= :tunacoordinator!tunacoordinator@tunacoordinator.tmi.twitch.tv PRIVMSG #qojqva :loSS
+
+@badge-info=subscriber/2;badges=subscriber/0;client-nonce=0f54269ca4ca9476e8501dc85190cc44;color=#29A529;display-name=emetophobe;emotes=;flags=;id=86ab1c6c-06ba-4c90-bdcf-d04f2c3ac7b0;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292907223;turbo=0;user-id=268971062;user-type= :emetophobe!emetophobe@emetophobe.tmi.twitch.tv PRIVMSG #qojqva :KEKW
+
+@badge-info=;badges=;client-nonce=dd11abaf7af15316688e2057a852c037;color=#FF4500;display-name=fuubars;emotes=;flags=;id=1de2e1e2-744e-4d06-b4ed-91f7381a4b26;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292907444;turbo=0;user-id=100500310;user-type= :fuubars!fuubars@fuubars.tmi.twitch.tv PRIVMSG #qojqva :leshrac when?
+
+@badge-info=;badges=;color=#008000;display-name=lott1001;emotes=;flags=;id=47889fd6-b189-4e98-a372-6614b45380dc;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292909330;turbo=0;user-id=141507948;user-type= :lott1001!lott1001@lott1001.tmi.twitch.tv PRIVMSG #qojqva :pick pudger
+
+@badge-info=;badges=;client-nonce=1a9eb1f669b1b19b1b3eec7455d53987;color=;display-name=RnZPwN;emotes=555555558:32-33;flags=;id=44d533fb-3cd9-4cda-b4cb-f7dc91ac7862;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292909410;turbo=0;user-id=166424940;user-type= :rnzpwn!rnzpwn@rnzpwn.tmi.twitch.tv PRIVMSG #qojqva :why don't u play visage anymore :(
+
+@badge-info=;badges=;color=;display-name=partiizan22;emotes=;flags=;id=450e7efe-7a6c-4544-b2c4-88180c53920f;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292909854;turbo=0;user-id=262586204;user-type= :partiizan22!partiizan22@partiizan22.tmi.twitch.tv PRIVMSG #qojqva :lolll
+
+@badge-info=;badges=;client-nonce=9f5414f25a0bc3ff3d1ec2e3437362dc;color=;display-name=epirush1;emotes=;flags=;id=fab2ddce-57af-4cd3-b297-8ab07177f110;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292909909;turbo=0;user-id=720686560;user-type= :epirush1!epirush1@epirush1.tmi.twitch.tv PRIVMSG #qojqva :gunnar is good
+
+@badge-info=;badges=;color=;display-name=sanxchit;emotes=25:6-10,28-32;flags=;id=4adea6bd-dbba-43ac-ba05-acc66b9950e1;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292914643;turbo=0;user-id=729174100;user-type= :sanxchit!sanxchit@sanxchit.tmi.twitch.tv PRIVMSG #qojqva :FP SF Kappa Pick LD instead Kappa
+
+@badge-info=;badges=;color=;display-name=dijiy2z;emotes=;flags=;id=7b04f44e-9c46-4ae0-962f-b3c98122489d;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292914771;turbo=0;user-id=536670020;user-type= :dijiy2z!dijiy2z@dijiy2z.tmi.twitch.tv PRIVMSG #qojqva :@qojqva do you play leshrac??
+
+@badge-info=;badges=;client-nonce=91f89773520abf237555190488dd68e7;color=;display-name=Fredoq;emotes=;flags=;id=d509ce1b-014f-4fc9-a3b1-2bd45992a0f8;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292915554;turbo=0;user-id=20665984;user-type= :fredoq!fredoq@fredoq.tmi.twitch.tv PRIVMSG #qojqva :KEKW
+
+@badge-info=;badges=;client-nonce=80685c0e3ad2c83bda1fbff1bb7bda2c;color=#FF0000;display-name=erfansh12;emotes=;flags=;id=fa370e69-dc5d-49ce-a2b2-1d03abc1d2fa;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292917515;turbo=0;user-id=139752559;user-type= :erfansh12!erfansh12@erfansh12.tmi.twitch.tv PRIVMSG #qojqva :GIGACHAD FIRST PICK
+
+@badge-info=;badges=;client-nonce=2eb475a61daf3a4b819cae5a01801257;color=#FF0000;display-name=ir_wex;emotes=25:5-9;flags=;id=8181ce4d-0dc4-4594-ad77-9e2805a9f524;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292918516;turbo=0;user-id=190455218;user-type= :ir_wex!ir_wex@ir_wex.tmi.twitch.tv PRIVMSG #qojqva :Top3 Kappa
+
+@badge-info=subscriber/1;badges=subscriber/0;client-nonce=c25a73bce1d5e5e4c59f77f292baa3a7;color=#220087;display-name=12YearOldNoScoper;emotes=;flags=;id=d503334a-a0bf-48f4-8e72-6408196c3475;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292918977;turbo=0;user-id=450538884;user-type= :12yearoldnoscoper!12yearoldnoscoper@12yearoldnoscoper.tmi.twitch.tv PRIVMSG #qojqva :RED PAGE
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=98e69ac0ae8e30f2fd4c4cd48c3dc50e;color=#0000FF;display-name=Sh4nx;emotes=;flags=;id=7081c4df-39e1-428b-8d60-e8a5c5bc14e8;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292919933;turbo=0;user-id=63211078;user-type= :sh4nx!sh4nx@sh4nx.tmi.twitch.tv PRIVMSG #qojqva :only 100 games pepeW
+
+@badge-info=;badges=;client-nonce=93d3759294087a08d4198cb70de6e7e8;color=#00FF7F;display-name=Joshua99998;emotes=;flags=;id=965cc97b-5dfe-46b5-ad83-3c292e452efc;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292920103;turbo=0;user-id=48863994;user-type= :joshua99998!joshua99998@joshua99998.tmi.twitch.tv PRIVMSG #qojqva :black hole subscribed Pog
+
+@badge-info=;badges=premium/1;color=#5A4030;display-name=TheGreatPeru;emotes=;flags=;id=11f8c174-dae3-4a50-8921-563fc822b510;mod=0;msg-id=highlighted-message;room-id=49440419;subscriber=0;tmi-sent-ts=1633292920106;turbo=0;user-id=84982078;user-type= :thegreatperu!thegreatperu@thegreatperu.tmi.twitch.tv PRIVMSG #qojqva :@qojqva that visage winrate lookin more marinara than pesto my guy
+@badge-info=;badges=;client-nonce=80540e68785951af4e1b085869c34bf9;color=;display-name=lightningspeed1992;emotes=;flags=;id=57ef8e8d-3d7c-4e0c-b240-fa6ef5529d8a;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292920140;turbo=0;user-id=89522508;user-type= :lightningspeed1992!lightningspeed1992@lightningspeed1992.tmi.twitch.tv PRIVMSG #qojqva :@qojqva do u play Huskar?
+
+@badge-info=;badges=;color=;display-name=denialjack;emotes=25:7-11;flags=;id=72028614-fde3-4720-9421-4da0788bd379;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292921396;turbo=0;user-id=401723531;user-type= :denialjack!denialjack@denialjack.tmi.twitch.tv PRIVMSG #qojqva :Huskar Kappa
+
+@badge-info=subscriber/1;badges=subscriber/0;client-nonce=640fcbc34d641078a1b47d920dd9757a;color=;display-name=tomodachi27;emotes=;flags=;id=bea9d389-6ba6-4481-9683-2a4694ade2dd;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292921605;turbo=0;user-id=197959177;user-type= :tomodachi27!tomodachi27@tomodachi27.tmi.twitch.tv PRIVMSG #qojqva :first pick SF
+@badge-info=;badges=;color=;display-name=Just_Drama;emotes=;flags=;id=4ece4f01-63e7-4a4b-9525-646713ce2c50;mod=0;room-id=49440419;subscriber=0;tmi-sent-ts=1633292922390;turbo=0;user-id=90201099;user-type= :just_drama!just_drama@just_drama.tmi.twitch.tv PRIVMSG #qojqva :KEKW
+
+@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=4666634b2c73e2193c4f2d98dd6e3679;color=#FF0000;display-name=frakilg;emotes=;flags=;id=5cf1c756-c6b7-4bc9-b800-ad6008d9db41;mod=0;room-id=49440419;subscriber=1;tmi-sent-ts=1633292926740;turbo=0;user-id=678463285;user-type= :frakilg!frakilg@frakilg.tmi.twitch.tv PRIVMSG #qojqva :Play it soon then
+

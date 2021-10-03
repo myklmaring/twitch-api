@@ -43,6 +43,7 @@ def verify_signature(header, body):
            body
 
     # - - - - - - - - - - - - - - - - - - - REPLACE THIS HERE - - - - - - - - - - - - - - - - - - - #
+    #                   need to make your own unique webhook key and keep track of it               #
     with open('../../not4github/app_credentials.json') as f:
         data = json.load(f)
     webhook_key = data['markov_chain_bot']['webhook_key']
@@ -75,7 +76,8 @@ def get_tunnel():
 if __name__ == "__main__":
 
     # your client id and secret can be found by clicking manage on your registered application in the
-    #   applications tab on the twitch developer console.  Don't upload your secret to Github :)
+    # applications tab on the twitch developer console.  Don't upload your secret to Github :)
+    # webhook key is something you define as your password for the webhook
 
     # - - - - - - - - - - - - - - - - - - - REPLACE THIS HERE - - - - - - - - - - - - - - - - - - - #
     with open('../../not4github/app_credentials.json') as f:
@@ -106,6 +108,7 @@ if __name__ == "__main__":
     #
     # As per EventSub standards you must use port 443 and https forwarding url
     #    port 8443 is an alternative to 443 because 443 is protected and can't be used without root privileges
+    #    running something as root ignores the conda environment
     # download ngrok then launch it using the command in the terminal:
     #    ./ngrok http 8443
     callback = get_tunnel() + '/webhook'  # This is your ngrok url + /webhook

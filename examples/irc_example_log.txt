@@ -1,0 +1,502 @@
+:tmi.twitch.tv 001 pyramid_spammer69 :Welcome, GLHF!
+:tmi.twitch.tv 002 pyramid_spammer69 :Your host is tmi.twitch.tv
+:tmi.twitch.tv 003 pyramid_spammer69 :This server is rather new
+:tmi.twitch.tv 004 pyramid_spammer69 :-
+:tmi.twitch.tv 375 pyramid_spammer69 :-
+:tmi.twitch.tv 372 pyramid_spammer69 :You are in a maze of twisty passages, all alike.
+:tmi.twitch.tv 376 pyramid_spammer69 :>
+
+:pyramid_spammer69!pyramid_spammer69@pyramid_spammer69.tmi.twitch.tv JOIN #qojqva
+:pyramid_spammer69.tmi.twitch.tv 353 pyramid_spammer69 = #qojqva :pyramid_spammer69
+:pyramid_spammer69.tmi.twitch.tv 366 pyramid_spammer69 #qojqva :End of /NAMES list
+
+:rikigaming!rikigaming@rikigaming.tmi.twitch.tv PRIVMSG #qojqva :ez mid
+
+:mercimkk!mercimkk@mercimkk.tmi.twitch.tv PRIVMSG #qojqva :MASAO
+
+:beartheslaya!beartheslaya@beartheslaya.tmi.twitch.tv PRIVMSG #qojqva :!np
+
+:9kmmrbot!9kmmrbot@9kmmrbot.tmi.twitch.tv PRIVMSG #qojqva :All Pick [9156 avg MMR]: qojqva (Yellow), Fervian (Light Blue)
+
+:joshua99998!joshua99998@joshua99998.tmi.twitch.tv PRIVMSG #qojqva :ls mid Pog
+
+:12yearoldnoscoper!12yearoldnoscoper@12yearoldnoscoper.tmi.twitch.tv PRIVMSG #qojqva :abandon pepeW
+
+:phoppo!phoppo@phoppo.tmi.twitch.tv PRIVMSG #qojqva :You still owe us invoker tho
+
+:herox1008!herox1008@herox1008.tmi.twitch.tv PRIVMSG #qojqva :!wl
+
+:traffs!traffs@traffs.tmi.twitch.tv PRIVMSG #qojqva :Pog >50% winrate on lesh
+
+:nazgulxyz!nazgulxyz@nazgulxyz.tmi.twitch.tv PRIVMSG #qojqva :why u random in high mmr gamee?
+
+:theouroboro5!theouroboro5@theouroboro5.tmi.twitch.tv PRIVMSG #qojqva :u can make it work mid
+
+:b0ogiemonster!b0ogiemonster@b0ogiemonster.tmi.twitch.tv PRIVMSG #qojqva :why no huskar
+
+:evaligon!evaligon@evaligon.tmi.twitch.tv PRIVMSG #qojqva :KEKW
+
+:sucuras!sucuras@sucuras.tmi.twitch.tv PRIVMSG #qojqva :!gm
+
+:thegreatperu!thegreatperu@thegreatperu.tmi.twitch.tv PRIVMSG #qojqva :this would have been a great visage game
+
+:9kmmrbot!9kmmrbot@9kmmrbot.tmi.twitch.tv PRIVMSG #qojqva :Blue: #504, Teal: #111, Purple: #540, Yellow: #48, Orange: Immortal, Pink: #44, Gray: #30, Light Blue: Immortal, Green: #197, Brown: #100
+
+:sriki007!sriki007@sriki007.tmi.twitch.tv PRIVMSG #qojqva :POGGIES
+
+:brunochong!brunochong@brunochong.tmi.twitch.tv PRIVMSG #qojqva :trade LUL
+
+:rnzpwn!rnzpwn@rnzpwn.tmi.twitch.tv PRIVMSG #qojqva :SADGE
+
+:just_drama!just_drama@just_drama.tmi.twitch.tv PRIVMSG #qojqva :NotLikeThis
+
+:sh4nx!sh4nx@sh4nx.tmi.twitch.tv PRIVMSG #qojqva :KEKW
+
+:erfansh12!erfansh12@erfansh12.tmi.twitch.tv PRIVMSG #qojqva :random GIGACHAD
+
+:relestless!relestless@relestless.tmi.twitch.tv PRIVMSG #qojqva :KEKW
+
+:rnzpwn!rnzpwn@rnzpwn.tmi.twitch.tv PRIVMSG #qojqva :NotLikeThis
+
+:realdeal1337!realdeal1337@realdeal1337.tmi.twitch.tv PRIVMSG #qojqva :@qojqva what u think about prophet (furion)?
+
+:b_i_gg_e!b_i_gg_e@b_i_gg_e.tmi.twitch.tv PRIVMSG #qojqva :!np
+
+:jasondavidlee123!jasondavidlee123@jasondavidlee123.tmi.twitch.tv PRIVMSG #qojqva :ls isnt bad at all u couldvt got meepo chen
+
+:cosmazzz!cosmazzz@cosmazzz.tmi.twitch.tv PRIVMSG #qojqva :go mid lifestealer Pog
+
+:t0kimonsta!t0kimonsta@t0kimonsta.tmi.twitch.tv PRIVMSG #qojqva :GIGACHAD
+
+:maxtrell!maxtrell@maxtrell.tmi.twitch.tv PRIVMSG #qojqva :mid ls Pog
+
+:fuubars!fuubars@fuubars.tmi.twitch.tv PRIVMSG #qojqva :!np
+
+:oolc!oolc@oolc.tmi.twitch.tv PRIVMSG #qojqva :NAIX RADIANCE GO?
+
+:sh4nx!sh4nx@sh4nx.tmi.twitch.tv PRIVMSG #qojqva :how hard could it be pepeW
+
+:archieeeeeeeeeeeeee!archieeeeeeeeeeeeee@archieeeeeeeeeeeeee.tmi.twitch.tv PRIVMSG #qojqva :this is a meme game
+
+:paid_actor_3!paid_actor_3@paid_actor_3.tmi.twitch.tv PRIVMSG #qojqva :KEKW
+
+:rnzpwn!rnzpwn@rnzpwn.tmi.twitch.tv PRIVMSG #qojqva :VS STORM LUL
+
+:ern4682!ern4682@ern4682.tmi.twitch.tv PRIVMSG #qojqva :GO LS MID
+
+:sucuras!sucuras@sucuras.tmi.twitch.tv PRIVMSG #qojqva :orange doesnt even got a rank
+
+:ern4682!ern4682@ern4682.tmi.twitch.tv PRIVMSG #qojqva :LS MID
+
+:watuz1337!watuz1337@watuz1337.tmi.twitch.tv PRIVMSG #qojqva :mid lifestealer radiance POGGIES
+
+:yunglinggg!yunglinggg@yunglinggg.tmi.twitch.tv PRIVMSG #qojqva :NotLikeThis
+
+:apricobama!apricobama@apricobama.tmi.twitch.tv PRIVMSG #qojqva :mid naix GIGACHAD
+
+:thegreatperu!thegreatperu@thegreatperu.tmi.twitch.tv PRIVMSG #qojqva :mid ls vs storm SeemsGood
+
+:lott1001!lott1001@lott1001.tmi.twitch.tv PRIVMSG #qojqva :WTF where sf?
+
+:sd3lt4!sd3lt4@sd3lt4.tmi.twitch.tv PRIVMSG #qojqva :free loss
+
+:frittnyx!frittnyx@frittnyx.tmi.twitch.tv PRIVMSG #qojqva :watch him go 9-0-1
+
+:tomodachi27!tomodachi27@tomodachi27.tmi.twitch.tv PRIVMSG #qojqva :mid LS? qoj5Head
+
+:thepinhole!thepinhole@thepinhole.tmi.twitch.tv PRIVMSG #qojqva :vote lose all
+
+:oolc!oolc@oolc.tmi.twitch.tv PRIVMSG #qojqva :Radiance Dagon Naix
+
+:parrotsbeak!parrotsbeak@parrotsbeak.tmi.twitch.tv PRIVMSG #qojqva :aghanim first item and carry elder Pog
+
+:rnzpwn!rnzpwn@rnzpwn.tmi.twitch.tv PRIVMSG #qojqva :FACELESS VOID MID 4Head
+
+:archieeeeeeeeeeeeee!archieeeeeeeeeeeeee@archieeeeeeeeeeeeee.tmi.twitch.tv PRIVMSG #qojqva :sniepd
+
+:glacialgaming!glacialgaming@glacialgaming.tmi.twitch.tv PRIVMSG #qojqva :HAHA! i was about to go to bed
+
+:rossgambit_enthusiast!rossgambit_enthusiast@rossgambit_enthusiast.tmi.twitch.tv PRIVMSG #qojqva :no rank carry
+
+:overlycomplecated!overlycomplecated@overlycomplecated.tmi.twitch.tv PRIVMSG #qojqva :naix carry new meta Pog
+
+:3lyd0n!3lyd0n@3lyd0n.tmi.twitch.tv PRIVMSG #qojqva :please show us aghs naix :)
+
+:bronsuen!bronsuen@bronsuen.tmi.twitch.tv PRIVMSG #qojqva :!wl
+
+:frakilg!frakilg@frakilg.tmi.twitch.tv PRIVMSG #qojqva :Void safelane and LS mid
+
+:9kmmrbot!9kmmrbot@9kmmrbot.tmi.twitch.tv PRIVMSG #qojqva :W 3 - L 1
+:heraldsunite!heraldsunite@heraldsunite.tmi.twitch.tv PRIVMSG #qojqva :go radiance evasion golem infrst build kappa
+
+:glacialgaming!glacialgaming@glacialgaming.tmi.twitch.tv PRIVMSG #qojqva :but need to stay and watch this
+
+:12yearoldnoscoper!12yearoldnoscoper@12yearoldnoscoper.tmi.twitch.tv PRIVMSG #qojqva :this is the match that TI meta will be declared
+
+:apricobama!apricobama@apricobama.tmi.twitch.tv PRIVMSG #qojqva :Randoming in 9k average game GIGACHAD
+
+:m4tiki!m4tiki@m4tiki.tmi.twitch.tv PRIVMSG #qojqva :immortal carry
+
+:t0kimonsta!t0kimonsta@t0kimonsta.tmi.twitch.tv PRIVMSG #qojqva :mid naix GIGACHAD
+
+:b_i_gg_e!b_i_gg_e@b_i_gg_e.tmi.twitch.tv PRIVMSG #qojqva :!np
+
+:zawgyi1996!zawgyi1996@zawgyi1996.tmi.twitch.tv PRIVMSG #qojqva :which hero do you hate the most?
+
+:9kmmrbot!9kmmrbot@9kmmrbot.tmi.twitch.tv PRIVMSG #qojqva :All Pick [9156 avg MMR]: qojqva (Yellow), Fervian (Light Blue)
+
+:hit0man!hit0man@hit0man.tmi.twitch.tv PRIVMSG #qojqva :reported
+
+:frakilg!frakilg@frakilg.tmi.twitch.tv PRIVMSG #qojqva :WTF
+
+:maxxxx2442!maxxxx2442@maxxxx2442.tmi.twitch.tv PRIVMSG #qojqva :GG razor against Life
+
+:pejm!pejm@pejm.tmi.twitch.tv PRIVMSG #qojqva :win tiny game?
+
+:lahmunkeefaise!lahmunkeefaise@lahmunkeefaise.tmi.twitch.tv PRIVMSG #qojqva :playing BSJ heros now?
+
+:b0ogiemonster!b0ogiemonster@b0ogiemonster.tmi.twitch.tv PRIVMSG #qojqva :mid naix with mageslayer pog against storm
+
+:a3sth3tics!a3sth3tics@a3sth3tics.tmi.twitch.tv PRIVMSG #qojqva :wat
+
+:2kbear25!2kbear25@2kbear25.tmi.twitch.tv PRIVMSG #qojqva :free ff n mango ez money
+
+:ganoestattersail!ganoestattersail@ganoestattersail.tmi.twitch.tv PRIVMSG #qojqva :!gm
+
+:archieeeeeeeeeeeeee!archieeeeeeeeeeeeee@archieeeeeeeeeeeeee.tmi.twitch.tv PRIVMSG #qojqva :razor kekW
+
+:9kmmrbot!9kmmrbot@9kmmrbot.tmi.twitch.tv PRIVMSG #qojqva :Blue: #504, Teal: #111, Purple: #540, Yellow: #48, Orange: Immortal, Pink: #44, Gray: #30, Light Blue: Immortal, Green: #197, Brown: #100
+
+:vpgame147!vpgame147@vpgame147.tmi.twitch.tv PRIVMSG #qojqva :!rank
+
+:brlillynx!brlillynx@brlillynx.tmi.twitch.tv PRIVMSG #qojqva :wifestealer game
+
+:d_b123!d_b123@d_b123.tmi.twitch.tv PRIVMSG #qojqva :!np
+
+:rnzpwn!rnzpwn@rnzpwn.tmi.twitch.tv PRIVMSG #qojqva :GG RAZOR KEKW
+
+:zerocaloriewater!zerocaloriewater@zerocaloriewater.tmi.twitch.tv PRIVMSG #qojqva :Do you play meepo?
+
+:9970_!9970_@9970_.tmi.twitch.tv PRIVMSG #qojqva :@Sh4nx widepeepoHappy Kissahomie
+
+:neilmccauley_!neilmccauley_@neilmccauley_.tmi.twitch.tv PRIVMSG #qojqva :bsj reports anyone who random in ranked
+
+:h0llowed8d!h0llowed8d@h0llowed8d.tmi.twitch.tv PRIVMSG #qojqva :aghs
+
+:rnzpwn!rnzpwn@rnzpwn.tmi.twitch.tv PRIVMSG #qojqva :RADIANCE
+
+:archieeeeeeeeeeeeee!archieeeeeeeeeeeeee@archieeeeeeeeeeeeee.tmi.twitch.tv PRIVMSG #qojqva :u go forcestaff
+
+:spit5000!spit5000@spit5000.tmi.twitch.tv PRIVMSG #qojqva :What’s the build
+
+:tomodachi27!tomodachi27@tomodachi27.tmi.twitch.tv PRIVMSG #qojqva :is that razor mid or storm?
+
+:rnzpwn!rnzpwn@rnzpwn.tmi.twitch.tv PRIVMSG #qojqva :LUL
+
+:sh4nx!sh4nx@sh4nx.tmi.twitch.tv PRIVMSG #qojqva :@9970_ pepeW /
+
+:lukapsajk1!lukapsajk1@lukapsajk1.tmi.twitch.tv PRIVMSG #qojqva :!np
+
+:themuffinspie!themuffinspie@themuffinspie.tmi.twitch.tv PRIVMSG #qojqva :get an aghs so u stay in storm when he zips away
+
+:fredoq!fredoq@fredoq.tmi.twitch.tv PRIVMSG #qojqva :first item orchid
+
+:cmartel31!cmartel31@cmartel31.tmi.twitch.tv PRIVMSG #qojqva :midas travel radiance BASED
+
+:oolc!oolc@oolc.tmi.twitch.tv PRIVMSG #qojqva :Radiance is good lad
+
+:faresan!faresan@faresan.tmi.twitch.tv PRIVMSG #qojqva :aghs meme
+
+:jaqentheman!jaqentheman@jaqentheman.tmi.twitch.tv PRIVMSG #qojqva :halberd
+
+:tunacoordinator!tunacoordinator@tunacoordinator.tmi.twitch.tv PRIVMSG #qojqva :midas BASED
+
+:12yearoldnoscoper!12yearoldnoscoper@12yearoldnoscoper.tmi.twitch.tv PRIVMSG #qojqva :they have 4 counter for you, nothing will work PepeLaugh
+
+:faresan!faresan@faresan.tmi.twitch.tv PRIVMSG #qojqva :aghs deadls
+
+:vesgoms!vesgoms@vesgoms.tmi.twitch.tv PRIVMSG #qojqva :did you end your predictions sr? if Yes can you show please?
+
+:just_drama!just_drama@just_drama.tmi.twitch.tv PRIVMSG #qojqva :Virgin try hard razor
+
+:rnzpwn!rnzpwn@rnzpwn.tmi.twitch.tv PRIVMSG #qojqva :Midas Radiance
+
+:helmutzerber!helmutzerber@helmutzerber.tmi.twitch.tv PRIVMSG #qojqva :AGHS
+
+:theouroboro5!theouroboro5@theouroboro5.tmi.twitch.tv PRIVMSG #qojqva :halbred looks good
+
+:overlycomplecated!overlycomplecated@overlycomplecated.tmi.twitch.tv PRIVMSG #qojqva :SWAP WITH MASAO
+
+:lott1001!lott1001@lott1001.tmi.twitch.tv PRIVMSG #qojqva :rapier
+
+:eelobee!eelobee@eelobee.tmi.twitch.tv PRIVMSG #qojqva :movement speed
+
+:denialjack!denialjack@denialjack.tmi.twitch.tv PRIVMSG #qojqva :so many counter LUL
+
+:thegreatperu!thegreatperu@thegreatperu.tmi.twitch.tv PRIVMSG #qojqva :@qojqva nullifier at some point
+
+:9970_!9970_@9970_.tmi.twitch.tv PRIVMSG #qojqva :@sh4nx kiss you jerk pepeW
+
+:sithuhan999!sithuhan999@sithuhan999.tmi.twitch.tv PRIVMSG #qojqva :!np
+
+:9kmmrbot!9kmmrbot@9kmmrbot.tmi.twitch.tv PRIVMSG #qojqva :All Pick [9156 avg MMR]: qojqva (Yellow), Fervian (Light Blue)
+
+:mattsilverwolf!mattsilverwolf@mattsilverwolf.tmi.twitch.tv PRIVMSG #qojqva :offlane razor KEKW
+
+:robocoaster1!robocoaster1@robocoaster1.tmi.twitch.tv PRIVMSG #qojqva :abandon?
+
+:swindlesn0w!swindlesn0w@swindlesn0w.tmi.twitch.tv PRIVMSG #qojqva :Omellete?
+
+:bafonet1!bafonet1@bafonet1.tmi.twitch.tv PRIVMSG #qojqva :Gorc invated?
+
+:humancatapult!humancatapult@humancatapult.tmi.twitch.tv PRIVMSG #qojqva :@qojqva phase boots lul
+
+:alirezak5379!alirezak5379@alirezak5379.tmi.twitch.tv PRIVMSG #qojqva :sf=ls
+
+:its_mathers!its_mathers@its_mathers.tmi.twitch.tv PRIVMSG #qojqva :All counters lol
+
+:oriogaga!oriogaga@oriogaga.tmi.twitch.tv PRIVMSG #qojqva :hhhhhhhhhh
+:bursting74!bursting74@bursting74.tmi.twitch.tv PRIVMSG #qojqva :armet deso basher ac
+
+:nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #qojqva :@oriogaga -> I'm sorry, did I break your concentration? [stop spamming words/phrases] [warning]
+
+:archieeeeeeeeeeeeee!archieeeeeeeeeeeeee@archieeeeeeeeeeeeee.tmi.twitch.tv PRIVMSG #qojqva :aghs crit buils
+
+:sadramax!sadramax@sadramax.tmi.twitch.tv PRIVMSG #qojqva :!medal
+
+:erfansh12!erfansh12@erfansh12.tmi.twitch.tv PRIVMSG #qojqva :Orchid GIGACHAD
+
+:9kmmrbot!9kmmrbot@9kmmrbot.tmi.twitch.tv PRIVMSG #qojqva :#48
+
+:ern4682!ern4682@ern4682.tmi.twitch.tv PRIVMSG #qojqva :armlet better this game
+
+:cupraboss!cupraboss@cupraboss.tmi.twitch.tv PRIVMSG #qojqva :echosabre into orchid sange @qojqva
+
+:kumaratul!kumaratul@kumaratul.tmi.twitch.tv PRIVMSG #qojqva :Linkens
+
+:h0llowed8d!h0llowed8d@h0llowed8d.tmi.twitch.tv PRIVMSG #qojqva :i think silver edge aghs is the build Keepo
+
+:its_mathers!its_mathers@its_mathers.tmi.twitch.tv PRIVMSG #qojqva :Ya
+
+:spit5000!spit5000@spit5000.tmi.twitch.tv PRIVMSG #qojqva :All you need is wand for mana
+
+:sanxchit!sanxchit@sanxchit.tmi.twitch.tv PRIVMSG #qojqva :radiance GIGACHAD
+
+:maxxxx2442!maxxxx2442@maxxxx2442.tmi.twitch.tv PRIVMSG #qojqva :LUL
+
+:parrotsbeak!parrotsbeak@parrotsbeak.tmi.twitch.tv PRIVMSG #qojqva :dragon lance is good on naix BloodTrail CoolStoryBob CoolStoryBob
+
+:3lyd0n!3lyd0n@3lyd0n.tmi.twitch.tv PRIVMSG #qojqva :tortelini guide OMEGALUL
+
+:reutsharabani!reutsharabani@reutsharabani.tmi.twitch.tv PRIVMSG #qojqva :@qojqva how are you going to deal with static link?
+
+:12yearoldnoscoper!12yearoldnoscoper@12yearoldnoscoper.tmi.twitch.tv PRIVMSG #qojqva :red leshrac page PepeLa
+
+:sh4nx!sh4nx@sh4nx.tmi.twitch.tv PRIVMSG #qojqva :qojqva lesh KEKW
+
+:paid_actor_3!paid_actor_3@paid_actor_3.tmi.twitch.tv PRIVMSG #qojqva :KEKW
+
+:maxxxx2442!maxxxx2442@maxxxx2442.tmi.twitch.tv PRIVMSG #qojqva :LESH WIN RATE
+
+:rainepark!rainepark@rainepark.tmi.twitch.tv PRIVMSG #qojqva :Does razor leash work through infest?
+
+:bouche009!bouche009@bouche009.tmi.twitch.tv PRIVMSG #qojqva :!np
+
+:9kmmrbot!9kmmrbot@9kmmrbot.tmi.twitch.tv PRIVMSG #qojqva :All Pick [9156 avg MMR]: qojqva (Lifestealer), Fervian (Undying)
+
+:hanzoloxxx7!hanzoloxxx7@hanzoloxxx7.tmi.twitch.tv PRIVMSG #qojqva :4/16 POGGERTS
+
+:paid_actor_3!paid_actor_3@paid_actor_3.tmi.twitch.tv PRIVMSG #qojqva :KEKW NICE LESH
+
+:mattsilverwolf!mattsilverwolf@mattsilverwolf.tmi.twitch.tv PRIVMSG #qojqva :WutFave
+
+:archieeeeeeeeeeeeee!archieeeeeeeeeeeeee@archieeeeeeeeeeeeee.tmi.twitch.tv PRIVMSG #qojqva :doubter predict
+
+:sh4nx!sh4nx@sh4nx.tmi.twitch.tv PRIVMSG #qojqva :so bad KEKW
+
+:that_bored_engineer!that_bored_engineer@that_bored_engineer.tmi.twitch.tv PRIVMSG #qojqva :bloodthorn GIGACHAD
+
+:deadwinglullaby!deadwinglullaby@deadwinglullaby.tmi.twitch.tv PRIVMSG #qojqva :LESH RECORD KEKW
+
+:archieeeeeeeeeeeeee!archieeeeeeeeeeeeee@archieeeeeeeeeeeeee.tmi.twitch.tv PRIVMSG #qojqva :god gamer stats
+
+:mattsilverwolf!mattsilverwolf@mattsilverwolf.tmi.twitch.tv PRIVMSG #qojqva :WutFace
+
+:just_drama!just_drama@just_drama.tmi.twitch.tv PRIVMSG #qojqva :Force staff naix lets go
+
+:dtothethird!dtothethird@dtothethird.tmi.twitch.tv PRIVMSG #qojqva :if razor static links naix than naix infests razor... what happens
+
+:t_swizzle_22!t_swizzle_22@t_swizzle_22.tmi.twitch.tv PRIVMSG #qojqva :LUL
+
+:wermerkle_durkle!wermerkle_durkle@wermerkle_durkle.tmi.twitch.tv PRIVMSG #qojqva :maybe try LoL KEKW
+
+:madellax!madellax@madellax.tmi.twitch.tv PRIVMSG #qojqva :!gm
+
+:9kmmrbot!9kmmrbot@9kmmrbot.tmi.twitch.tv PRIVMSG #qojqva :Lich: #504, Slardar: #111, Shadow Demon: #540, Lifestealer: #48, Void Spirit: Immortal, Pink: #44, Monkey King: #30, Undying: Immortal, Slark: #197, Storm Spirit: #100
+
+:bouche009!bouche009@bouche009.tmi.twitch.tv PRIVMSG #qojqva :dagon
+
+:12yearoldnoscoper!12yearoldnoscoper@12yearoldnoscoper.tmi.twitch.tv PRIVMSG #qojqva :16-4 PepeLa
+
+:rnzpwn!rnzpwn@rnzpwn.tmi.twitch.tv PRIVMSG #qojqva :LULRACH
+
+:damightyroxx!damightyroxx@damightyroxx.tmi.twitch.tv PRIVMSG #qojqva :ahahahah lesh
+
+:joshua99998!joshua99998@joshua99998.tmi.twitch.tv PRIVMSG #qojqva :record LUL
+
+:0ldsnake123!0ldsnake123@0ldsnake123.tmi.twitch.tv PRIVMSG #qojqva :pepeW Quinn will not be happy
+
+:archieeeeeeeeeeeeee!archieeeeeeeeeeeeee@archieeeeeeeeeeeeee.tmi.twitch.tv PRIVMSG #qojqva :4/20 blaze it
+
+:ahabib11!ahabib11@ahabib11.tmi.twitch.tv PRIVMSG #qojqva :lol 4-16
+
+:reutsharabani!reutsharabani@reutsharabani.tmi.twitch.tv PRIVMSG #qojqva :static link not dispellable @dtothethird
+
+:garyv81!garyv81@garyv81.tmi.twitch.tv PRIVMSG #qojqva :why did they pick micke for offline instead of n actual offlaner?
+
+:banana12s!banana12s@banana12s.tmi.twitch.tv PRIVMSG #qojqva :@dtothethird no dmg to life but razor is going to keep stealing dmg
+
+:ahabib11!ahabib11@ahabib11.tmi.twitch.tv PRIVMSG #qojqva :CHAD
+
+:damightyroxx!damightyroxx@damightyroxx.tmi.twitch.tv PRIVMSG #qojqva :ahahahah
+
+:herox1008!herox1008@herox1008.tmi.twitch.tv PRIVMSG #qojqva :!wl
+
+:9kmmrbot!9kmmrbot@9kmmrbot.tmi.twitch.tv PRIVMSG #qojqva :W 3 - L 1
+
+:oolc!oolc@oolc.tmi.twitch.tv PRIVMSG #qojqva :@dtothethird razor will hit his own dick
+
+:damightyroxx!damightyroxx@damightyroxx.tmi.twitch.tv PRIVMSG #qojqva :bestlesh stats
+
+:herox1008!herox1008@herox1008.tmi.twitch.tv PRIVMSG #qojqva :!np
+
+:9kmmrbot!9kmmrbot@9kmmrbot.tmi.twitch.tv PRIVMSG #qojqva :All Pick [9156 avg MMR]: qojqva (Lifestealer), Fervian (Undying)
+
+:paid_actor_3!paid_actor_3@paid_actor_3.tmi.twitch.tv PRIVMSG #qojqva :AngelThump
+
+:herox1008!herox1008@herox1008.tmi.twitch.tv PRIVMSG #qojqva :!gm
+
+:9kmmrbot!9kmmrbot@9kmmrbot.tmi.twitch.tv PRIVMSG #qojqva :Lich: #504, Slardar: #111, Shadow Demon: #540, Lifestealer: #48, Void Spirit: Immortal, Pink: #44, Monkey King: #30, Undying: Immortal, Slark: #197, Storm Spirit: #100
+
+:ganoestattersail!ganoestattersail@ganoestattersail.tmi.twitch.tv PRIVMSG #qojqva :Best Lesh in the house Kappa
+
+:gebius!gebius@gebius.tmi.twitch.tv PRIVMSG #qojqva :better against the hero than with the hero :hmm
+
+:vesgoms!vesgoms@vesgoms.tmi.twitch.tv PRIVMSG #qojqva :anyone has printed The predictions?
+
+:herox1008!herox1008@herox1008.tmi.twitch.tv PRIVMSG #qojqva :!medal
+
+:9kmmrbot!9kmmrbot@9kmmrbot.tmi.twitch.tv PRIVMSG #qojqva :#48
+
+:cloudy___!cloudy___@cloudy___.tmi.twitch.tv PRIVMSG #qojqva :!wl
+
+:cloudy___!cloudy___@cloudy___.tmi.twitch.tv PRIVMSG #qojqva :!score
+
+:9kmmrbot!9kmmrbot@9kmmrbot.tmi.twitch.tv PRIVMSG #qojqva :W 3 - L 1
+
+:thegreatperu!thegreatperu@thegreatperu.tmi.twitch.tv PRIVMSG #qojqva :catJAM ratJAM pepeJAM catJAM ratJAM pepeJAM catJAM ratJAM pepeJAM
+
+:nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #qojqva :@TheGreatPeru -> Not on my watch! [stop spamming words/phrases]
+
+:visatanic!visatanic@visatanic.tmi.twitch.tv PRIVMSG #qojqva :@qojqva build Mage Slayer
+
+:zunken!zunken@zunken.tmi.twitch.tv PRIVMSG #qojqva :stats
+
+:emetophobe!emetophobe@emetophobe.tmi.twitch.tv PRIVMSG #qojqva :i'll fill you in gachiHYPER
+
+:heraldsunite!heraldsunite@heraldsunite.tmi.twitch.tv PRIVMSG #qojqva :@qojqva any radiance haliberd golem infest push build?
+
+:themuffinspie!themuffinspie@themuffinspie.tmi.twitch.tv PRIVMSG #qojqva :1141
+
+:9970_!9970_@9970_.tmi.twitch.tv PRIVMSG #qojqva :@art0fwar1 cbt1W Kissahomie
+
+:thepinhole!thepinhole@thepinhole.tmi.twitch.tv PRIVMSG #qojqva :People who join then abandon straight away are the worst
+
+:thegreatperu!thegreatperu@thegreatperu.tmi.twitch.tv PRIVMSG #qojqva :@qojqva get a nullifier?
+
+:spit5000!spit5000@spit5000.tmi.twitch.tv PRIVMSG #qojqva :1-1-4
+
+:pbouch!pbouch@pbouch.tmi.twitch.tv PRIVMSG #qojqva :Max E Kappa
+
+:theouroboro5!theouroboro5@theouroboro5.tmi.twitch.tv PRIVMSG #qojqva :halbred here look good
+
+:jaqentheman!jaqentheman@jaqentheman.tmi.twitch.tv PRIVMSG #qojqva :delta blues
+
+:kiss_the_ring_!kiss_the_ring_@kiss_the_ring_.tmi.twitch.tv PRIVMSG #qojqva :max edict, skip the rest
+
+:i_deep_dark_fantasy_i!i_deep_dark_fantasy_i@i_deep_dark_fantasy_i.tmi.twitch.tv PRIVMSG #qojqva :I HATE N1GGЕRS
+
+:wayne357_!wayne357_@wayne357_.tmi.twitch.tv PRIVMSG #qojqva :max stats pepeW
+
+:sir_wonkz!sir_wonkz@sir_wonkz.tmi.twitch.tv PRIVMSG #qojqva :114
+
+:weareourdesires!weareourdesires@weareourdesires.tmi.twitch.tv PRIVMSG #qojqva :113
+
+:potatoheadgg!potatoheadgg@potatoheadgg.tmi.twitch.tv PRIVMSG #qojqva :@qojqva armlet into sny or deso
+
+:maxxxx2442!maxxxx2442@maxxxx2442.tmi.twitch.tv PRIVMSG #qojqva :MASAO
+
+:thepinhole!thepinhole@thepinhole.tmi.twitch.tv PRIVMSG #qojqva :why not just wait then search
+
+:rnzpwn!rnzpwn@rnzpwn.tmi.twitch.tv PRIVMSG #qojqva :Max R LUL
+
+:sh4nx!sh4nx@sh4nx.tmi.twitch.tv PRIVMSG #qojqva :imagine NOT buying mage slayer, what a clown pepeW
+
+:just_drama!just_drama@just_drama.tmi.twitch.tv PRIVMSG #qojqva :Go force staff first item broo
+
+:madhooshak!madhooshak@madhooshak.tmi.twitch.tv PRIVMSG #qojqva :all stats
+
+:trulli1234!trulli1234@trulli1234.tmi.twitch.tv PRIVMSG #qojqva :!np
+
+:9kmmrbot!9kmmrbot@9kmmrbot.tmi.twitch.tv PRIVMSG #qojqva :All Pick [9156 avg MMR]: qojqva (Lifestealer), Fervian (Undying)
+
+:fame1112!fame1112@fame1112.tmi.twitch.tv PRIVMSG #qojqva :did he win the tiny game
+
+:thegreatperu!thegreatperu@thegreatperu.tmi.twitch.tv PRIVMSG #qojqva :@i_deep_dark_fantasy_i pepeW
+
+:sanxchit!sanxchit@sanxchit.tmi.twitch.tv PRIVMSG #qojqva :@qojqva points in feast for sustain
+
+:paid_actor_3!paid_actor_3@paid_actor_3.tmi.twitch.tv PRIVMSG #qojqva :MASAO no stream Sadge
+
+:the_johnnydigital!the_johnnydigital@the_johnnydigital.tmi.twitch.tv PRIVMSG #qojqva :you usuaklly max feast with value point in q and w but mid u might want to max w
+
+:dogdotaplay3r!dogdotaplay3r@dogdotaplay3r.tmi.twitch.tv PRIVMSG #qojqva :@i_deep_dark_fantasy_i ban this guy?
+
+:12yearoldnoscoper!12yearoldnoscoper@12yearoldnoscoper.tmi.twitch.tv PRIVMSG #qojqva :max ulti first
+
+:mirrabellesnus!mirrabellesnus@mirrabellesnus.tmi.twitch.tv PRIVMSG #qojqva :why is graphic kinda poop, strim or puter?
+
+:wer_ist_der_baba!wer_ist_der_baba@wer_ist_der_baba.tmi.twitch.tv PRIVMSG #qojqva :armlet deso
+
+:theelectriccheese!theelectriccheese@theelectriccheese.tmi.twitch.tv PRIVMSG #qojqva :this is such a dogshit naix game.
+
+:weareourdesires!weareourdesires@weareourdesires.tmi.twitch.tv PRIVMSG #qojqva :113 put then another lvl into rage so you can tp out
+
+:bountiehuntr!bountiehuntr@bountiehuntr.tmi.twitch.tv PRIVMSG #qojqva :4-0-2-1 at lvl 7
+
+:teamliquid!teamliquid@teamliquid.tmi.twitch.tv PRIVMSG #qojqva :THE NEW LIQUID X MARVEL SPIDER-MAN COLLECTION IS AVAILABLE NOW:  go.adv.gg/XdzuEO
+
+:i_deep_dark_fantasy_i!i_deep_dark_fantasy_i@i_deep_dark_fantasy_i.tmi.twitch.tv PRIVMSG #qojqva :N1GGЕRS
+
+:d_b123!d_b123@d_b123.tmi.twitch.tv PRIVMSG #qojqva :armlet deso
+
+PING :tmi.twitch.tv
+
+:paid_actor_3!paid_actor_3@paid_actor_3.tmi.twitch.tv PRIVMSG #qojqva :cmonBruh
+
+:dotaharen!dotaharen@dotaharen.tmi.twitch.tv PRIVMSG #qojqva :why is lesh bad rn_
+
+:i_deep_dark_fantasy_i!i_deep_dark_fantasy_i@i_deep_dark_fantasy_i.tmi.twitch.tv PRIVMSG #qojqva :I HATE N1GGЕRS
+
+:ev3n!ev3n@ev3n.tmi.twitch.tv PRIVMSG #qojqva :cmonBruh
+
+:damightyroxx!damightyroxx@damightyroxx.tmi.twitch.tv PRIVMSG #qojqva :armlet dagger dagon s/j eul
+
+:glacialgaming!glacialgaming@glacialgaming.tmi.twitch.tv PRIVMSG #qojqva :@i_deep_dark_fantasy_i baaaan!
+
+:just_drama!just_drama@just_drama.tmi.twitch.tv PRIVMSG #qojqva :Woa
+
+:rash_08!rash_08@rash_08.tmi.twitch.tv PRIVMSG #qojqva :cmonBruh
+
+:rnzpwn!rnzpwn@rnzpwn.tmi.twitch.tv PRIVMSG #qojqva :cmonBruh
+

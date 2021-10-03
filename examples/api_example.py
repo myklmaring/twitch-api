@@ -3,7 +3,7 @@
 # Date:   8/16/21                                                                     #
 #                                                                                     #
 # Purpose: Example Python Twitch API Code                                             #
-# Description: Finds the broadcaster ID for moonmoonusing their channel name          #
+# Description: Finds the broadcaster ID for user with their channel name              #
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 #      Find alternate API requests at https://dev.twitch.tv/docs/api/reference        #
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
@@ -29,7 +29,7 @@ url_auth = 'https://id.twitch.tv/oauth2/token?client_id={}&' \
 token = requests.post(url_auth).json()['access_token']
 
 # reference: https://dev.twitch.tv/docs/api/reference#get-users
-url_get = 'https://api.twitch.tv/helix/users?login=pyramid_spammer69'
+url_get = 'https://api.twitch.tv/helix/users?login=dunkorslam'
 header = {'Authorization': 'Bearer ' + token,
           'Client-ID': client_id}
 

@@ -5,11 +5,10 @@ import re
 import random
 import json
 import requests
+import hmac
+import hashlib
 from flask import Flask, request
 app = Flask(__name__)
-
-# global variable to collect chat logs only while online
-online = 0  # stream online/offline flag
 
 def get_tunnel():
     req = requests.get("http://localhost:4040/api/tunnels")
@@ -22,7 +21,7 @@ def get_tunnel():
     return name
 
 
-def create_dict():
+def create_dict(args):
 
     mydict = {
             'users': {
@@ -36,7 +35,7 @@ def create_dict():
 
     year, month, day, _, _, _, _, _, _ = time.localtime(time.time())
 
-    file = f'{channel}_{year}_{month}_{day}.json'
+    file = f'{args.channel}_{year}_{month}_{day}.json'
 
     with open(file) as f:
         json.dump(mydict, f)
@@ -57,7 +56,7 @@ def generate_token(client_id, client_secret):
     return token
 
 
-def create_stream_webhook(token, client_id, broadcaster_id, event_type):
+def create_stream_webhook(token, client_id, broadcaster_id, event_type, webhook_key):
     url_post = 'https://api.twitch.tv/helix/eventsub/subscriptions'
 
     callback = get_tunnel() + '/webhook'
@@ -112,19 +111,22 @@ def verify_signature(header, body, credentials):
     return
 
 
+def parse_message():
+    pass
+
+
 @app.route('/webhook', methods=['POST'])
 def respond():
 
     global online   # use global variable online
+    global file
     req = request.get_json()
 
     # return challenge and verify signature to finalize webhook subscription
     if 'challenge' in req:
-        file = '../not4github/app_credentials.json'
         code = verify_signature(request.headers, request.get_data(), file)
-
         if code == '403':
-            return "Incorrect Webhook Signature"
+            print("Incorrect Webhook Signature")
 
         return request.get_json()['challenge']
 
@@ -140,19 +142,36 @@ def respond():
 
 def chat_logger(irc, args):
 
+    global online   # use global variable online
+
+    year, month, day, _, _, _, _, _, _ = time.localtime(time.time())
+    file = f'{args.channel}_{year}_{month}_{day}.json'
+
     # open file if it exists, otherwise create the file/dictionary
     if args.output_file:
-        with open(args.output_file, 'r') as f:
+        with open(file, 'r') as f:
             mydict = json.load(f)
     else:
-        with open(args.output_file, 'w') as f:
-            mydict = create_dict()
-
+        mydict = create_dict(args)
 
     flag = 1
+    start = time.time()
+
+    if args.duration > 0:
+        end = start + args.duration
+    else:
+        end = float('inf')
+
     while flag:
         line = irc.get_response()
-        if verbose: print(line)
+        if verbose == 'true':
+            print(line)
+
+        if online == 1:
+            print('stream online')
+
+        if time.time() > end:
+            break
 
     pass
 
@@ -165,31 +184,38 @@ if __name__ == "__main__":
     parser.add_argument("--port", default=6667, type=int, help="port for irc client connection (if ssl, use 6697)")
     parser.add_argument("--channel", default="#admiralbulldog", type=str,
                         help="channel to connect to on Twitch, must be lower case and prefixed by #")
+    parser.add_argument("--verbose", type=str, default='false', help="increases the amount of print-out")
+    parser.add_argument("--output-file", type=str, help='json file for storing chat logs and metadata')
     parser.add_argument("--user", type=str, help="user profile ")
     parser.add_argument("--password", type=str, help="user oauth password, must be prefixed by oauth:"
                                                      "This can be obtained at https://twitchapps.com/tmi/.")
-    parser.add_argument("--duration", type=float, help="length of time to run the program in seconds")
-    parser.add_argument("--verbose", help="increases the amount of print-out")
-    parser.add_argument("--output-file", type=str, help='json file for storing chat logs and metadata')
+    parser.add_argument("--duration", type=float, help="length of time to run the program in seconds. Put (-1) if you "
+                                                       "want to run it indefinitely")
+    parser.add_argument("--broadcaster-id", type=str, help="ID of the channel")
+    parser.add_argument('--tags', dest='tag', action='store_true')
+    parser.add_argument('--no-tags', dest='tag', action='store_false')
+    parser.set_defaults(tag=False)
 
     args = parser.parse_args()
 
-    token, header = generate_token(args.client_id, args.client_secret)
+    # global variable to collect chat logs only while online
+    online = 0  # stream online/offline flag
+    file = 'app_credentials.json'
 
-    # API style requests
-    url_bulldog = 'https://api.twitch.tv/helix/streams?user_id=30816637'
-    url_mason = ''
-    streamer_id = {'admiralbulldog': '30816637',
-                   'masondota2': '40754777',
-                   'pyramid_spammer69': '644999039',
-                   'sixtyeight_plus_one': '229530515'}
 
-    ignore_patterns = {'':''}
+    with open(file) as f:
+        data = json.load(f)
+    client_id = data['markov_chain_bot']['client_id']
+    client_secret = data['markov_chain_bot']['client_secret']
+    webhook_key = data['markov_chain_bot']['webhook_key']
+
+    token = generate_token(client_id, client_secret)
+    create_stream_webhook(token, client_id, args.broadcaster_id, 'stream.online', webhook_key)
 
     # IRC Chat logger
     irc = IRC()
     irc.connect(args.server, args.port, args.user, args.password)
-    irc.channel_join(args.channel)
+    irc.channel_join(args.channel, tag=args.tag)
 
     # run the things
     app.run(port=8443)
