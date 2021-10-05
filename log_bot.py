@@ -2,6 +2,7 @@ from irc_commands import *
 import argparse
 import time
 import re
+import os
 import random
 import json
 import requests
@@ -19,28 +20,6 @@ def get_tunnel():
         name = name[:4] + 's' + name[4:]
 
     return name
-
-
-def create_dict(args):
-
-    mydict = {
-            'users': {
-                'name': '',
-                'id': '',
-                'status': '',
-                'logs': []
-            },
-            'metadata': []
-        }
-
-    year, month, day, _, _, _, _, _, _ = time.localtime(time.time())
-
-    file = f'{args.channel}_{year}_{month}_{day}.json'
-
-    with open(file) as f:
-        json.dump(mydict, f)
-
-    return mydict
 
 
 def generate_token(client_id, client_secret):
@@ -111,8 +90,49 @@ def verify_signature(header, body, credentials):
     return
 
 
-def parse_message():
-    pass
+def parse_line(line, tag=False):
+    pattern = r':(.*)!.*@.*.tmi.twitch.tv PRIVMSG #(.*) :(.*)'
+    data = {}
+
+    if tag:
+        pattern1 = r'@badge-info=(.*);badges=(.*);client-nonce=(.*);color=(.*);display-name=(.*);emotes=(.*);flags=(.*);id=(.*);mod=(.*);' \
+                   r'room-id=(.*);subscriber=(.*);tmi-sent-ts=(.*);turbo=(.*);user-id=(.*);user-type=(.*?) :'
+        g = re.search(pattern, line)
+        h = re.search(pattern1, line)
+
+        if g:
+            data['user-name'] = g.groups()[0]
+            data['channel-name'] = g.groups()[1]
+            data['msg'] = g.groups()[2]
+
+        if h:
+            data['badge-info'] = h.groups()[0]
+            data['badges'] = h.groups()[1]
+            data['client-nonce'] = h.groups()[2]
+            data['color'] = h.groups()[3]
+            # data['display-name'] = h.groups[4]
+            data['emotes'] = h.groups()[5]
+            data['flags'] = h.groups()[6]
+            data['id'] = h.groups()[7]
+            data['mod'] = h.groups()[8]
+            data['room-id'] = h.groups()[9]
+            data['subscriber'] = h.groups()[10]
+            data['tmi-sent-ts'] = h.groups()[11]
+            data['turbo'] = h.groups()[12]
+            data['user-id'] = h.groups()[13]
+            data['user-type'] = h.groups()[14]
+
+        return data
+
+    else:
+        g = re.match(pattern, line)
+
+        if g:
+            data['user-name'] = g.groups[0]
+            data['channel-name'] = g.groups[1]
+            data['msg'] = g.groups[2]
+
+        return data
 
 
 @app.route('/webhook', methods=['POST'])
@@ -134,44 +154,81 @@ def respond():
     if 'event' in req:
         if req['subscription']['type'] == 'stream.online':
             online = 1
+            print('stream turned on')
         if req['subscription']['type'] == 'stream.offline':
             online = 0
+            print('stream turned off')
 
     return 'ok'
 
 
 def chat_logger(irc, args):
-
-    global online   # use global variable online
+    global online  # use global variable online
 
     year, month, day, _, _, _, _, _, _ = time.localtime(time.time())
     file = f'{args.channel}_{year}_{month}_{day}.json'
 
-    # open file if it exists, otherwise create the file/dictionary
-    if args.output_file:
+    # create dictionary if it does not already exist
+    if os.path.exists(file):
         with open(file, 'r') as f:
             mydict = json.load(f)
     else:
-        mydict = create_dict(args)
+        mydict = {'users': {},
+                  'date': f'{day}_{month}_{year}',
+                  'channel': args.channel}
 
-    flag = 1
+    # Figure out when to stop running the chat logging
     start = time.time()
-
     if args.duration > 0:
         end = start + args.duration
     else:
         end = float('inf')
 
-    while flag:
-        line = irc.get_response()
-        if verbose == 'true':
-            print(line)
+    try:
+        flag = 1
+        while flag:
 
-        if online == 1:
-            print('stream online')
+            # check if chat log collection has exceeded duration
+            if time.time() > end:
+                print('chat log collection duration exceeded')
+                with open(file, 'w') as f:
+                    json.dump(mydict, f)
+                break
 
-        if time.time() > end:
-            break
+            line = irc.get_response()
+
+            # only store messages when stream is on
+            if online:
+                data = parse_line(line, tag=args.tag)
+                if args.verb:
+                    print(line)
+
+                # check if line was a message
+                if data.keys().__len__() == 0:
+                    continue
+
+                if args.tag:
+                    # check if chatter is in dictionary, if not create an entry for them
+                    if data['user-name'] not in mydict['users'].keys():
+                        mydict['users'][data['user-name']] = {'id': data['user-id'],
+                                                              'sub': data['subscriber'],
+                                                              'mod': data['mod'],
+                                                              'logs': []}
+
+                    mydict['users'][data['user-name']]['logs'].append(data['msg'])
+
+                else:
+                    if data['user-name'] not in mydict['users'].keys():
+                        mydict['users'][data['user-name']] = {'logs': []}
+
+                    mydict['users'][data['user-name']]['logs'].append(data['msg'])
+
+    # save dictionary upon exiting program on terminal
+    except KeyboardInterrupt:
+        with open(file, 'w') as f:  # save dictionary before exiting
+            json.dump(mydict, f)
+        print('chat log collection stopped manually')
+        print('dictionary saved')
 
     pass
 
@@ -184,8 +241,6 @@ if __name__ == "__main__":
     parser.add_argument("--port", default=6667, type=int, help="port for irc client connection (if ssl, use 6697)")
     parser.add_argument("--channel", default="#admiralbulldog", type=str,
                         help="channel to connect to on Twitch, must be lower case and prefixed by #")
-    parser.add_argument("--verbose", type=str, default='false', help="increases the amount of print-out")
-    parser.add_argument("--output-file", type=str, help='json file for storing chat logs and metadata')
     parser.add_argument("--user", type=str, help="user profile ")
     parser.add_argument("--password", type=str, help="user oauth password, must be prefixed by oauth:"
                                                      "This can be obtained at https://twitchapps.com/tmi/.")
@@ -195,6 +250,9 @@ if __name__ == "__main__":
     parser.add_argument('--tags', dest='tag', action='store_true')
     parser.add_argument('--no-tags', dest='tag', action='store_false')
     parser.set_defaults(tag=False)
+    parser.add_argument('--verbose', dest='verb', action='store_true')
+    parser.add_argument('--no-verbose', dest='verb', action='store_false')
+    parser.set_defaults(verb=False)
 
     args = parser.parse_args()
 
@@ -202,15 +260,17 @@ if __name__ == "__main__":
     online = 0  # stream online/offline flag
     file = 'app_credentials.json'
 
-
     with open(file) as f:
         data = json.load(f)
     client_id = data['markov_chain_bot']['client_id']
     client_secret = data['markov_chain_bot']['client_secret']
     webhook_key = data['markov_chain_bot']['webhook_key']
 
+    # generate token and webhooks
     token = generate_token(client_id, client_secret)
     create_stream_webhook(token, client_id, args.broadcaster_id, 'stream.online', webhook_key)
+    create_stream_webhook(token, client_id, args.broadcaster_id, 'stream.offline', webhook_key)
+    print('webhooks created')
 
     # IRC Chat logger
     irc = IRC()
@@ -218,5 +278,7 @@ if __name__ == "__main__":
     irc.channel_join(args.channel, tag=args.tag)
 
     # run the things
+    year, month, day, hour, min, sec, _, _, _ = time.localtime(time.time())
+    print(f'starting chat log collection: date {day}/{month}/{year} | {hour}h : {min}m : {sec}s')
     app.run(port=8443)
     chat_logger(irc, args)
