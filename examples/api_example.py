@@ -29,7 +29,7 @@ url_auth = 'https://id.twitch.tv/oauth2/token?client_id={}&' \
 token = requests.post(url_auth).json()['access_token']
 
 # reference: https://dev.twitch.tv/docs/api/reference#get-users
-url_get = 'https://api.twitch.tv/helix/users?login=dunkorslam'
+url_get = 'https://api.twitch.tv/helix/users?login=qojqva'
 header = {'Authorization': 'Bearer ' + token,
           'Client-ID': client_id}
 

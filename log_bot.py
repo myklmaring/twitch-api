@@ -9,6 +9,8 @@ import requests
 import hmac
 import hashlib
 from flask import Flask, request
+from multiprocessing import Process
+
 app = Flask(__name__)
 
 def get_tunnel():
@@ -91,11 +93,14 @@ def verify_signature(header, body, credentials):
 
 
 def parse_line(line, tag=False):
-    pattern = r':(.*)!.*@.*.tmi.twitch.tv PRIVMSG #(.*) :(.*)'
+    pattern = r':([^\n\s]*?)!.*@.*.tmi.twitch.tv PRIVMSG #(.*) :(.*)'
     data = {}
 
+    print(line)
+    print("\n")
+
     if tag:
-        pattern1 = r'@badge-info=(.*);badges=(.*);client-nonce=(.*);color=(.*);display-name=(.*);emotes=(.*);flags=(.*);id=(.*);mod=(.*);' \
+        pattern1 = r'@badge-info=(.*);badges=(.*);(?:.*)color=(.*);display-name=(.*);emotes=(.*);flags=(.*);id=(.*);mod=(.*);' \
                    r'room-id=(.*);subscriber=(.*);tmi-sent-ts=(.*);turbo=(.*);user-id=(.*);user-type=(.*?) :'
         g = re.search(pattern, line)
         h = re.search(pattern1, line)
@@ -103,24 +108,23 @@ def parse_line(line, tag=False):
         if g:
             data['user-name'] = g.groups()[0]
             data['channel-name'] = g.groups()[1]
-            data['msg'] = g.groups()[2]
+            data['msg'] = g.groups()[2].strip()
 
         if h:
             data['badge-info'] = h.groups()[0]
             data['badges'] = h.groups()[1]
-            data['client-nonce'] = h.groups()[2]
-            data['color'] = h.groups()[3]
-            # data['display-name'] = h.groups[4]
-            data['emotes'] = h.groups()[5]
-            data['flags'] = h.groups()[6]
-            data['id'] = h.groups()[7]
-            data['mod'] = h.groups()[8]
-            data['room-id'] = h.groups()[9]
-            data['subscriber'] = h.groups()[10]
-            data['tmi-sent-ts'] = h.groups()[11]
-            data['turbo'] = h.groups()[12]
-            data['user-id'] = h.groups()[13]
-            data['user-type'] = h.groups()[14]
+            data['color'] = h.groups()[2]
+            # data['display-name'] = h.groups[3]
+            data['emotes'] = h.groups()[4]
+            data['flags'] = h.groups()[5]
+            data['id'] = h.groups()[6]
+            data['mod'] = h.groups()[7]
+            data['room-id'] = h.groups()[8]
+            data['subscriber'] = h.groups()[9]
+            data['tmi-sent-ts'] = h.groups()[10]
+            data['turbo'] = h.groups()[11]
+            data['user-id'] = h.groups()[12]
+            data['user-type'] = h.groups()[13]
 
         return data
 
@@ -166,7 +170,7 @@ def chat_logger(irc, args):
     global online  # use global variable online
 
     year, month, day, _, _, _, _, _, _ = time.localtime(time.time())
-    file = f'{args.channel}_{year}_{month}_{day}.json'
+    file = args.savepath + f'/{args.channel[1:]}_{year}_{month}_{day}.json'
 
     # create dictionary if it does not already exist
     if os.path.exists(file):
@@ -179,7 +183,7 @@ def chat_logger(irc, args):
 
     # Figure out when to stop running the chat logging
     start = time.time()
-    if args.duration > 0:
+    if args.duration >= 0:
         end = start + args.duration
     else:
         end = float('inf')
@@ -197,11 +201,14 @@ def chat_logger(irc, args):
 
             line = irc.get_response()
 
-            # only store messages when stream is on
+            # # only store messages when stream is on
             if online:
+
                 data = parse_line(line, tag=args.tag)
+
                 if args.verb:
                     print(line)
+                    print("\n")
 
                 # check if line was a message
                 if data.keys().__len__() == 0:
@@ -224,7 +231,7 @@ def chat_logger(irc, args):
                     mydict['users'][data['user-name']]['logs'].append(data['msg'])
 
     # save dictionary upon exiting program on terminal
-    except KeyboardInterrupt:
+    except (KeyboardInterrupt, ConnectionResetError):
         with open(file, 'w') as f:  # save dictionary before exiting
             json.dump(mydict, f)
         print('chat log collection stopped manually')
@@ -247,6 +254,8 @@ if __name__ == "__main__":
     parser.add_argument("--duration", type=float, help="length of time to run the program in seconds. Put (-1) if you "
                                                        "want to run it indefinitely")
     parser.add_argument("--broadcaster-id", type=str, help="ID of the channel")
+    parser.add_argument('--savepath', type=str, default='logs', help='folder to save chat log output')
+
     parser.add_argument('--tags', dest='tag', action='store_true')
     parser.add_argument('--no-tags', dest='tag', action='store_false')
     parser.set_defaults(tag=False)
@@ -257,8 +266,8 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # global variable to collect chat logs only while online
-    online = 0  # stream online/offline flag
-    file = 'app_credentials.json'
+    online = 1  # stream online/offline flag
+    file = '../not4github/app_credentials.json'
 
     with open(file) as f:
         data = json.load(f)
@@ -280,5 +289,13 @@ if __name__ == "__main__":
     # run the things
     year, month, day, hour, min, sec, _, _, _ = time.localtime(time.time())
     print(f'starting chat log collection: date {day}/{month}/{year} | {hour}h : {min}m : {sec}s')
-    app.run(port=8443)
+
+    keywords = {'port': 8443}
+    p1 = Process(target=app.run, kwargs=keywords)
+    p1.start()
+
     chat_logger(irc, args)
+
+    # code terminates normally
+    p1.terminate()
+    p1.join()
