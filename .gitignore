@@ -2,3 +2,4 @@
 # Folder and File ignore list
 __pycache__/**
 logs/**/**
+!logs/examples/*.json
