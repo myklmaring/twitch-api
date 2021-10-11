@@ -96,9 +96,6 @@ def parse_line(line, tag=False):
     pattern = r':([^\n\s]*?)!.*@.*.tmi.twitch.tv PRIVMSG #(.*) :(.*)'
     data = {}
 
-    print(line)
-    print("\n")
-
     if tag:
         pattern1 = r'@badge-info=(.*);badges=(.*);(?:.*)color=(.*);display-name=(.*);emotes=(.*);flags=(.*);id=(.*);mod=(.*);' \
                    r'room-id=(.*);subscriber=(.*);tmi-sent-ts=(.*);turbo=(.*);user-id=(.*);user-type=(.*?) :'
@@ -170,7 +167,11 @@ def chat_logger(irc, args):
     global online  # use global variable online
 
     year, month, day, _, _, _, _, _, _ = time.localtime(time.time())
-    file = args.savepath + f'/{args.channel[1:]}_{year}_{month}_{day}.json'
+    file = args.savepath + '/' + args.channel[1:] + '/' + f'{args.channel[1:]}_{day}_{month}_{year}.json'
+
+    # make log folder for channel if it does not exist
+    if not os.path.isdir(args.savepath + '/' + args.channel[1:]):
+        os.mkdir(args.savepath + '/' + args.channel[1:])
 
     # create dictionary if it does not already exist
     if os.path.exists(file):
@@ -190,6 +191,7 @@ def chat_logger(irc, args):
 
     try:
         flag = 1
+        save_inter = 1
         while flag:
 
             # check if chat log collection has exceeded duration
@@ -199,7 +201,11 @@ def chat_logger(irc, args):
                     json.dump(mydict, f)
                 break
 
-            line = irc.get_response()
+            # Sometimes get UnicodeDecodeError trying to process message from twitch
+            try:
+                line = irc.get_response()
+            except UnicodeDecodeError:
+                continue
 
             # # only store messages when stream is on
             if online:
@@ -214,21 +220,33 @@ def chat_logger(irc, args):
                 if data.keys().__len__() == 0:
                     continue
 
-                if args.tag:
-                    # check if chatter is in dictionary, if not create an entry for them
-                    if data['user-name'] not in mydict['users'].keys():
-                        mydict['users'][data['user-name']] = {'id': data['user-id'],
-                                                              'sub': data['subscriber'],
-                                                              'mod': data['mod'],
-                                                              'logs': []}
+                # sometimes the messages get grouped together or split up,
+                #   which gives KeyError b/c some fields are missing
+                try:
+                    if args.tag:
+                        # check if chatter is in dictionary, if not create an entry for them
+                        if data['user-name'] not in mydict['users'].keys():
+                            mydict['users'][data['user-name']] = {'id': data['user-id'],
+                                                                  'sub': data['subscriber'],
+                                                                  'mod': data['mod'],
+                                                                  'logs': []}
+    
+                        mydict['users'][data['user-name']]['logs'].append(data['msg'])
 
-                    mydict['users'][data['user-name']]['logs'].append(data['msg'])
+                    else:
+                        if data['user-name'] not in mydict['users'].keys():
+                            mydict['users'][data['user-name']] = {'logs': []}
 
-                else:
-                    if data['user-name'] not in mydict['users'].keys():
-                        mydict['users'][data['user-name']] = {'logs': []}
+                        mydict['users'][data['user-name']]['logs'].append(data['msg'])
 
-                    mydict['users'][data['user-name']]['logs'].append(data['msg'])
+                except KeyError:
+                    continue
+
+                # save chat logs intermittently (every hour)
+                if time.time() > (start + save_inter * 3600):
+                    with open(file, 'w') as f:  # save dictionary before exiting
+                        json.dump(mydict, f)
+                    save_inter += 1
 
     # save dictionary upon exiting program on terminal
     except (KeyboardInterrupt, ConnectionResetError):
@@ -256,17 +274,18 @@ if __name__ == "__main__":
     parser.add_argument("--broadcaster-id", type=str, help="ID of the channel")
     parser.add_argument('--savepath', type=str, default='logs', help='folder to save chat log output')
 
+
+    parser.add_argument('--stream-on', dest='stream', action='store_true')
+    parser.set_defaults(stream=False)
     parser.add_argument('--tags', dest='tag', action='store_true')
-    parser.add_argument('--no-tags', dest='tag', action='store_false')
     parser.set_defaults(tag=False)
     parser.add_argument('--verbose', dest='verb', action='store_true')
-    parser.add_argument('--no-verbose', dest='verb', action='store_false')
     parser.set_defaults(verb=False)
 
     args = parser.parse_args()
 
     # global variable to collect chat logs only while online
-    online = 1  # stream online/offline flag
+    online = args.stream  # stream online/offline flag
     file = '../not4github/app_credentials.json'
 
     with open(file) as f:

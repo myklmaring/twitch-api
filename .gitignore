@@ -1,0 +1,4 @@
+
+# Folder and File ignore list
+__pycache__/**
+logs/**/**
