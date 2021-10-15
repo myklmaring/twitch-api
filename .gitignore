@@ -2,4 +2,6 @@
 # Folder and File ignore list
 __pycache__/**
 logs/**/**
+test/**
 !logs/examples/*.json
+*.pkl
