@@ -5,3 +5,4 @@ logs/**/**
 test/**
 !logs/examples/*.json
 *.pkl
+test.py

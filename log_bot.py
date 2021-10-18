@@ -9,9 +9,37 @@ import requests
 import hmac
 import hashlib
 from flask import Flask, request
-from multiprocessing import Process
+from multiprocessing import Process, Value
 
 app = Flask(__name__)
+
+
+@app.route('/webhook', methods=['POST'])
+def respond():
+
+    global online   # use global variable online
+    global credentials
+    req = request.get_json()
+
+    # return challenge and verify signature to finalize webhook subscription
+    if 'challenge' in req:
+        code = verify_signature(request.headers, request.get_data(), credentials)
+        if code == '403':
+            print("Incorrect Webhook Signature")
+
+        return request.get_json()['challenge']
+
+    # webhook sends you info
+    if 'event' in req:
+        if req['subscription']['type'] == 'stream.online':
+            online.value = 1
+            print('stream turned on')
+        if req['subscription']['type'] == 'stream.offline':
+            online.value = 0
+            print('stream turned off')
+
+    return 'ok'
+
 
 def get_tunnel():
     req = requests.get("http://localhost:4040/api/tunnels")
@@ -136,33 +164,6 @@ def parse_line(line, tag=False):
         return data
 
 
-@app.route('/webhook', methods=['POST'])
-def respond():
-
-    global online   # use global variable online
-    global file
-    req = request.get_json()
-
-    # return challenge and verify signature to finalize webhook subscription
-    if 'challenge' in req:
-        code = verify_signature(request.headers, request.get_data(), file)
-        if code == '403':
-            print("Incorrect Webhook Signature")
-
-        return request.get_json()['challenge']
-
-    # webhook sends you info
-    if 'event' in req:
-        if req['subscription']['type'] == 'stream.online':
-            online = 1
-            print('stream turned on')
-        if req['subscription']['type'] == 'stream.offline':
-            online = 0
-            print('stream turned off')
-
-    return 'ok'
-
-
 def chat_logger(irc, args):
     global online  # use global variable online
 
@@ -207,8 +208,8 @@ def chat_logger(irc, args):
             except UnicodeDecodeError:
                 continue
 
-            # # only store messages when stream is on
-            if online:
+            # only store messages when stream is on
+            if online.value:
 
                 data = parse_line(line, tag=args.tag)
 
@@ -285,10 +286,11 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # global variable to collect chat logs only while online
-    online = args.stream  # stream online/offline flag
-    file = '../not4github/app_credentials.json'
+    online = Value('b', args.stream)    # stream online/offline flag
 
-    with open(file) as f:
+    credentials = '../not4github/app_credentials.json'
+
+    with open(credentials) as f:
         data = json.load(f)
     client_id = data['markov_chain_bot']['client_id']
     client_secret = data['markov_chain_bot']['client_secret']
