@@ -56,6 +56,7 @@ if __name__ == "__main__":
     parser.add_argument("--user", type=str, help="user profile ")
     parser.add_argument("--duration", type=float, help="length of time to run the program in seconds."
                                                        "Runs indefinitely if value is negative")
+    parser.add_argument("--token", type=str, help="IRC chat token. This can be obtained at https://twitchapps.com/tmi/")
     parser.add_argument("--save", type=str, default='true', help="Save chat logs or not. Options are false or true.")
     parser.add_argument("--verbose", type=str, default='false', help="print output from twitch chat in terminal."
                                                                      "Options are false or true")
@@ -65,14 +66,9 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
-    # This is a chat IRC token.  This can be obtained at https://twitchapps.com/tmi/
-    token = 'oauth:nn2cbf5ysbvosk2tgzz31wdnzfpm2d'
-    # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
-
     # IRC Chat logger
     irc = IRC()
-    irc.connect(args.server, args.port, args.user, token)
+    irc.connect(args.server, args.port, args.user, args.token)
     irc.channel_join(args.channel, tag=args.tag)
 
     chat_logger(irc, args)

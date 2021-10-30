@@ -3,106 +3,146 @@ import numpy as np
 import os
 import json
 import pickle as pkl
+import re
 
-channel = 'admiralbulldog'
-path = 'logs/' + channel + '/'
-files = os.listdir(path)
 
-corpus = []
-vocab = {}
+def main(args):
+    path = 'logs/' + args.channel + '/'
+    files = os.listdir(path)
 
-for file in files:
-    with open(path + file) as f:
-        mydict = json.load(f)
+    corpus = []
+    vocab = {}
+    users_ignore = ['nightbot', '9kmmrbot', 'ayayayaboat', 'moobot', 'admiralbullbot', 'streamelements']
 
-    for user in mydict['users'].keys():
-        corpus.append(mydict['users'][user]['logs'])
+    for file in files:
+        with open(path + file) as f:
+            mydict = json.load(f)
 
-corpus = list(itertools.chain.from_iterable(corpus))
-corpus = [sent.split() for sent in corpus]
-vocab_list = list(itertools.chain.from_iterable(corpus))
+        corpus = [mydict['users'][user]['logs'] for user in mydict['users'].keys() if user not in users_ignore]
 
-# need to add some sentence filtering for commands (!mmr, !g)
-#   and channel bots (e.g. Nightbot, 9kmmrbot, ayayabot, moobot)
-# remove garbage words as well
+    corpus = list(itertools.chain.from_iterable(corpus))
 
-for word in vocab_list:
-    vocab[word] = vocab.get(word, 0) + 1
+    corpus = [sent.split() for sent in corpus]
+    vocab_list = list(itertools.chain.from_iterable(corpus))
 
-# We want to filter out infrequently used words because there aren't sufficient examples to model the behavior properly
-#    This can also be used to model unknown words in sentence seeds provided by people using the command in twitch chat
-#    I keep track of the commonly used ones because there are many more infrequent ones
+    for word in vocab_list:
+        vocab[word] = vocab.get(word, 0) + 1
 
-threshold = 3
-freq = set()
-unk = {}
-for key, counts in vocab.items():
-    if counts > threshold:
-        freq.add(key)
+    # We want to filter out infrequently used words because there aren't sufficient examples to model the behavior properly
+    #    This can also be used to model unknown words in sentence seeds provided by people using the command in twitch chat
+    #    I keep track of the commonly used ones because there are many more infrequent ones
 
-for sent in corpus:
-    for word1, word2 in zip(sent[:-1], sent[1:]):
-        if word1 not in freq and word2 in freq:                         # don't want UNK to UNK transition
-            unk[word2] = unk.get(word2, 0) + 1
+    threshold = 3
+    freq = set()
+    for key, counts in vocab.items():
+        if counts > threshold:
+            freq.add(key)
 
-# eliminate infrequent words
-corpus = [[word for word in sent if word in freq] for sent in corpus]
-corpus = [sent for sent in corpus if sent != []]
+    # command filtering (!mmr, !g)
+    pattern = r'(!\w+)'
+    commands = set()
+    for word in freq:
+        match = re.match(pattern, word)
+        if match:
+            commands.add(match.group(0))
+    freq = freq.difference(commands)
 
-# remove short sentences (i.e. only one word)
-corpus = [sent for sent in corpus if len(sent) > 1]
+    # garbage filtering
+    garbage = {'\x01ACTION', '\x01'}
+    freq = freq.difference(garbage)
 
-# Count tuples of (t-1, t)
-transition = {}
-for sent in corpus:
-    prevWord = sent[1]
-    for word in sent[1:]:
-        transition[(prevWord, word)] = transition.get((prevWord, word), 0) + 1
-        prevWord = word
+    # Remove copies of words (e.g. hello, HELLO)
 
-first = {}      # dictionary of words that begin sentences
-last = {}       # dictionary of words that terminate sentences
-for sent in corpus:
-    first[sent[0]] = first.get(sent[0], 0) + 1
-    last[sent[-1]] = last.get(sent[-1], 0) + 1
+    # Remove hyperlinks
 
-# convert dictionaries into numpy arrays
-vocabSort = sorted(list(vocab))
-N = len(vocabSort)
+    # eliminate infrequent words
+    corpus = [[word for word in sent if word in freq] for sent in corpus]
+    corpus = [sent for sent in corpus if sent != []]
+    vocab = {key: value for key, value in vocab.items() if key in freq}
 
-firstMat = np.zeros((N, 1))
-lastMat = np.zeros((1, N))
-transMat = np.zeros((N + 1, N + 1))                                 # extra row for UNK, extra col for END
+    transition = {}
+    first = {}      # dictionary of words that begin sentences
+    last = {}       # dictionary of words that terminate sentences
+    unk = {}        # dictionary of words that appear after unknown words
 
-for key in transition.keys():
-    index1 = vocabSort.index(key[0])
-    index2 = vocabSort.index(key[1])
-    transMat[index1, index2] = transition.get(key, 0)
+    for sent in corpus:
 
-for key in unk.keys():
-    index1 = vocabSort.index(key)
-    transMat[N, index1] = unk.get(key, 0)
+        if args.token:
+            if len(sent) == 1:
+                continue
 
-for key in last.keys():
-    index1 = vocabSort.index(key)
-    transMat[index1, N] = last.get(key, 0)
+        first[sent[0]] = first.get(sent[0], 0) + 1
+        last[sent[-1]] = last.get(sent[-1], 0) + 1
 
-for key in first.keys():
-    index1 = vocabSort.index(key)
-    firstMat[index1, 0] = first.get(vocabSort[index1], 0)
+        if len(sent) == 1:
+            continue
 
-# normalize matrices
-firstMat /= np.sum(firstMat, axis=0)
-transMat /= (np.sum(transMat, axis=0) + np.finfo(float).eps)        # add machine precision so not div by 0
+        for word1, word2 in zip(sent[:-1], sent[1:]):
+            if word1 not in freq and word2 in freq:     # don't want UNK to UNK transition
+                unk[word2] = unk.get(word2, 0) + 1
 
-# k-Smoothing
-k = 0.0005
-transMat += k
-transMat[N, N] = 0                                                  # Don't smooth UNK, END Transition
-transMat /= np.sum(transMat, axis=0)
+        prevWord = sent[1]
+        for word in sent[1:]:
+            transition[(prevWord, word)] = transition.get((prevWord, word), 0) + 1
+            prevWord = word
 
-print('Model Complete')
+    # convert dictionaries into numpy arrays
+    vocabSort = sorted(list(vocab.keys()))
+    N = len(vocabSort)
 
-file = 'model.pkl'
-with open(file, 'wb') as f:
-    pkl.dump(transMat, f)
+    firstMat = np.zeros((N, 1))
+    transMat = np.zeros((N + 1, N + 1))                                 # extra row for UNK, extra col for END (last)
+
+    for key in transition.keys():
+        index1 = vocabSort.index(key[0])
+        index2 = vocabSort.index(key[1])
+        transMat[index1, index2] = transition.get(key, 0)
+
+    for key in unk.keys():
+        index1 = vocabSort.index(key)
+        transMat[N, index1] = unk.get(key, 0)
+
+    for key in last.keys():
+        index1 = vocabSort.index(key)
+        transMat[index1, N] = last.get(key, 0)
+
+    for key in first.keys():
+        index1 = vocabSort.index(key)
+        firstMat[index1, 0] = first.get(vocabSort[index1], 0)
+
+    # normalize matrix rows
+    firstMat /= np.sum(firstMat)
+    transMat /= (np.sum(transMat, axis=1)[:, None] + np.finfo(float).eps)        # add machine precision so not div by 0
+
+    # k-Smoothing
+    k = args.ksmooth
+    transMat += k
+    transMat[N, N] = 0                                                  # Don't smooth UNK, END Transition
+    transMat /= (np.sum(transMat, axis=1)[:, None] + np.finfo(float).eps)
+
+    # Precompute Cumulative Sums
+    firstMat = np.cumsum(firstMat, axis=0)
+    transMat = np.cumsum(transMat, axis=1)
+
+    print('Model Complete')
+    data = {'transMat': transMat, 'firstMat': firstMat, 'vocabSort': vocabSort}
+
+    file = 'model.pkl'
+    with open(file, 'wb') as f:
+        pkl.dump(data, f)
+
+    return
+
+
+if __name__ == "__main__":
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--channel", default="admiralbulldog", type=str, help="The channel to make markov model from")
+    parser.add_argument("--ksmooth", default=0.0, type=float, help="Increase (higher) / Decrease (lower) low frequency"
+                                                                   "token to token transition. Minimum of 0")
+    parser.add_argument("--user-blacklist")
+    parser.add-argument("--token-blacklist")
+    parser.add_argument("--single", dest='token', action='store_true', help="Include single token sentences in the model")
+    parser.set_defaults(token=False)
+
+    main(args)
