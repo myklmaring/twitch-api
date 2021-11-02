@@ -3,6 +3,7 @@
 __pycache__/**
 logs/**/**
 test/**
+models/**
 !logs/examples/*.json
 *.pkl
 test.py

@@ -65,7 +65,7 @@ def main(args):
                     sent.append(ind)
 
                 # N-1 because of python indexing
-                while sent[-1] != (N-1) and len(sent) < 50:
+                while sent[-1] != (N-1) and len(sent) < args.maxSentLength:
                     row = transMat[sent[-1], :]
                     sample = np.random.random()
                     sent.append(np.argmax(row > sample))
@@ -90,6 +90,7 @@ if __name__ == "__main__":
     parser.add_argument("--token", type=str, help="user oauth password, must be prefixed by oauth:"
                                                      "This can be obtained at https://twitchapps.com/tmi/.")
     parser.add_argument("--model-path", default="model.pkl", type=str, help="path to markov model")
+    parser.add_argument("--maxSentLength", type=int, default=20, help="max length of generated sentence")
     parser.add_argument('--verbose', dest='verb', action='store_true')
     parser.set_defaults(verb=False)
 

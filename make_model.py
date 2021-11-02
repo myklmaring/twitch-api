@@ -4,6 +4,7 @@ import os
 import json
 import pickle as pkl
 import re
+import argparse
 
 
 def main(args):
@@ -18,11 +19,19 @@ def main(args):
         with open(path + file) as f:
             mydict = json.load(f)
 
-        corpus = [mydict['users'][user]['logs'] for user in mydict['users'].keys() if user not in users_ignore]
+        mylogs = [mydict['users'][user]['logs'] for user in mydict['users'].keys() if user not in users_ignore]
+        corpus.append(mylogs)
 
+    corpus = list(itertools.chain.from_iterable(corpus))
     corpus = list(itertools.chain.from_iterable(corpus))
 
     corpus = [sent.split() for sent in corpus]
+
+    # Sentence Length Filtering
+    corpus = [sent for sent in corpus if len(sent) <= args.maxSentLength]
+    corpus = [sent for sent in corpus if len(sent) >= args.minSentLength]
+
+
     vocab_list = list(itertools.chain.from_iterable(corpus))
 
     for word in vocab_list:
@@ -51,6 +60,8 @@ def main(args):
     garbage = {'\x01ACTION', '\x01'}
     freq = freq.difference(garbage)
 
+    # Blacklisted words (e.g. n word)
+
     # Remove copies of words (e.g. hello, HELLO)
 
     # Remove hyperlinks
@@ -66,10 +77,6 @@ def main(args):
     unk = {}        # dictionary of words that appear after unknown words
 
     for sent in corpus:
-
-        if args.token:
-            if len(sent) == 1:
-                continue
 
         first[sent[0]] = first.get(sent[0], 0) + 1
         last[sent[-1]] = last.get(sent[-1], 0) + 1
@@ -89,6 +96,9 @@ def main(args):
     # convert dictionaries into numpy arrays
     vocabSort = sorted(list(vocab.keys()))
     N = len(vocabSort)
+
+    print('Vocab Size: ', N)
+    print('Number of Sentences: ', len(corpus))
 
     firstMat = np.zeros((N, 1))
     transMat = np.zeros((N + 1, N + 1))                                 # extra row for UNK, extra col for END (last)
@@ -127,7 +137,10 @@ def main(args):
     print('Model Complete')
     data = {'transMat': transMat, 'firstMat': firstMat, 'vocabSort': vocabSort}
 
-    file = 'model.pkl'
+    if not os.path.isdir('logs'):
+        os.mkdir('logs')
+
+    file = 'models/model_' + args.channel + '.pkl'
     with open(file, 'wb') as f:
         pkl.dump(data, f)
 
@@ -140,9 +153,11 @@ if __name__ == "__main__":
     parser.add_argument("--channel", default="admiralbulldog", type=str, help="The channel to make markov model from")
     parser.add_argument("--ksmooth", default=0.0, type=float, help="Increase (higher) / Decrease (lower) low frequency"
                                                                    "token to token transition. Minimum of 0")
+    parser.add_argument("-minSentLength", default=2, type=int, help="minimum number of tokens to constitute a sentence")
+    parser.add_argument("-maxSentLength", default=50, type=int, help="maximum number of tokens to constitute a sentence")
     parser.add_argument("--user-blacklist")
-    parser.add-argument("--token-blacklist")
-    parser.add_argument("--single", dest='token', action='store_true', help="Include single token sentences in the model")
-    parser.set_defaults(token=False)
+    parser.add_argument("--token-blacklist")
+
+    args = parser.parse_args()
 
     main(args)
